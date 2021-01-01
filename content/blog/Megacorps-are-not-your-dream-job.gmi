@@ -1,4 +1,4 @@
-Megacorporations do not care about you. You’re worth nothing to them. Google made $66 billion in 2014 — even if you made an exorbitant $500K salary, you only cost them .00075% of that revenue. They are not invested in you. Why should you invest in them? Why should you give a company that isn’t invested in you 40+ hours of your week, half your waking life, the only life you get?
+Megacorporations¹ do not care about you. You’re worth nothing to them. Google made $66 billion in 2014 — even if you made an exorbitant $500K salary, you only cost them .00075% of that revenue. They are not invested in you. Why should you invest in them? Why should you give a company that isn’t invested in you 40+ hours of your week, half your waking life, the only life you get?
 
 You will have little to no meaningful autonomy, impact, or influence. Your manager’s manager’s manager’s manager (1) will exist, and (2) will not know your name, and probably not your manager’s name either. The company will be good at advertising their jobs, especially to fresh grads, and you will no doubt have dozens of cool project in mind that you’re itching to get involved with. You won’t be assigned any of them — all vacancies are already filled by tenured staff and nepotism. You’re more likely to work on a product you have hardly ever heard of or used, doing work that doesn’t interest you or meaningfully impact anyone you know.
 
@@ -12,6 +12,8 @@ They won’t care about you. They won’t be invested in you. They won’t give 
 
 Megacorps are, in fact, in the minority. There are tens of thousands of other tech companies that could use your help. Tech workers are in high demand — you have choices! You will probably be much happier at a small to mid-size company. The “dream job” megacorps have sold you on is just good marketing.
 
-¹ Political side thought: Amazon’s revenue in 2019 alone exceeds the GDP of 150 sovereign nations. Is undemocratic ownership of resources and power on that scale just?
+¹ EDIT @ 23:37 UTC: It bears clarifying that I'm referring to extremely large companies, at or near the scale of FAANG (Facebook, Apple, Amazon, Netflix, Google). Hundreds of billions of dollars or more in market cap.
 
-² Quick reminder that HR’s job is to protect the company, not you. This applies to any company, not just megacorps. If you have a problem that you need to bring to HR, you should have a lawyer draft that letter, and you should polish up your resume first.
+² Political side thought: Amazon’s revenue in 2019 alone exceeds the GDP of 150 sovereign nations. Is undemocratic ownership of resources and power on that scale just?
+
+³ Quick reminder that HR’s job is to protect the company, not you. This applies to any company, not just megacorps. If you have a problem that you need to bring to HR, you should have a lawyer draft that letter, and you should polish up your resume first.

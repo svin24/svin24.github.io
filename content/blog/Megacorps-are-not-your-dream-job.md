@@ -4,11 +4,14 @@ date: 2021-01-01
 outputs: [html, gemtext]
 ---
 
-Megacorporations *do not* care about you. You're worth nothing to them. Google
-made $66 billion in 2014 &mdash; even if you made an exorbitant $500K salary,
-you only cost them .00075% of that revenue. They are not invested in you. Why
-should you invest in them? Why should you give a company that isn't invested in
-you 40+ hours of your week, half your waking life, the *only* life you get?
+Megacorporations[^1] *do not* care about you. You're worth nothing to them.
+Google made $66 billion in 2014 &mdash; even if you made an exorbitant $500K
+salary, you only cost them .00075% of that revenue. They are not invested in
+you. Why should you invest in them? Why should you give a company that isn't
+invested in you 40+ hours of your week, half your waking life, the *only* life
+you get?
+
+[^1]: EDIT @ 23:37 UTC: It bears clarifying that I'm referring to extremely large companies, at or near the scale of FAANG (Facebook, Apple, Amazon, Netflix, Google). Hundreds of billions of dollars or more in market cap.
 
 You will have little to no meaningful autonomy, impact, or influence. Your
 manager's manager's manager's manager (1) will exist, and (2) will not know your
@@ -30,12 +33,12 @@ the other way. They acquire and dismantle competitors. They hire H1B's and
 subject them to payroll fraud and workplace abuse, confident that they can't
 quit without risking their visa. Megacorps are a faceless machine which is
 interested only in making as much money as possible with any resources at their
-disposal, among those being a budget which exceeds most national GDPs.[^1]
+disposal, among those being a budget which exceeds most national GDPs.[^2]
 
-[^1]: Political side thought: Amazon's revenue in 2019 alone exceeds the GDP of 150 sovereign nations. Is undemocratic ownership of resources and power on that scale just?
+[^2]: Political side thought: Amazon's revenue in 2019 alone exceeds the GDP of 150 sovereign nations. Is undemocratic ownership of resources and power on that scale just?
 
 If anything goes wrong in this heartless environment, you're going to be in a
-very weak position. If you go to HR[^2] for almost any dispute, they are
+very weak position. If you go to HR[^3] for almost any dispute, they are
 unlikely to help. If you quit, remember that they will have forced you to sign
 an NDA and a non-compete.  You're rolling the dice on whether or not they'll
 decide that you've overstepped (and they can *decide* that &mdash; the terms are
@@ -44,7 +47,7 @@ took home? They could easily spend 100x that on lawyers without breaking a
 sweat, and money is justice in the United States. You will likely have no
 recourse if they wrong you.
 
-[^2]: Quick reminder that HR's job is to protect the company, not you. This applies to any company, not just megacorps. If you have a problem that you need to bring to HR, you should have a lawyer draft that letter, and you should polish up your resume first.
+[^3]: Quick reminder that HR's job is to protect the company, not you. This applies to any company, not just megacorps. If you have a problem that you need to bring to HR, you should have a lawyer draft that letter, and you should polish up your resume first.
 
 They may hurt you, but even worse, they will make you hurt others. You will be
 complicit in their ruthlessness. Privacy dragnets, union busting, monopolistic
