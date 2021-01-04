@@ -28,7 +28,6 @@ tasks:
       -s https://aphyr.com/posts.atom \
       -s https://sourcehut.org/blog/index.xml \
       -s https://100r.co/links/rss.xml \
-      -s https://tonsky.me/blog/atom.xml \
       < webring-in.template \
       > layouts/partials/webring-out.html
     hugo
