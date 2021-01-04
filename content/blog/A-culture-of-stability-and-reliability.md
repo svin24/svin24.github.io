@@ -34,7 +34,7 @@ To this end, software projects can, and often should, draw a finish line. Or, if
 not a finish line, a curve for gradually backing off on feature introduction,
 raising the threshold of importance by which a new feature is considered.
 
-[Sway](https://github.com/wlroots/sway), for instance, was "completed" some time
+[Sway](https://github.com/swaywm/sway), for instance, was "completed" some time
 ago. We stopped accepting most major feature requests, preferring only to
 implement changes which were made necessary by external sources: notably,
 features implemented in i3, the project sway aimed to replace. The i3 project
