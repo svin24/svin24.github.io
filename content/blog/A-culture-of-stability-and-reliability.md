@@ -4,7 +4,7 @@ date: 2021-01-04
 outputs: [html, gemtext]
 ---
 
-There's an idea which encounters a bizzare level of resistance from the broader
+There's an idea which encounters a bizarre level of resistance from the broader
 software community: that software can be completed. This resistance manifests in
 several forms, perhaps the most common being the notion that a git repository
 which doesn't receive many commits is abandoned or less worthwhile. For my part,
