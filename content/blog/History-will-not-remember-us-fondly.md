@@ -82,6 +82,6 @@ cruelty in a time when we have access to greater wealth and resources than at
 any other time in history.
 
 Perhaps future generations won't remember us after all, considering that in that
-same relentless pursuit of process we are vigorously rendering the Earth
+same relentless pursuit of profits we are vigorously rendering the Earth
 uninhabitable. But, if they do live to remember us, they will remember us as a
 wicked, cruel, and unempathetic lot. We will be remembered in disgrace.
