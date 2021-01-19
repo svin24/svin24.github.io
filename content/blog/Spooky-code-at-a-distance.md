@@ -1,7 +1,7 @@
 ---
 title: Spooky action at a distance
 date: 2021-01-19
-formats: [html, gemtext]
+outputs: [html, gemtext]
 ---
 
 Einstein famously characterized the strangeness of quantum mechanics as "spooky
