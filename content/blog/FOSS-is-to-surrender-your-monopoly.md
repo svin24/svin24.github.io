@@ -55,7 +55,9 @@ to sell, some will develop an expertise with it and sell their skills as a
 consultant, some will re-package it in an easy-to-use fashion and charge people
 for the service. Others might come up with even more creative ways to monetize
 the software, like writing books about it. It will create wealth for everyone,
-not just the original authors.
+not just the original authors. And if you want it to create wealth for *you*,
+you are responsible for figuring out how. Building a business requires more work
+than just writing the software.
 
 This makes sense in terms of karmic justice, as it were. One of the most
 important advantages of making your software FOSS is that the global community
