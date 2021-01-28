@@ -1,6 +1,7 @@
 ---
 title: Use open platforms — or else
 date: 2021-01-28
+outputs: [html, gemtext]
 ---
 
 The ongoing events around [/r/wallstreetbets][0] teaches us, once again, about
