@@ -39,7 +39,7 @@ GME!
 But there is another way: free and open platforms, protocols, and standards.
 Instead of Discord, I could recommend [Matrix](https://matrix.org),
 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), or
-[Mumble](https://www.mumble.com/). These are not based on central corporate
+[Mumble](https://www.mumble.info). These are not based on central corporate
 ownership, but instead on publicly available standards that anyone can build
 on top of. The ownership of these platforms is distributed between its users,
 and thus aligned with their incentives.
