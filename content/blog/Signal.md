@@ -177,7 +177,7 @@ operators in many countries with various data extradition laws. This turns what
 would today be easy for the United States government to break and makes it much,
 much more difficult. Federation would also open the possibility for bridging the
 gap with several other open source secure chat platforms to all talk on the same
-federated network - which would spurn competition and be a great move for users
+federated network - which would spur competition and be a great move for users
 of all chat platforms.
 
 Moxie forbids you from distributing branded builds of the Signal app, and if you
