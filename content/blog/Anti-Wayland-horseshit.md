@@ -19,7 +19,7 @@ been correct 7 years ago. Regardless, I simply don't give a shit about you
 anymore. I've tried appealing to reason and rationally debunking each lie that
 some Wayland detractor flavor-of-the-week is touting to tow the party line, but
 it didn't work. So my new approach is "fuck you". None of the Wayland detractors
-have a clue. They don't understand Wayland, they don't understand X11, then
+have a clue. They don't understand Wayland, they don't understand X11, they
 don't understand Linux graphics or OpenGL or Vulkan or anything else in the
 stack. They don't even understand what it's like to use Wayland, because at most
 they might have spent 5 minutes installing it, realized that something was
