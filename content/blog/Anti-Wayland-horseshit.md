@@ -14,7 +14,7 @@ supporters have spent years harassing Wayland maintainers, contributors, and
 users. And it's time for it to fucking stop.
 
 Maybe Wayland doesn't work for your precious use-case. More likely, it *does*
-work, and you swallowed some propeganda based on an assumption which might have
+work, and you swallowed some propaganda based on an assumption which might have
 been correct 7 years ago. Regardless, I simply don't give a shit about you
 anymore. I've tried appealing to reason and rationally debunking each lie that
 some Wayland detractor flavor-of-the-week is touting to tow the party line, but
