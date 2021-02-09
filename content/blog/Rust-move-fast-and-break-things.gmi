@@ -13,8 +13,8 @@ C is not memory safe. It suffers from undefined behavior. These are valid compla
 
 A working C toolchain (say, cproc and qbe) can be written in a couple tens of thousands of lines of code. The only working Rust toolchain is tens of millions of lines of C++ and Rust code. How many undiscovered bugs do you think these two toolchains have when compared? How many of those are security issues? How much relative work would it be to debug them, or port them to new — or old — platforms? How often do these respective codebases churn, creating a larger maintenance burden and introducing new bugs/vulnerabilities? I can bootstrap a working C toolchain in about 10 minutes. I spent a week trying to do that for Rust, and failed. That matters.
 
-=> cproc https://sr.ht/~mcf/cproc/
-=> qbe https://c9x.me/compile/
+=> https://sr.ht/~mcf/cproc/ cproc
+=> https://c9x.me/compile/ qbe
 
 Rust is kind of cool, but it’s not a panacea. There are legitimate reasons to prefer C, both technical and moral, and Rust still needs a lot of work before it’s ready for the prime time in systems which prioritize stability, reliability, simplicity, and accessibility. Those of us who work with such systems, we feel like the Rust community has put its thumbs into its collective ears, sung “la la la” to our problems, and proceeded to stomp all over the software ecosystem like a toddler playing “Godzilla” with their Lego, all the while yelling at us old fogies for being old and fogey.
 
