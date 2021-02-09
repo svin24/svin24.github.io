@@ -11,7 +11,7 @@ C is not memory safe. It suffers from undefined behavior. These are valid compla
 => https://sel4.systems/ seL4
 => https://www.redox-os.org/ RedoxOS
 
-A working C toolchain (say, cproc and qbe) can be written in a couple tens of thousands of of code. The only working Rust toolchain is tens of millions of lines of C++ and Rust code. How many undiscovered bugs do you think these two toolchains have when compared? How many of those are security issues? How much relative work would it be to debug them, or port them to new — or old — platforms? How often do these respective codebases churn, creating a larger maintenance burden and introducing new bugs/vulnerabilities? I can bootstrap a working C toolchain in about 10 minutes. I spent a week trying to do that for Rust, and failed. That matters.
+A working C toolchain (say, cproc and qbe) can be written in a couple tens of thousands of lines of code. The only working Rust toolchain is tens of millions of lines of C++ and Rust code. How many undiscovered bugs do you think these two toolchains have when compared? How many of those are security issues? How much relative work would it be to debug them, or port them to new — or old — platforms? How often do these respective codebases churn, creating a larger maintenance burden and introducing new bugs/vulnerabilities? I can bootstrap a working C toolchain in about 10 minutes. I spent a week trying to do that for Rust, and failed. That matters.
 
 => cproc https://sr.ht/~mcf/cproc/
 => qbe https://c9x.me/compile/

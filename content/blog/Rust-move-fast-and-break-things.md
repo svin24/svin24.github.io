@@ -52,7 +52,7 @@ continuous maintenance, that number will only shrink.
 [2]: https://www.redox-os.org/
 
 A working C toolchain (say, [cproc][3] and [qbe][4]) can be written in a couple
-tens of thousands of of code. The only working Rust toolchain is tens of
+tens of thousands of lines of code. The only working Rust toolchain is tens of
 millions of lines of C++ and Rust code. How many undiscovered bugs do you think
 these two toolchains have when compared? How many of those are security issues?
 How much relative work would it be to debug them, or port them to new &mdash; or
