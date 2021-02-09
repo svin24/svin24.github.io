@@ -24,8 +24,9 @@ anyone who steps even a toe out of the norm of Linux/macOS/Windows on x86_64 or
 aarch64. Even on the supported platforms it comes with a substantial burden on
 build requirements, calling for 10&times; to 100&times; or more RAM, CPU time,
 and power usage. Whatever its benefits, choosing Rust is ultimately choosing to
-lock a large group people out of your project, and dooming many more to struggle
-and frustration. These are real trade-offs that you need to seriously consider.
+lock a large group of people out of your project, and dooming many more to
+struggle and frustration. These are real trade-offs that you need to seriously
+consider.
 
 Rewrite-it-in-Rust has become a moral imperative. Well, here's a moral argument:
 throwing away serviceable computers every couple of years to upgrade is a
