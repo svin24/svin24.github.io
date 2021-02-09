@@ -72,10 +72,11 @@ because if you can expect the code to compile and complete tests successfully
 for every commit, you can pass `git-bisect` a script which programmatically
 tests a tree for the presence of a bug and avoid false positives. These
 self-contained commits with good commit messages can also make it really easy to
-prepare release notes with [git-shortlog][shortlog], [like
-Linus does with Linux releases][linux-announcement].
+prepare release notes with [git-shortlog][shortlog],
+[like Linus does with Linux releases][linux-announcement].
 
 [^2]: In a nutshell, git bisect is a tool which does a binary search between two commits in your history, checking out the commits in between one at a time to allow you to test for the presence of a bug. In this manner you can narrow down the commit which introduced a problem.
+
 [shortlog]: https://git-scm.com/docs/git-shortlog
 [linux-announcement]: https://lkml.org/lkml/2019/1/6/178
 
