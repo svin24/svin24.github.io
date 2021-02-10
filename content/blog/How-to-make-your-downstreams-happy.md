@@ -37,9 +37,9 @@ be using [git tags][0] for your releases &mdash; consider putting a changelog
 into your annotated tags (git tag -a). If you have [good commit discipline][1]
 in your project, then you can easily use [git shortlog][2] to generate such a
 changelog from your commit messages. This helps us understand what we can expect
-when upgrading, which helps incentive us to upgrade in the first place. In [How
-to fuck up software releases][3], I wrote about my [semver][4] tool, which you
-may find helpful in automating this process. It can also help you avoid
+when upgrading, which helps incentivize us to upgrade in the first place. In
+[How to fuck up software releases][3], I wrote about my [semver][4] tool, which
+you may find helpful in automating this process. It can also help you avoid
 forgetting to do things like update the version number somewhere in the code.
 
 [0]: https://git-scm.com/docs/git-tag
