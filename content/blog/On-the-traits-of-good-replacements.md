@@ -12,7 +12,7 @@ examples.
 
 All of these tools are fine in their own respects, but they have all failed to
 completely supplant the software they're seeking to improve upon.[^5] What these
-projects have in common are that they *expand* on the ideas of their
+projects have in common is that they *expand* on the ideas of their
 predecessors, rather than *refining* them. A truly great alternative finds the
 nugget of truth at the center of the idea, cuts out the cruft, and solves the
 same problem with less.
