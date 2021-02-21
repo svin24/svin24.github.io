@@ -42,7 +42,7 @@ endured for years.[^4]
 
 [^1]: That's a lot of adjectives!
 [^2]: More concisely, I think of Go as an "internet programming language", distinct from the systems programming languages that inspired it. Its design shines especially in this context, but its value-add is less pronounced for other tasks in the systems programming domain - compilers, operating systems, etc.
-[^3]: [The Go spec](https://golang.org/ref/spec) is quite concise and has changed very little since Go's inception. Go is also unique among its contemporaries for (1) writing a spec which (2) suppors the development of multiple competing implementations.
+[^3]: [The Go spec](https://golang.org/ref/spec) is quite concise and has changed very little since Go's inception. Go is also unique among its contemporaries for (1) writing a spec which (2) supports the development of multiple competing implementations.
 [^4]: Past tense, unfortunately, now that Go 2 is getting stirred up.
 
 There many other examples. UTF-8 is a simple, universal approach which smooths

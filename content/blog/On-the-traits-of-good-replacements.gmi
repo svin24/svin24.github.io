@@ -21,7 +21,7 @@ In computing, we make do with a hodge podge of hacks and kludges which, at best,
 
 ³ More concisely, I think of Go as an “internet programming language”, distinct from the systems programming languages that inspired it. Its design shines especially in this context, but its value-add is less pronounced for other tasks in the systems programming domain - compilers, operating systems, etc.
 
-⁴ The Go spec is quite concise and has changed very little since Go’s inception. Go is also unique among its contemporaries for (1) writing a spec which (2) suppors the development of multiple competing implementations.
+⁴ The Go spec is quite concise and has changed very little since Go’s inception. Go is also unique among its contemporaries for (1) writing a spec which (2) supports the development of multiple competing implementations.
 
 ⁵ Past tense, unfortunately, now that Go 2 is getting stirred up.
 
