@@ -45,8 +45,8 @@ endured for years.[^4]
 [^3]: [The Go spec](https://golang.org/ref/spec) is quite concise and has changed very little since Go's inception. Go is also unique among its contemporaries for (1) writing a spec which (2) supports the development of multiple competing implementations.
 [^4]: Past tense, unfortunately, now that Go 2 is getting stirred up.
 
-There many other examples. UTF-8 is a simple, universal approach which smooths
-over the idiosyncrasies of the encoding zoo which pre-dates it, and has
+There are many other examples. UTF-8 is a simple, universal approach which
+smooths over the idiosyncrasies of the encoding zoo which pre-dates it, and has
 more-or-less rendered its alternatives obsolete. JSON has almost completely
 replaced XML, and its grammar famously fits on a business card.[^6] On the other
 hand, when zsh started as a superset of bash, it crippled its ability to compete
