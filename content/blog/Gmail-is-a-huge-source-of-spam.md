@@ -50,8 +50,10 @@ It bears repeating that anyone with any level of technical expertise ought to
 know better than to use Gmail. I usually recommend
 [Migadu](https://www.migadu.com)[^1], but there are many options to choose from.
 If you're worried about mail deliverability issues, don't be &mdash; it's more
-or less a myth in $CURRENTYEAR. If you set up DKIM properly and unlist your IP
-address from the DNSBLs (a simple process), then your mails will get through.
+or less a myth in $CURRENTYEAR. If you set up <abbr title="DomainKeys Identified
+Mail, an means of verifying message authenticity">DKIM</abbr> properly and
+unlist your IP address from the <abbr title="DNS blocklists">DNSBL</abbr>s (a
+simple process), then your mails will get through.
 
 [^1]: Full disclosure: sourcehut has a business relationship with Migadu, though I've recommended them since long before we met.
 
