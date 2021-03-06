@@ -9,7 +9,7 @@ rallied against for *years*, than I am today. Buying and selling user's private
 information on the open market is bad enough for the obvious reasons, but today,
 I learned that the depths of depravity this market will descend to are without
 limit. Today I am more angry and ashamed at this industry than I have ever been.
-Corporate surveillance and adtech has turned turned your phone into an informant
+Corporate surveillance and adtech has turned your phone into an informant
 against you and brought about the actual **murder** of the user.
 
 [Vice: Military Unit That Conducts Drone Strikes Bought Location Data From Ordinary Apps](https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard)
