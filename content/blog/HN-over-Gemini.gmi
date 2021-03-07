@@ -4,6 +4,8 @@ The answer is yes.
 
 It works best with article-style content, so to illustrate this, I've create a mirror of Hacker News in geminispace that converts the linked articles to Gemtext for better viewing in your favorite Gemini client.
 
+NOTE 2021-03-07: This link no longer works; I shut it off due to bugs in my Gemini server. I'll fix them eventually :)
+
 => /cgi-bin/hn.py Browse Hacker News over Gemini
 
 Note that it's kind of finicky (and, to be honest, so is gmnisrv), so we can hopefully expect it to become more stable over time as I improve gmnisrv and flush out the bugs. In the meantime, be patient with it, and maybe hit refresh if it doesn't work the first time. I might expand the featureset a bit as well, adding comments, user pages, pages other than the front page, and so on.
