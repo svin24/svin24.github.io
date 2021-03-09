@@ -235,6 +235,11 @@ blockquote {
   padding: 0 1rem;
   margin-left: calc(-1rem - 5px);
   margin-right: -1rem;
+
+  blockquote {
+    margin-right: 0;
+    margin-left: 0;
+  }
 }
 
 ul {
