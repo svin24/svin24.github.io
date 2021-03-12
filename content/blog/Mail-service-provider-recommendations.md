@@ -37,10 +37,10 @@ for a mail service provider.
   tolerant of such outages - you don't have to worry about messages being lost
   if they were sent during an outage. Still, being unable to access your mail is
   a problem.
-- If you are on a trial account, they will put an advertisement into your email
+- ~~If you are on a trial account, they will put an advertisement into your email
   signature. I don't think that it's ever appropriate for a mail service
   provider to edit your outgoing emails for any reason, and certainly not to
-  advertise.
+  advertise.~~ Updated 2021-03-12: this is no longer the case.
 
 Full disclosure: SourceHut and Migadu agreed to a consulting arrangement to
 build their [new webmail system](https://git.sr.ht/~migadu/alps), which should
