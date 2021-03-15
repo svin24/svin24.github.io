@@ -59,6 +59,6 @@ Usage: run [-v]
 
   The call for help last month was swiftly answered, and we have 7 or 8 new
   people working on the project now. We've completed enough work to unblock many
-  workstreams, which will allow these new contributors to work on parallel on
+  workstreams, which will allow these new contributors to work in parallel on
   different areas of interest, which should substantially speed up progress.
 </details>
