@@ -1,4 +1,5 @@
 ---
+date: 2019-12-15
 layout: post
 title: Status update, December 2019
 tags: ["status update"]
