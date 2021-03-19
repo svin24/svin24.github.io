@@ -45,6 +45,10 @@ it compares to C:
 - A simpler, context-free, expression-oriented syntax
 - A standard library free of the constraints of POSIX or the C standard
 
+Our language currently supports Linux on x86_64 or aarch64, and we plan on
+expanding this to the BSDs, Haiku, and Plan 9; as well as i686, riscv64 and
+riscv32, and ppc64 before the release.
+
 I plan to continue keeping the other details a secret until the release &mdash;
 we want the first release to be a complete, stable, production-ready programming
 language with all of the trimmings. The first time most people will hear about
