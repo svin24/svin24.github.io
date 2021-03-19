@@ -61,7 +61,7 @@ Formats & encodings: JSON • XML • Gemtext • MIME • RFC 2822 • tar • 
 
 •••• language support: Parsing • type checker • hosted toolchain • etc
 
-Networking: IP & CDIR handling • sockets • DNS resolver • Gemini • etc
+Networking: IP & CIDR handling • sockets • DNS resolver • Gemini • etc
 
 Platform support: New platforms and architectures • OS-specific features
 
