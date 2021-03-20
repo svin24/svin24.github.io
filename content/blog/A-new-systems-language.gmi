@@ -1,4 +1,4 @@
-It’s an open secret: the “secret project” I’ve been talking about is a new systems programming language. It’s been underway since December ‘19, and we hope to release the first version in early 2021. The language is pretty small — we have a mostly complete specification which clocks in at 60 pages. It has manual memory management, no runtime, and it uses a superset of the C ABI, making it easy to link with libraries and C code. It should be suitable almost anywhere C is useful: compilers, system utilities, operating systems, network servers and clients, and so on.
+It’s an open secret: the “secret project” I’ve been talking about is a new systems programming language. It’s been underway since December ‘19, and we hope to release the first version in early 2022. The language is pretty small — we have a mostly complete specification which clocks in at 60 pages. It has manual memory management, no runtime, and it uses a superset of the C ABI, making it easy to link with libraries and C code. It should be suitable almost anywhere C is useful: compilers, system utilities, operating systems, network servers and clients, and so on.
 
 ```A "hello world" code sample
 use io;
@@ -72,3 +72,5 @@ String manipulation: Search, replace • Unicode • Regex • etc
 Unix support: chmod • mkfifo • passwd • setuid • TTY management • etc
 
 If any of this sounds up your alley, we’d love your help! Please write me an email describing your interest areas and previous systems programming experience.
+
+Update 2021-03-20: We're targeting the first release in early 2022, not 2021.

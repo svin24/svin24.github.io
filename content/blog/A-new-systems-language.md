@@ -6,7 +6,7 @@ formats: [html, gemtext]
 
 It's an open secret: the "secret project" I've been talking about is a new
 systems programming language. It's been underway since December '19, and we hope
-to release the first version in early 2021. The language is pretty small &mdash;
+to release the first version in early 2022. The language is pretty small &mdash;
 we have a mostly complete specification which clocks in at 60 pages. It has
 manual memory management, no runtime, and it uses a superset of the C ABI,
 making it easy to link with libraries and C code. It should be suitable almost
@@ -115,3 +115,5 @@ focus areas we're looking into now are:
 If any of this sounds up your alley, we'd love your help! Please [write me an
 email](mailto:sir@cmpwn.com) describing your interest areas and previous systems
 programming experience.
+
+**Update 2021-03-20**: We're targeting the first release in early 2022, not 2021.
