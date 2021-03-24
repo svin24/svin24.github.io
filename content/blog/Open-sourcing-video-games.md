@@ -41,8 +41,8 @@ With this in mind, how do you go about securing your game's legacy?
 
 The bare minimum is to make your game "source available". Be aware that this is
 not the same thing as making it open source! Some of your famous peers in this
-category include Alien 3, Civilization IV and V, Crysis, Deus Ex, Duke Nukem 3D,
-Prince of Persia, Unreal Tournament, and VVVVVV.
+category include Alien 3, Civilization IV and V, Crysis, Deus Ex, Prince of
+Persia, Unreal Tournament, and VVVVVV.
 
 This approach makes your source code available to view and perhaps to compile
 and run, but prohibits derivative works. This is definitely better than leaving
@@ -64,7 +64,7 @@ to get the source code working would either need to buy the game from you and
 extract the assets, or supply their own community-made assets. This is a popular
 approach among open source games, and gives you most of the benefits and few of
 the drawbacks. You'll join the ranks of our DOOM and Quake examples, as well as
-Amnesia: the Dark Descent, System Shock, and Wolfenstein 3D.
+Amnesia: the Dark Descent, System Shock, Duke Nukem 3D, and Wolfenstein 3D.
 
 Games like this enjoy a long life as their software is more easily ported to new
 platforms and shared with other users. DOOM runs on phones, digital cameras,
