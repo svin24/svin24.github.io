@@ -18,7 +18,7 @@ languages I've ever used, and I have a great deal of respect for it.
 
 Perhaps the matter I most appreciate Go for is its long-term commitment to
 simplicity, stability, and robustness. I prize these traits more strongly than
-any other object of in software design. The Go team works with an ethos of
+any other object of software design. The Go team works with an ethos of
 careful restraint, with each feature given deliberate consideration towards
 identifying the simplest and most complete solution, and they carefully
 constrain the scope of their implementations to closely fit those solutions.
@@ -50,8 +50,8 @@ the centralization of project leadership caused by this relationship is
 beneficial for the project. Some members of the Go community have noticed the
 apparent disadvantages of this structure, as Go is infamous for being slow to
 respond to the wants of its community. This insulation, I would argue, is in
-fact advantageous for the conservative language design that Go embraces, and in
-fact may be essential to its value-add as a project. If Go listened to the
+fact advantageous for the conservative language design that Go embraces, and
+may actually be essential to its value-add as a project. If Go listened to the
 community as much as they want, it would become a kitchen sink, and cease to be
 interesting to me.
 
