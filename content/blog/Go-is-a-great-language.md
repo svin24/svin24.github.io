@@ -39,7 +39,7 @@ consider Go not to be a systems programming language &mdash; a title much better
 earned by languages like C and Rust. Rather, Go is the best-in-class for a new
 breed of software: an Internet programming language.[^1] The wealth of network
 protocols implemented efficiently, concisely, and correctly in its standard
-library, combined with its clever mixed cooperative/pre-emitive multitasking
+library, combined with its clever mixed cooperative/pre-emptive multitasking
 model, make it very easy to write scalable internet-facing software. A few other
 languages &mdash; Elixir comes to mind &mdash; also occupy this niche, but they
 haven't enjoyed the runaway success that Go has.
