@@ -83,12 +83,14 @@ approach.
 
 If you want to allow your source code to find its way into as many future games
 as possible, a permissive open source license like [MIT][0] is the way to go.
-This will allow developers to incorporate your source code into their own games
-with little restriction, either by creating a direct derivative, or by taking
-little samples of your code and incorporating it into their own project. This
-comes with no obligation to release their own changes or works in a similar
-fashion: they can just take it, with very few strings attached. Such an approach
-makes it very easy to incorporate into new commercial games.
+[Flotilla](https://github.com/blendogames/flotilla) is an example of a game
+which went with this approach. It allows developers to incorporate your source
+code into their own games with little restriction, either by creating a direct
+derivative, or by taking little samples of your code and incorporating it into
+their own project. This comes with no obligation to release their own changes or
+works in a similar fashion: they can just take it, with very few strings
+attached. Such an approach makes it very easy to incorporate into new commercial
+games.
 
 [0]: https://opensource.org/licenses/MIT
 
