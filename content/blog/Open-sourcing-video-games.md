@@ -171,6 +171,13 @@ projects which would otherwise have been made open source. If you feel this way,
 you will probably never be satisfied, and thus you'll never open it. I assure
 you: your game is ready to make open source, no matter what state it's in!
 
+Bonus: Ethan Lee tipped me off to some truly awful code which was left in
+VVVVVV, which you can freely browse on the [2.2 tag][vvvvvv 2.2]. It's truly
+awful, but you probably didn't know that &mdash; you only remember VVVVVV as a
+critically acclaimed game.
+
+[vvvvvv 2.2]: https://github.com/TerryCavanagh/vvvvvv/tree/2.2
+
 ## So what do I need to do?
 
 Let's lay out the specific steps. You need to answer the following questions
