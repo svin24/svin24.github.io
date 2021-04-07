@@ -37,7 +37,7 @@ can communicate with each other and exchange messages on behalf of their
 respective users, which distributes ownership, responsibility, and governance
 within the community at large, making the system less vulnerable to all kinds of
 issues. You need to be prepared to relinquish control to the community. Signal
-wasn't, and has had problems ranging from 502 Server Gone errors and from 404
+wasn't, and has had problems ranging from 502 Server Gone errors to 404
 Ethics Not Found errors, both of which are solved by federation.
 
 [^1]: Even if that ecosystem is "moving". Ugh.
