@@ -64,11 +64,11 @@ you'll also strive to provide an authentic identity for users to establish
 between themselves &mdash; but not with you. Users should also be able to
 establish a pseudonymous identity, or wear multiple identities. You need to
 provide (1) a strong guarantee of consistent identity from session to
-session, (2) without sharing that guarantee with your servers, and (3) offering
+session, (2) without sharing that guarantee with your servers, and (3) offer
 the ability to able to change to a new identity at will. The full implications
 of anonymity are a complex issue which is out of scope for this article, but for
-now it suffices to say that you should at refrain from asking for the user's
-phone number.
+now it suffices to say that you should at least refrain from asking for the
+user's phone number.
 
 Finally, it needs to be **robust, reliable, and performant**. Focus on the
 basics: delivering messages quickly and reliably. The first thing you need to
