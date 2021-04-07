@@ -110,7 +110,7 @@ And don't put a fucking cryptocurrency in it.
 
   <p>
     Speaking of IRC, it is still my main chat program, and has been for 15+
-    years. The lack of E2EE, which unacceptable for any new protocol, is not
+    years. The lack of E2EE, which is unacceptable for any new protocol, is not
     important enough to get me to switch to anything else until it presents a
     compelling alternative to IRC.
 </details>
