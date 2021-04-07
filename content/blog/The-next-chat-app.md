@@ -21,7 +21,7 @@ ecosystem of client and server implementations, along with bots and other
 integrations, adds a tremendous amount of value and longevity to a system. A
 chat app which has only one implementation and a private protocol can only ever
 meet the needs that its developers (1) foresee, (2) care about, and (3) have the
-capacity to address; thus, a protocol cannot be ubiquitous. I would also
+capacity to address; thus, such a protocol cannot be ubiquitous. I would also
 recommend that this protocol is not needlessly stapled to the beached whale that
 is the web: *maybe* JSON can come, but if it's served with HTTP polling to
 appease our Android overlords I will be very cross with you. JSON also offers
