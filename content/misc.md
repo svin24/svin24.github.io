@@ -12,7 +12,6 @@ layout: page
 
 - [Japanese learning resources](/japanese)
 - [Make a blog!](/make-a-blog) (defunct)
-- [Videos of people editing text](/editing)
 - [List of random ideas](/ideas)
 - [New server checklist](/new-server)
 - [New sysadmin lecture](/new-sysadmin-lecture)
