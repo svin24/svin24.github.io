@@ -70,3 +70,10 @@ Linux kernel's approach here. It covers their bases while still strongly
 protecting the rights of the patch owner. It's a short statement with little
 legalese and little fanfare to agreeing to it (just add "Signed-off By" to your
 commit message). I approve.
+
+---
+
+Update April 2021: I wrote a follow-up article about the Developer Certificate
+of Origin in particular: [The Developer Certificate of Origin is a great alternative to a CLA][dco]
+
+[dco]: https://drewdevault.com/2021/04/12/DCO.html
