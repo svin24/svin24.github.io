@@ -74,7 +74,7 @@ copyright and you don't leave the door open for the maintainers to relicense
 your work under some other terms in the future. This offers the maintainers the
 same rights that they extended to the community themselves.
 
-This is the strategy that Amazon choose for OpenSearch, and it's a good thing
+This is the strategy that Amazon chose for OpenSearch, and it's a good thing
 they did, because it strongly signals to the community that it will not fall to
 the same fate that ElasticSearch has. By doing this, they have imposed on
 themselves a great deal of difficulty to any future attempt to change their
