@@ -80,7 +80,7 @@ the door, they forked the blockchain.
 [DAO]: https://en.wikipedia.org/wiki/The_DAO_(organization)
 
 That's what cryptocurrency is all about: not novel technology, not empowerment,
-but making money. It hass failed as an actual *currency* outside of some
+but making money. It has failed as an actual *currency* outside of some
 isolated examples of failed national economies. No, cryptocurrency is not a
 currency at all: it's an investment vehicle. A tool for making the rich richer.
 And that's putting it nicely; in reality it has a lot more in common with a
