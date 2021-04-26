@@ -110,10 +110,12 @@ When you're the only honest person in the room, maybe you should be in a
 different room. It is impossible to trust you. Every comment online about
 cryptocurrency is tainted by the fact that the commenter has probably invested
 thousands of dollars into a Ponzi scheme and is depending on your agreement to
-make their money back. Not to mention that any attempts at reform, like
+make their money back.[^3] Not to mention that any attempts at reform, like
 proof-of-stake, are viciously blocked by those in power (i.e. those with the
 money) because of any risk it poses to reduce their bottom line. No, your
 blockchain is not different.
+
+[^3]: This is why I asked you to disclose your stake in your comment upfront.
 
 Cryptocurrency is one of the worst inventions of the 21st century. I am ashamed
 to share an industry with this exploitative grift. It has failed to be a useful
