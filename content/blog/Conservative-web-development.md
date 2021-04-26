@@ -92,7 +92,7 @@ improve. Challenge yourself to find the simplest way of building the features
 you want.
 
 [^3]: For example, check out how I implemented the collapsable message details on the [lists.sr.ht archives](https://lists.sr.ht/~sircmpwn/sr.ht-dev/%3C20180830183221.32377-1-hilobakho%40gmail.com%3E)
-[^4]: I did this when I upgraded to Font Awesome 5 recently. They want you to include some JavaScript to make their SVG icons work, but instead I wrote a [dozen lines of Python](https://git.sr.ht/~sircmpwn/core.sr.ht/tree/srht/flask.py?id=70e75e96dc664a1b487ef02cb9936cb8f69105c0#n49) on the backend which gave me a macro to dump the desired SVG directly into the page.
+[^4]: I did this when I upgraded to Font Awesome 5 recently. They want you to include some JavaScript to make their SVG icons work, but instead I wrote a [dozen lines of Python](https://git.sr.ht/~sircmpwn/core.sr.ht/tree/70e75e96dc664a1b487ef02cb9936cb8f69105c0/srht/flask.py#L49) on the backend which gave me a macro to dump the desired SVG directly into the page.
 
 And if anyone at Google is reading, you should try recommending these strategies
 for speeding up pages instead of pushing self-serving faux standards like AMP.
