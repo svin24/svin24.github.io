@@ -10,7 +10,8 @@ This post is long overdue. Let's get it over with.
   🛑 <strong>Hey!</strong> If you write a comment about this article online,
   disclose your stake in cryptocurrency. I will explain why later in this post.
   For my part, I held &lt;$10,000 USD worth of Bitcoin prior to 2016, plus small
-  amounts of altcoins. Today my stake in all cryptocurrency is $0.
+  amounts of altcoins. I made a modest profit on my holdings. Today my stake in
+  all cryptocurrency is $0.
 </div>
 
 Starting on May 1st, users of sourcehut's CI service will be required to be on a
