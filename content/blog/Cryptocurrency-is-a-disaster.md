@@ -60,11 +60,11 @@ it's good, but because they think that if they can convince you it will make
 them rich. I've had to develop a special radar for reading product pages now: a
 mounting feeling of dread as a promising technology is introduced while I
 inevitably arrive at the buried lede: it's more crypto bullshit. Cryptocurrency
-is the multi-level marking of the tech world. "Hi! How've you been? Long time no
-see! Oh, I've been working on this cool distributed database file store archive
-thing. We're doing an ICO next week." Then I leave. Any technology which is not
-an (alleged) currency and which incorporates blockchain anyway would always work
-better without it.
+is the multi-level marketing of the tech world. "Hi! How've you been? Long time
+no see! Oh, I've been working on this cool distributed database file store
+archive thing. We're doing an ICO next week." Then I leave. Any technology which
+is not an (alleged) currency and which incorporates blockchain anyway would
+always work better without it.
 
 There are hundreds, perhaps thousands, of cryptocurrency scams and ponzi schemes
 trussed up to look like some kind of legitimate offering. Even if the project
