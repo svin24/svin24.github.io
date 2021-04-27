@@ -93,7 +93,7 @@ to keep the wheel of their fates spinning? Those make for a good headline, but
 how about the rural communities whose tax dollars subsidized the power plants
 which the miners have flocked to? People who are [suffering blackouts][blackouts]
 as their power is siphoned into computing SHA-256 as fast as possible while
-dumping an entire country worth of CO² into the atmosphere?[^2] No,
+dumping an entire country worth of CO₂ into the atmosphere?[^2] No,
 cryptocurrency does not help failed states. It exploits them.
 
 [^2]: "But crypto is far from the worst contributor to climate change!" Yeah, but at least the worst offenders provide value to society. See also [Whataboutism](https://en.wikipedia.org/wiki/Whataboutism).
