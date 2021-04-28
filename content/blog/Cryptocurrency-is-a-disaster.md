@@ -2,6 +2,7 @@
 title: Cryptocurrency is an abject disaster
 date: 2021-04-26
 outputs: [html, gemtext]
+nocomment: true
 ---
 
 This post is long overdue. Let's get it over with.
