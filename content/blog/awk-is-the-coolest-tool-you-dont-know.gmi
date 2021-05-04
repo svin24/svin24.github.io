@@ -149,7 +149,7 @@ Sometimes I have a file and I want it to have line numbers. So, I wrote a little
 
 ```
 $ cat ~/bin/lineno
-exec awk 'BEGIN { n = 1; } { print n "\t" $0; n = n + 1 }'
+exec awk '{ print NR "\t" $0 }'
 $ lineno < /etc/os-release
 1       NAME="Alpine Linux"
 2       ID=alpine
