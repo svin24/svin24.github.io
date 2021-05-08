@@ -22,7 +22,7 @@ software engineer sat down and deliberately wrote a "feature" (or anti-feature?)
 which they had to have known that the user would not have wanted. The airplane
 manufacturer demanded it at the *expense* of the user.[^1][^2]
 
-[^1]: A savy reader could (correctly) extrapolate this to infer my position on advertising in general.
+[^1]: A savvy reader could (correctly) extrapolate this to infer my position on advertising in general.
 [^2]: They also got on the PA later on to try and convince passengers to sign up for their airline-themed credit card. This isn't even a budget airline.
 
 I have had many opportunities throughout my career to make similar
