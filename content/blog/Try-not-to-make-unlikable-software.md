@@ -20,9 +20,10 @@ reasonable is that the same feature is re-purposed for shoving advertising into 
 face a few minutes later. In fact, it spends more time on ads than on safety. A
 software engineer sat down and deliberately wrote a "feature" (or anti-feature?)
 which they had to have known that the user would not have wanted. The airplane
-manufacturer demanded it at the *expense* of the user.[^1]
+manufacturer demanded it at the *expense* of the user.[^1][^2]
 
 [^1]: A savy reader could (correctly) extrapolate this to infer my position on advertising in general.
+[^2]: They also got on the PA later on to try and convince passengers to sign up for their airline-themed credit card. This isn't even a budget airline.
 
 I have had many opportunities throughout my career to make similar
 anti-features, and I have encountered many other examples of this behavior in
@@ -35,7 +36,7 @@ this kind of thing is *everywhere*.
 
 I find this behavior to be incredibly disrespectful to the user. When I am that
 user who is being disrespected, I will generally stop using that software, and
-stop supporting any businesses who chose to be disrespectful.[^2] For my part as
+stop supporting any businesses who chose to be disrespectful.[^3] For my part as
 a programmer, I *do* respect the user, I find satisfaction in making software
 which makes their lives better, and I always have and always will push back
 against anyone who demands that I subvert that ethos for their wallet's sake.
@@ -43,4 +44,4 @@ You should always aim to make the user's experience more pleasant, not more
 unpleasant. We should just be nice to people. That's it: please be nice to
 people. Thank you for coming to my Ted talk.
 
-[^2]: Though, to be entirely fair, it is somewhat difficult to "stop using" the mandatory ad viewing session I am being subjected to on this airplane. I could put in earplugs and gouge out my eyes, perhaps. Yes, that seems like a proportionate response.
+[^3]: Though, to be entirely fair, it is somewhat difficult to "stop using" the mandatory ad viewing session I am being subjected to on this airplane. I could put in earplugs and gouge out my eyes, perhaps. Yes, that seems like a proportionate response.
