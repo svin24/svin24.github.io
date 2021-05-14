@@ -25,7 +25,7 @@ definitely prefer to use Alpine upstream for a laptop use-case.  That being
 said, the Pine community has been doing a very good job of working on getting
 support for their devices upstream, and the situation has been steadily
 improving. I expect that one of the next batches of PBPs will include an updated
-u-Boot payload which will make UEFI booting possible, and Linux disros with the
+u-Boot payload which will make UEFI booting possible, and Linux distros with the
 necessary kernel patches upstreamed will be shipping in the foreseeable future.
 This will alleviate most
 of my ARM-based grievances.
