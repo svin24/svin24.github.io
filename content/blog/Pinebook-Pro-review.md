@@ -57,7 +57,7 @@ better than my old ThinkPad.
 It is an ARM machine, so the performance is not competitive with modern x86_64
 platforms. It is somewhat faster than my 11-year-old previous machine, though.
 It has six cores and any parallelizable job (like building code) works
-acceptably fast, at least for the langauges I primarily use (i.e. not Rust or
+acceptably fast, at least for the languages I primarily use (i.e. not Rust or
 C++). It can also play back 1080p video with a *little bit* of stuttering, and
 720p video flawlessly. Browsing the web is a bit of a chore, but it always was.
 [Sourcehut works fine][2].
