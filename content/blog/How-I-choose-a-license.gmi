@@ -1,5 +1,7 @@
 This is how I choose a license for a new project. It is a reflection of my values and priorities and may not work for your needs.
 
+## Choosing a license
+
 1: Does it matter at all?
 	
 	YES	=> GOTO 2
