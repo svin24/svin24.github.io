@@ -8,9 +8,14 @@ So, it’s release day, and you’re excited about all of the cool new features 
 
 That said, you do have a good opportunity to add a small amount of faffery after this. Some projects say “$project version $X includes $Y changes from $Z contributors”. The detailed changelog should follow, including every change which shipped in the release. This is what users are going to scan to see if that one bug which has been bothering them was addressed in this version. If you have good git discipline, you can take advantage of git shortlog to automatically generate a summary of the changes.
 
+=> https://drewdevault.com/2019/02/25/Using-git-with-discipline.html Previously: Tips for a disciplined git workflow
+
 Once you’ve prepared this document, where should you put it? In my opinion, there’s only one appropriate place for it: an annotated git tag. I don’t like “CHANGELOG” files and I definitely don’t like GitHub releases. If you add “-a” to your “git tag” command, git will fire up an editor and you can fill in your changelog just like you write your git commit messages. This associates your changelog with the git data it describes, and automatically distributes it to all users of the git repository. Most web services which host git repositories will display it on their UI as well. It’s also written in plaintext, which conveniently prevents you from being too extra with your release notes — no images or videos or such.
 
-I have written a small tool which will make all of this easier for you to do: “semver”. This automatically determines the next release number, optionally runs a custom script to automate any release bookkeeping you need to do (e.g. updating the version in your Makefile), then generates the git shortlog and plops you into an editor to flesh out the release notes. I wrote more about this tool in How to fuck up software releases.
+I have written a small tool which will make all of this easier for you to do: “semver”. This automatically determines the next release number, optionally runs a custom script to automate any release bookkeeping you need to do (e.g. updating the version in your Makefile), then generates the git shortlog and plops you into an editor to flesh out the release notes. I wrote more about this tool in "How to fuck up software releases".
+
+=> https://git.sr.ht/~sircmpwn/dotfiles/tree/master/bin/semver The "semver" script
+=> https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html Previously: How to fuck up software releases
 
 I hope this advice helps you improve your release notes! Happy shipping.
 
