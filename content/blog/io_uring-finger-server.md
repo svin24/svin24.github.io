@@ -187,9 +187,9 @@ let sigfd = signalfd::signalfd(-1, &mask, 0)!;
 defer rt::close(sigfd)!;
 
 const files = [net::listenerfd(serv) as int, sigfd];
-io_uring::register_files(&uring, files)!;
+io_uring::register_files(&ring, files)!;
 
-const sqe = io_uring::must_get_sqe(&uring);
+const sqe = io_uring::must_get_sqe(&ring);
 io_uring::poll_add(sqe, 1, rt::POLLIN: uint, flags::FIXED_FILE);
 io_uring::set_user(sqe, &sigfd);
 ```
