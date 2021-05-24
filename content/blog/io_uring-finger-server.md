@@ -673,7 +673,7 @@ fn process_query(ctx: *context, q: str) (str | error) = {
 		void => return no_such_user,
 		p: passwd::pwent => p,
 	};
-  defer passwd::pwent_finish(pwent);
+	defer passwd::pwent_finish(pwent);
 
 	let enabled = false;
 	for (let i = 0z; i < len(ctx.users); i += 1) {
