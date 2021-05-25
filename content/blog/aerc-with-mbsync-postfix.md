@@ -14,12 +14,11 @@ email client despite these flaws, they will have to be worked around.
 
 To this end, I have updated my personal aerc setup to take advantage of its
 [Maildir][1] support instead of having it use IMAP directly, then delegate IMAP
-to [isync][2], a fork of mbsync, and SMTP to a local postfix instance. This
-brings a much-needed level of robustness to the setup, as my Maildirs are
-available offline or on a flaky connection, and postfix will handle queueing and
-redelivery of outgoing emails in similar conditions.[^1] This allows me to read
-and reply to email entirely offline, and have things sync up automatically when
-a connection becomes available.
+to [mbsync][2]. This brings a much-needed level of robustness to the setup, as
+my Maildirs are available offline or on a flaky connection, and postfix will
+handle queueing and redelivery of outgoing emails in similar conditions.[^1]
+This allows me to read and reply to email entirely offline, and have things sync
+up automatically when a connection becomes available.
 
 [1]: https://en.wikipedia.org/wiki/Maildir
 [2]: https://isync.sourceforge.io
@@ -114,3 +113,5 @@ smtp_sasl_security_options =
 ```
 
 Good luck!
+
+**Updated 2021-05-25**: isync is not a fork of mbsync.
