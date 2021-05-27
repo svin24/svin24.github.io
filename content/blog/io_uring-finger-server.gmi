@@ -102,8 +102,8 @@ static assert(MAX_CLIENTS * 2 + 2 <= io_uring::MAX_ENTRIES);
 
 let params = io_uring::params { ... };
 let ring = match (io_uring::setup(MAX_CLIENTS * 2 + 2, &params)) {
-  ring: io_uring::io_uring => ring,
-  err: io_uring::error => fmt::fatal(io_uring::strerror(err)),
+	ring: io_uring::io_uring => ring,
+	err: io_uring::error => fmt::fatal(io_uring::strerror(err)),
 };
 defer io_uring::finish(&ring);
 ```
@@ -161,41 +161,41 @@ Finally, this brings us to the main loop:
 ```
 let accept_waiting = false;
 for (true) {
-  const peeraddr = rt::sockaddr { ... };
-  const peeraddr_sz = size(rt::sockaddr): uint;
-  if (!accept_waiting && len(ctx.clients) < MAX_CLIENTS) {
-    const sqe = io_uring::must_get_sqe(ctx.uring);
-    io_uring::accept(sqe, 0, &peeraddr, &peeraddr_sz,
-      0, flags::FIXED_FILE);
-    io_uring::set_user(sqe, &peeraddr);
-    accept_waiting = true;
-  };
+	const peeraddr = rt::sockaddr { ... };
+	const peeraddr_sz = size(rt::sockaddr): uint;
+	if (!accept_waiting && len(ctx.clients) < MAX_CLIENTS) {
+		const sqe = io_uring::must_get_sqe(ctx.uring);
+		io_uring::accept(sqe, 0, &peeraddr, &peeraddr_sz,
+			0, flags::FIXED_FILE);
+		io_uring::set_user(sqe, &peeraddr);
+		accept_waiting = true;
+	};
 
-  io_uring::submit(&ring)!;
+	io_uring::submit(&ring)!;
 
-  let cqe = match (io_uring::wait(ctx.uring)) {
-    err: io_uring::error => fmt::fatal("Error: {}",
-      io_uring::strerror(err)),
-    cqe: *io_uring::cqe => cqe,
-  };
-  defer io_uring::cqe_seen(&ring, cqe);
+	let cqe = match (io_uring::wait(ctx.uring)) {
+		err: io_uring::error => fmt::fatal("Error: {}",
+			io_uring::strerror(err)),
+		cqe: *io_uring::cqe => cqe,
+	};
+	defer io_uring::cqe_seen(&ring, cqe);
 
-  const user = io_uring::get_user(cqe);
-  if (user == &peeraddr) {
-    accept(&ctx, cqe, &peeraddr);
-    accept_waiting = false;
-  } else if (user == &sigfd) {
-    let si = signalfd::siginfo { ... };
-    rt::read(sigfd, &si, size(signalfd::siginfo))!;
-    fmt::errorln("Caught signal, terminating")!;
-    break;
-  } else for (let i = 0z; i < len(ctx.clients); i += 1) {
-    let client = ctx.clients[i];
-    if (user == client) {
-      dispatch(&ctx, client, cqe);
-      break;
-    };
-  };
+	const user = io_uring::get_user(cqe);
+	if (user == &peeraddr) {
+		accept(&ctx, cqe, &peeraddr);
+		accept_waiting = false;
+	} else if (user == &sigfd) {
+		let si = signalfd::siginfo { ... };
+		rt::read(sigfd, &si, size(signalfd::siginfo))!;
+		fmt::errorln("Caught signal, terminating")!;
+		break;
+	} else for (let i = 0z; i < len(ctx.clients); i += 1) {
+		let client = ctx.clients[i];
+		if (user == client) {
+			dispatch(&ctx, client, cqe);
+			break;
+		};
+	};
 };
 ```
 
@@ -630,6 +630,6 @@ If you really wanted to max out the performance for a CLOUD SCALE WEB 8.0 XTREME
 * Adding an internal queue for clients until we have room for their I/O in the SQ
 * Using a shared buffer pool with the kernel, with io_uring ops like READ_FIXED
 * Batching requests for the same plan file by only answering requests for it every Nth millisecond (known to some as the “data loader” pattern)
-*    More slow loris mitigations, such as limiting open connections per IP address
+* More slow loris mitigations, such as limiting open connections per IP address
 
 It would also be cool to handle SIGHUP to reload our finger group membership list without rebooting the daemon. I would say “patches welcome”, but I won’t share the git repo until the language is ready. And the code is GPL’d, but not AGPL’d, so you aren’t entitled to it if you finger me!
