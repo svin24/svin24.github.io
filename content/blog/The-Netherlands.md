@@ -73,7 +73,7 @@ trouble with it &mdash; I intend to achieve fluency. Integration is well within
 my grasp. I expect to look back on this transition with confidence in a decision
 well-made.
 
-Leuk je te ontmoeten, Nederland!
+Leuk jullie te ontmoeten, Nederland!
 
 Oh, and yes: I will be re-locating SourceHut, the incorporated entity, to the
 Netherlands, and gradually moving our infrastructure over the pond. Details

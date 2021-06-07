@@ -16,7 +16,7 @@ There are also some risks. Housing is expensive and only getting more so. Also, 
 
 Despite these and other risks, I am optimistic about this change. The path to citizenship takes only five years, and after many careful inquiries into the process, I believe my plans for getting there are on very solid footing. I have been studying Dutch throughout much of the pandemic, and I’m not having much trouble with it — I intend to achieve fluency. Integration is well within my grasp. I expect to look back on this transition with confidence in a decision well-made.
 
-Leuk je te ontmoeten, Nederland!
+Leuk jullie te ontmoeten, Nederland!
 
 Oh, and yes: I will be re-locating SourceHut, the incorporated entity, to the Netherlands, and gradually moving our infrastructure over the pond. Details regarding these plans will eventually appear on the ops wiki. Users can expect little to no disruption from the change.
 
