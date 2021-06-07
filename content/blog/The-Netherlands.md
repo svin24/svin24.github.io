@@ -12,13 +12,13 @@ today, and assuming I can navigate the pandemic-modified procedures, I should be
 able to make my move fairly soon. It's a little bit intimidating, but I am
 looking forward to it!
 
-*Quick note: I am looking for temporary housing in Amsterdam; somewhere I can
-stay for 6-12 months with a permanent mailing address for receiving
-immigration-related documents. I would prefer to rent out a room than to use
-some kind of commercial accommodation, to be certain that I can receive mail
-from the immigration services for the duration of the process. [Please shoot me
-an email][0] if you've got a lead! I'd rather meet someone through the FOSS
-community than dig through ~~Craigslist~~ Marktplaats from overseas.*
+*Quick note: I am looking for temporary housing in NL; somewhere I can stay for
+6-12 months with a permanent mailing address for receiving immigration-related
+documents. I would prefer to rent out a room than to use some kind of commercial
+accommodation, to be certain that I can receive mail from the immigration
+services for the duration of the process. [Please shoot me an email][0] if
+you've got a lead! I'd rather meet someone through the FOSS community than dig
+through ~~Craigslist~~ Marktplaats from overseas.*
 
 [0]: mailto:sir@cmpwn.com
 
