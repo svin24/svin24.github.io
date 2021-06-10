@@ -68,6 +68,10 @@ language, I'll do my best to help you decipher the alien code.
 
 Let's start with the basics:
 
+<!--
+Yes, it's called Hare. Now keep that to yourself.
+-->
+
 ```hare
 use fmt;
 use getopt;
