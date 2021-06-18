@@ -35,7 +35,7 @@ It is *nice* when a maintainer offers you their time, but by no means are they
 required to. FOSS is what **you** make of it. You have the right to make the
 changes you need from the software yourself, and you are the only person that
 you can reliably expect to do it. You aren't entitled to the maintainer's time,
-but you are, per the [open source definition](https://opensource.com/osd) and
+but you are, per the [open source definition](https://opensource.org/osd) and
 [free software definition](https://www.gnu.org/philosophy/free-sw.en.html),
 entitled to change the software, distribute your changes to others, and to sell
 the software with or without those changes.
