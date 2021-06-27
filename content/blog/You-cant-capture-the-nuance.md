@@ -34,6 +34,10 @@ Here are some of the nuances of using this text box on my operating system
   exceeding the bounds of the text box or even the entire web browser, to select
   all text from that point to the start of the text box. (Thanks minus for
   mentioning this one)
+- Selecting text and middle clicking anywhere will paste the text at the clicked
+  location. This uses a separate, distinct clipboard from the one accessed with
+  ctrl+c/ctrl+v. I can also use shift+insert to paste text from this secondary
+  clipboard (this is called the "primary selection").
 
 I rely on all of these nuances when I use form controls in my everyday life.
 This is just for English, by the way. I often type in Japanese, which has an
