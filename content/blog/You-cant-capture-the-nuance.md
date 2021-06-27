@@ -30,6 +30,10 @@ Here are some of the nuances of using this text box on my operating system
 - Clicking any of the whitespace after the end of the text will put the cursor
   after the last character, even if you click to the left of the last character.
   This makes it easy to start appending text to the end.
+- Clicking and dragging from any point, I can drag the mouse straight upward,
+  exceeding the bounds of the text box or even the entire web browser, to select
+  all text from that point to the start of the text box. (Thanks minus for
+  mentioning this one)
 
 I rely on all of these nuances when I use form controls in my everyday life.
 This is just for English, by the way. I often type in Japanese, which has an
