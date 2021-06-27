@@ -37,15 +37,8 @@ Here are some of the nuances of using this text box on my operating system
 
 I rely on all of these nuances when I use form controls in my everyday life.
 This is just for English, by the way. I often type in Japanese, which has an
-entirely alien set of nuances:
-
-<video src="https://l.sr.ht/8b8J.webm" muted autoplay loop controls>
-  If you're seeing this, your browser doesn't support HTML5 video, or webm, idk.
-</video>
-
-Or, on Android[^1]:
-
-[^1]: I don't type on this style of keyboard very often, so please forgive my slow typing.
+entirely alien set of nuances. Here's what that looks like on Android (mobile is
+another beast entirely, too!):
 
 <video src="https://l.sr.ht/u274.webm" muted autoplay loop controls>
   If you're seeing this, your browser doesn't support HTML5 video, or webm, idk.
