@@ -42,7 +42,7 @@ closed. The network's servers may have independent operators, but they operate
 together under a common agreement, rather than the laissez-faire approach
 typical of[^2] ActivityPub servers. The exact organizational and governance
 models vary, but many of these networks have discrete teams of staff which
-server as moderators[^3], often unrelated to the people responsible for the
+serve as moderators[^3], often unrelated to the people responsible for the
 servers. The social system can be designed independently of the technology.
 
 [1]: https://www.oftc.net
