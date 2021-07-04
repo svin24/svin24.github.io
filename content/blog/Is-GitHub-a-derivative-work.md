@@ -1,6 +1,7 @@
 ---
 title: Is GitHub a derivative work of GPL'd software?
 date: 2021-07-04
+outputs: [html, gemtext]
 ---
 
 GitHub recently announced a tool called [Copilot][0], a tool which uses machine
