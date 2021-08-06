@@ -1,5 +1,5 @@
 ---
-title: A lot of Go packages are silently broken because of GOPROXY
+title: proxy.golang.org allows many Go packages to be silently broken
 date: 2021-08-06
 ---
 
