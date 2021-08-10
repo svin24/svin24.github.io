@@ -50,7 +50,8 @@ It's not homes which are being searched, but the digital devices we use for all
 of our communication and information storage and retrieval needs in contemporary
 life.
 
-And it's not lock manufacturers that are making it possible, but Apple.
+And it's not lock manufacturers that are making it possible, but Apple. And the
+government didn't ask: they volunteered.
 
 And it's not police officers, but a proprietary machine learning algorithm that
 no one understands.
