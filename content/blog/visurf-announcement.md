@@ -76,7 +76,7 @@ other.
 
 To support the third goal, I plan on overhauling [sourcehut's][3] frontend[^1],
 and in the course of that work we will be building a new HTML+CSS framework
-(think Bootstrap) which treats smaller browsers like NetSurf a first-class
+(think Bootstrap) which treats smaller browsers like NetSurf as a first-class
 target. The goal for this effort will be to provide a framework that allows for
 conservative use of newer browser features, with suitable fallbacks, with enough
 room for each website to express its own personality in a manner which is
