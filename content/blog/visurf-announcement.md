@@ -4,7 +4,7 @@ date: 2021-09-11
 ---
 
 I've started a new side project that I would like to share with you:
-[visurf][0]. visurf, or nsvi, is [NetSurf][1] frontend which provides
+[visurf][0]. visurf, or nsvi, is a [NetSurf][1] frontend which provides
 vi-inspired key bindings and a lightweight Wayland UI with few dependencies.
 It's still a work-in-progress, and is not ready for general use yet. I'm
 letting you know about it today in case you find it interesting and want to
