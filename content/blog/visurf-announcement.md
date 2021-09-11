@@ -40,7 +40,7 @@ about my needs with each passing day. A new solution is called for.
 
 Here's where visurf comes in. Here's a video of it in action:
 
-<video src="https://mirror.drewdevault.com/visurf.webm">
+<video src="https://mirror.drewdevault.com/visurf.webm" controls>
   Your browser does not support HTML5 video, or webm. Here's a direct link:
   <a href="https://mirror.drewdevault.com/visurf.webm">Watch this video</a>
 </video>
