@@ -1,6 +1,7 @@
 ---
 title: visurf, a web browser based on NetSurf
 date: 2021-09-11
+outputs: [html, gemtext]
 ---
 
 I've started a new side project that I would like to share with you:
@@ -23,13 +24,13 @@ the cooperation of like-minded websites to support a pleasant experience.
 
 [2]: https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html
 
-I was a [qutebrowser][2] user for a long time, and I think it's a great project
-given the constraints that it's working in &mdash; namely, the modern web. But
-I reject the modern web, and qute is just as much a behemoth of complexity as
-the rest of its lot. Due to stability issues, I finally ended up abandoning it
-for Firefox several months ago.
+I was a [qutebrowser][qute] user for a long time, and I think it's a great
+project given the constraints that it's working in &mdash; namely, the modern
+web. But I reject the modern web, and qute is just as much a behemoth of
+complexity as the rest of its lot. Due to stability issues, I finally ended up
+abandoning it for Firefox several months ago.
 
-[2]: https://qutebrowser.org
+[qute]: https://qutebrowser.org
 
 The UI paradigm of qutebrowser's modal interface, inspired by vi, is quite nice.
 I tried to use Tridactyl, but it's a fundamentally crippled experience due to
