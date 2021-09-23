@@ -49,6 +49,11 @@ means I can just read it locally, offline, in the text editor of my choice,
 rather than on some annoying website that calls authentication a "triumphant
 success" and complains about JavaScript being disabled.
 
+**Note**: This blog post pre-dates the commercial take-over of and subsequent
+obsolescence of Freenode. The network this connects to, and channel it mentions,
+no longer exist. Running these commands will not work, though the principles
+remain correct.
+
 You don't have to read it right now, though. I can give you a summary here, like
 I gave for Slack. Let's start by not writing a bot at all - let's just manually
 throw some bits in the general direction of Freenode. Install netcat and run
