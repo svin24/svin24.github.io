@@ -35,12 +35,14 @@ again.
 
 [Bibliogram][bi] is another attempt which has done its best to fix Instagram,
 but they have [encountered challenges][bi issues] with Instagram's strict rate
-limits and anti-scraping measures. Another project, [Libreddit][lr], is
-attempting to fix Reddit's increasingly anti-user interface.
+limits and anti-scraping measures. Another project, [Teddit][td], is attempting
+to fix Reddit's increasingly anti-user interface, and [Libreddit][lr] has
+similar ambitions.
 
 [bi]: https://sr.ht/~cadence/bibliogram/
 [bi issues]: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instagram%20rate%20limits.md#tldr-what-does-it-mean-if-an-instance-is-blocked
 [lr]: https://github.com/spikecodes/libreddit
+[td]: https://codeberg.org/teddit/teddit
 
 All of these services are more useful, more accessible, and more inclusive than
 their corporate counterparts. They work better on older browsers and low-end
