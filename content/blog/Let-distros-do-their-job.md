@@ -79,6 +79,8 @@ There are a few things you *can* do to make this work better.
   asking questions. They're the expert on their distro, but you're the expert on
   your software, and sometimes you will meet to compare notes.
 
+*See also: [FOSDEM 2018 - How To Make Package Managers Cry](https://archive.fosdem.org/2018/schedule/event/how_to_make_package_managers_cry/)*
+
 [4]: https://drewdevault.com/2021/05/19/How-to-write-release-notes.html
 
 One thing you shouldn't do is go around asking distros to add your program to
