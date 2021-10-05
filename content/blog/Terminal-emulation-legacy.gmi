@@ -92,7 +92,7 @@ The ASCII character set was designed to facilitate computer communications, and 
 
 Early computers prior to this point did not establish much in the way of legacy standards that are still a part of modern computing, so our story ends here. The programmers of this time lived in a world where communications were governed by telephones, and, before that, the telegraph.
 
-Hang on, though. These ASCII computers repurposed teletypes, an existing technology, so, naturally, their communication model was based on those devices understood. Can we go back even further? The primary protocol for electronic signalling at this time was standardized as the International Telegraph Alphabet No. 2 (ITA2). If we look inside, we find all of the English letters, and also... null, carriage return, line feed, and bell.
+Hang on, though. These ASCII computers repurposed teletypes, an existing technology, so, naturally, their communication model was based on whatever those devices understood. Can we go back even further? The primary protocol for electronic signalling at this time was standardized as the International Telegraph Alphabet No. 2 (ITA2). If we look inside, we find all of the English letters, and also... null, carriage return, line feed, and bell.
 
 All of these characters were added to ASCII for backwards compatibility with ITA2, which was introduced in 1924, and are implemented by your terminal emulator today. 97 years of backwards compatibility. But, look carefully: why the "2" in ITA2?
 
