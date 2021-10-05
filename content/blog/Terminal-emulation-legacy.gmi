@@ -8,7 +8,7 @@ On Unix, the terminal emulator manages a resource called a pty, or "pseudotermin
 
 These Unix flavors came up with pseudoterminal to provide a pseudo- version of the real thing: a terminal. Yes, the terminal emulator, as the name might suggest, is but an emulator of a very real object, in the same sense as a GameBoy emulator is emulating the behavior of a real system that money can buy. Now obsolete, terminals were dedicated devices which provided a screen and connected to a minicomputer, mainframe, or modem, usually via a serial cable, and provided text-based input and output capabilities much like what we see in our terminal emulators today. Your terminal emulator is usually emulating, at a bare minimum, the DEC VT100 terminal, which looked like this:
 
-=> /DEC_VT100_terminal.jpg Picture of a DEC VT220. Photo credit: Jason Scott
+=> /DEC_VT100_terminal.jpg Picture of a DEC VT100. Photo credit: Jason Scott
 
 Your Unix system today still includes a state machine which aims to reproduce the behavior of this device, in concert with your terminal emulator. The TTY subsystem provides for the configuration of traits like baud rate, parity configuration, and other signalling concerns. Yes, your terminal emulator has a baud rate. You can find out what it is like so:
 
