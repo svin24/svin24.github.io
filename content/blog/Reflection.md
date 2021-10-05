@@ -1,7 +1,7 @@
 ---
 title: How reflection works in ****
-author: Drew DeVault
 date: 2021-10-05
+outputs: [html, gemtext]
 ---
 
 *Note: this is a redacted copy of a blog post published on the internal
