@@ -6,7 +6,7 @@ layout: page
 # Services
 
 - [godocs.io](https://godocs.io)
-- [Gemini portal](https://portal.drewdevault.com)
+- [gemreader](gemini://feeds.drewdevault.com)
 
 # Pages
 
