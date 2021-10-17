@@ -25,7 +25,7 @@ form properly (a solved problem since 1993).
 When the average person (i.e. a non-nerd) says they "don't get computers", I
 believe them. It's not because they're too lazy to learn, or because they're
 backwards and outdated, or can't keep with the times. It's because computers are
-hard to understand. They are enegmatic and unreliable. **I** know that when my
+hard to understand. They are enigmatic and unreliable. **I** know that when my
 phone suddenly stops delivering SMS messages mid-conversation, it's not because
 I've been abandoned by my friend, but because I need to toggle airplane mode to
 reboot the modem. **I** know that when I middle click a link and "javascript:;"
