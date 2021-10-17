@@ -17,10 +17,10 @@ stupider problems, however, and they are *everywhere*. Every morning, I boot,
 then immediately hard-reboot, my workstation, because it seems to jigger my
 monitors into waking up properly to do their job. On many occasions, I have used
 the browser dev tools to inspect a broken web page to figure out how to make it
-do the thing I want to do,[^1] usually something complicated like submitting a
-form properly (a solved problem since 1993).
+do the thing I want to do, usually something complicated like submitting a
+form properly (a solved problem since 1993).[^1]
 
-[^1]: Or to remove the rampant ads, spyware, nagbars, paywalls, newsletter pop-ups, and spam. Do not add this shit to your website. Don't you *dare* write that code.
+[^1]: I often also end up using the dev tools to remove the rampant ads, spyware, nagbars, paywalls, newsletter pop-ups, and spam. Do not add this shit to your website. Don't you *dare* write that code.
 
 When the average person (i.e. a non-nerd) says they "don't get computers", I
 believe them. It's not because they're too lazy to learn, or because they're
@@ -53,7 +53,7 @@ do our part to correct it.
 
 This is what you must do.
 
-You must prioritize simplicity.x You and I are not smart enough to be clever, so
+You must prioritize simplicity. You and I are not smart enough to be clever, so
 don't try. As the old saying goes, there are two kinds of programs: those simple
 enough to obviously have no bugs, and those complicated enough to have no
 obvious bugs. It is by no means easier to make the simpler kind, in fact, it's
