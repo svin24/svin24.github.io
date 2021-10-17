@@ -53,12 +53,14 @@ do our part to correct it.
 
 This is what you must do.
 
-You must prioritize simplicity. You and I are not smart enough to be clever, so
+You must prioritize simplicity.x You and I are not smart enough to be clever, so
 don't try. As the old saying goes, there are two kinds of programs: those simple
 enough to obviously have no bugs, and those complicated enough to have no
-obvious bugs. The simpler the system is, the easier it is to reason about all of
-its states and edge cases. You do not need a JavaScript-powered custom textbox
-widget. YOU DO NOT NEED A JAVASCRIPT-POWERED CUSTOM TEXTBOX WIDGET.
+obvious bugs. It is by no means easier to make the simpler kind, in fact, it's
+much more difficult. However, the simpler the system is, the easier it is to
+reason about all of its states and edge cases. You do not need a
+JavaScript-powered custom textbox widget. YOU DO NOT NEED A JAVASCRIPT-POWERED
+CUSTOM TEXTBOX WIDGET.
 
 On the subject of state, state is the language of robustness. When something
 breaks, it's because a state occured that you didn't plan for. Think about your
