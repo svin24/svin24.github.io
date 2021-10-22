@@ -23,7 +23,7 @@ friends. The coverage of the history of wiretapping and the pivotal role played
 by 9/11, complete with an empathetic view of the mindset of American adults
 contemporary to it that many find hard to express, along with great drone shots
 of Big Tech's mysterious datacenters, this is all great stuff. For the right
-project, Destin is like a valuable asset with a large audience and a lot of
+project, Destin is a valuable asset with a large audience and a lot of
 experience in making complex issues digestible for the every-person, and
 4privacy is lucky to have access to him.
 
