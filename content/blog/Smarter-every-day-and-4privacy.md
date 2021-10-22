@@ -56,29 +56,29 @@ system, and we need to understand that this will not happen.
 [3]: https://4privacy.com/contact-us/
 
 Growing consumer awareness in privacy issues over the past decade, combined with
-a generally low level of technology literacy in the population, the privacy
-space has allowed a lot of grifters to arise. One of the common forms these
-grifts take is seen in the rise of VPN companies, which prey on consumer fear
-and often use YouTube as a marketing channel, [including on Destin's previous
-videos][4]. Another giant, flaming red flag appears whenever cryptocurrency is
-involved. In general terms, the privacy space is thoroughly infested with bad
-actors, which makes matters of trust very difficult. 4privacy needs to be
-prepared to be very honest and transparent with not only their tech, but their
-financial structure and incentives. With SourceHut, I had to *engineer* our
-incentives to suit stated goals, and I communicate this to users so that they
-can make informed choices about us. 4privacy would be wise to take similar
-steps, in full view of the public.
+a generally low level of technology literacy in the population, has allowed a
+lot of grifters to arise. One of the common forms these grifts take is seen in
+the rise of VPN companies, which prey on consumer fear and often use YouTube as
+a marketing channel, [including on Destin's previous videos][4]. Another giant,
+flaming red flag appears whenever cryptocurrency is involved. In general terms,
+the privacy space is thoroughly infested with bad actors, which makes matters of
+trust very difficult. 4privacy needs to be prepared to be very honest and
+transparent with not only their tech, but their financial structure and
+incentives. With SourceHut, I had to *engineer* our incentives to suit stated
+goals, and I communicate this to users so that they can make informed choices
+about us. 4privacy would be wise to take similar steps, in full view of the
+public.
 
 [4]: https://www.youtube.com/watch?v=OdPoVi_h0r0
 
 Empowering users to make informed choices leads me into our next point: is
 4privacy ready to bear the burden of responsibility for this system? As far as I
-can glean from their mock-ups, they plan to be handling your IDs, passwords,
-healthcare information, confidential attorney/client commutations, and so on.
-The consequences of having this information compromised are grave, and this
-demands world-class security. It's also extremely important for 4privacy to be
-honest with their users about what their security model can, and cannot, make
-promises about.
+can glean from their mock-ups, they plan to be handling your government IDs,
+passwords, healthcare information, confidential attorney/client communications,
+and so on.  The consequences of having this information compromised are grave,
+and this demands world-class security. It's also extremely important for
+4privacy to be honest with their users about what their security model can, and
+cannot, make promises about.
 
 You must be honest with your users, and help them to understand how the system
 works, and when it doesn't work, so that they can make informed choices about
@@ -110,10 +110,12 @@ application in a manner that suggests that it can be done. To keep things short,
 I'll refute the idea as briefly as possible: what's to stop someone from taking
 a picture of the phone while it's displaying your private info? Or writing it
 down? When you press the "revoke" button in the app, and it dutifully disappears
-from their phone screen, the private information is still written on a piece of
-paper in their desk drawer and you're none the wiser. The application has given
-you a *false sense of security*, which is a major problem for a privacy-oriented
-tool.
+from their phone screen,[^1] the private information is still written on a piece
+of paper in their desk drawer and you're none the wiser. The application has
+given you a *false sense of security*, which is a major problem for a
+privacy-oriented tool.
+
+[^1]: And there's no guarantee that it will, for the record.
 
 You *can* work in this problem space, albeit under severely limited constraints.
 For example, consider how the SSH agent works: an application which wants to use
@@ -175,6 +177,7 @@ the negotiating table.
 In short, I would urge them to do the following:
 
 - Make clear their funding sources, incentive model, and plans for monetization.
+  Tell everyone the pitch they tell to private investors.
 - Publish their whitepaper draft and invite public comment now, rather than when
   it's "finished". Consider doing the same with the source code.
 - Work to inform potential users about how the technology works, to the extent
@@ -182,9 +185,9 @@ In short, I would urge them to do the following:
   this.
 
 4privacy should generally institute a policy of greater transparency and
-openness by default, preferring to keep private only what absolutely must. There
-is no shame in iterating on an incomplete product in the view of the public. On
-the contrary, I am quite proud that my business works in this manner.
+openness by default, preferring to keep private only what they absolutely must.
+There is no shame in iterating on an incomplete product in the view of the
+public. On the contrary, I am quite proud that my business works in this manner.
 
 The fundraising campaign quickly met its goal and will presumably only continue
 to grow in the coming weeks &mdash; it's reasonably certain that it will close
