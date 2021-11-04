@@ -6,6 +6,17 @@ title: Understanding pointers
 tags: [C, instructive]
 ---
 
+<style>
+table {
+  border-spacing: 0;
+  width: 100%;
+}
+
+th, td {
+  border-bottom: 1px solid black;
+}
+</style>
+
 I was recently chatting with a new contributor to Sway who is using the project
 as a means of learning C, and he had some questions about what `void**` meant
 when he found some in the code. It became apparent that this guy only has a
@@ -18,11 +29,9 @@ basically a flat array of
 describes every data structure you use as a series of octets. For the context of
 this article, let's consider the following memory:
 
-{:.table}
 | 0x0000 | 0x0001 | 0x0002 | 0x0003 | 0x0004 | 0x0005 | 0x0006 | 0x0007 |
 |:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
 | 0x00   | 0x00   | 0x00   | 0x00   | 0x08   | 0x42   | 0x00   | 0x00   |
-|========|========|========|========|========|========|========|========|
 
 We can refer to each element of this array by its index, or address. For
 example, the value at address 0x0004 is 0x08. On this system, we're using 16-bit
@@ -78,11 +87,9 @@ store the value 0x1234 in memory. This doesn't fit in 8 bits, so we need to
 store it at two different addresses. For example, we could store it at 0x0006
 and 0x0007:
 
-{:.table}
 | 0x0000 | 0x0001 | 0x0002 | 0x0003 | 0x0004 | 0x0005 | 0x0006 | 0x0007 |
 |:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
 | 0x00   | 0x00   | 0x00   | 0x00   | 0x08   | 0x42   | 0x34   | 0x12   |
-|========|========|========|========|========|========|========|========|
 
 *0x0007 makes up the first byte of the value, and *0x0006 makes up the second
 byte of the value.
@@ -116,11 +123,9 @@ of the `uint16_t` pointer we've been talking about is 0x0006, right? Well, we
 can store that number in memory as well. If we store it at 0x0002, our memory
 looks like this:
 
-{:.table}
 | 0x0000 | 0x0001 | 0x0002 | 0x0003 | 0x0004 | 0x0005 | 0x0006 | 0x0007 |
 |:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
 | 0x00   | 0x00   | 0x06   | 0x00   | 0x08   | 0x42   | 0x34   | 0x12   |
-|========|========|========|========|========|========|========|========|
 
 The question might then become, how do we get it out again? Well, we can use a
 pointer *to that pointer*! Check out this code:
@@ -186,11 +191,9 @@ Our structure describes a linked list of coordinates. X and Y are the
 coordinates, and next is a pointer to the next set of coordinates in our list.
 I'm going to drop two of these in memory:
 
-{:.table}
 | 0x0000 | 0x0001 | 0x0002 | 0x0003 | 0x0004 | 0x0005 | 0x0006 | 0x0007 |
 |:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
 | 0xAD   | 0xDE   | 0xEF   | 0xBE   | 0x06   | 0x00   | 0x34   | 0x12   |
-|========|========|========|========|========|========|========|========|
 
 Let's write some C code to reason about this memory with:
 
