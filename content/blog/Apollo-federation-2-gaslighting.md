@@ -124,7 +124,7 @@ have to make their hosted version *better* than the competitors, or seek other
 monetization strategies: selling books, support contracts, consulting, early
 access to security patches, and so on.
 
-The community, allegedly at the heart of everything Elastic does, participates
+The community, allegedly at the heart of everything Apollo does, participates
 in the software's development, marketing, and growth, and they are rewarded with
 the right to commercialize it. The community is incentivized to contribute back
 because they retain their copyright and the right to monetize the software. [634
