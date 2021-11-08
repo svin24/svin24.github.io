@@ -59,7 +59,7 @@ replaced with user-first, high performance, FOSS frontends:
 
 - Facebook
 - GitLab and GitHub
-- Medium et al, via an open source [readability][0]-as-a-service platform
+- ~~Medium et al~~ 2021-11-08: Check out [scribe.rip](https://scribe.rip)!
 
 [0]: https://github.com/mozilla/readability
 
