@@ -1,0 +1,13 @@
+I think there is a simple misconception about Gemini which can be corrected with a reframing of our thinking around what the protocol is and is not designed for. Let me introduce the idea briefly. What is Gemini? Here is my proposed answer:
+
+> Gemini is a read-only protocol for hyperlinked content distribution.
+
+I think this "read-only" nature is something we've been missing from how we present Gemini to people, and confusion about this property is the source of a lot of the frustrating proposals we see for how Gemini should be extended.
+
+Gemini is not a protocol for publishing. We use a different protocol for that, like git or rsync. It's not interactive, either, at least not in the same sense as the web is. It is a protocol for consumption: for reading hyperlinked Gemtext documents.
+
+This quickly rules out a lot of the feature requests which have frustrated Gemini enthusiasts since the dawn of the protocol. Forms? No, Gemini is read-only. File uploads? No, Gemini is read-only. Commenting systems? No, Gemini is read-only. BBS? No, Gemini is read-only.
+
+This also gives us a way to interpret the protocol design and figure out what each feature is meant to do. The only detail in this respect which I would like to make note of right now is the "INPUT" response code. Its purpose is to find content to read. It's for searching! Gemini is read-only, and this just helps you narrow down what to read. It is not for, say, writing comments. It also tells us that 11, SENSITIVE INPUT, should be removed -- something which has already been proposed.
+
+For what it's worth, this framing communicates a lot about what the protocol itself is for, but isn't much help for understanding the document format. Questions like inline images, inline formatting syntax, and other extensions to Gemtext are not neatly resolved by this philosophy. I have my opinions on these, but when it comes to framing them succinctly, I'll leave the problem to future Gemini philosophers.
