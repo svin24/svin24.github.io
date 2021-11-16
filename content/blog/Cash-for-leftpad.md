@@ -22,7 +22,7 @@ for modules with more downloads and fewer lines of code. A condition of this is
 that you must delete it without notice, so that everyone who depends on it wakes
 up to a broken build.
 
-Let's consider an example: [isArray][0]. It has only four lines of code:[^1]
+Let's consider an example: [isArray][0]. It has only four lines of code:
 
 [0]: https://www.npmjs.com/package/isarray
 
@@ -33,23 +33,6 @@ module.exports = Array.isArray || function (arr) {
   return toString.call(arr) === '[object Array]';
 };
 ```
-
-[^1]: Copyright (c) 2013 Julian Gruber \<julian\@juliangruber.com\>. <br /><br />
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to deal
-  in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:<br /><br />
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.<br /><br />
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-  SOFTWARE.
 
 With 51 million downloads this week, this works out to a reward of $710.
 
@@ -93,3 +76,29 @@ Adding a dependency is a serious decision which requires consensus within the
 team, an audit of the new dependency, an understanding of its health and
 long-term prospects, and an ongoing commitment to re-audit them and be prepared
 to change course as necessary.
+
+---
+
+isArray license:
+
+```
+Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
