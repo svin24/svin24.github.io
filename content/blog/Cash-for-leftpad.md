@@ -3,24 +3,24 @@ title: I will pay you cash to delete your npm module
 date: 2021-11-16
 ---
 
-npm's diseased culture presents a major problem for global software security.
-It's grossly irresponsible to let your dependency trees grow to thousands of
-dependencies, from vendors you've never met and probably haven't even evaluated,
-to solve trivial tasks which you could have done yourself in mere seconds if you
-had bothered to, or, if properly evaluated, you might not have even needed in
-the first place.
+npm's culture presents a major problem for global software security. It's
+grossly irresponsible to let dependency trees grow to thousands of dependencies,
+from vendors you may have never heard of and likely have not critically
+evaluated, to solve trivial tasks which could have been done from scratch in
+mere seconds, or, if properly considered, might not even be needed in the first
+place.
 
-We need to figure out a way to change this reckless behavior, but how?
+We need to figure out a way to curb this reckless behavior, but how?
 
 I have an idea. Remember left-pad? That needs to happen more often.
 
 ![A LaTeX rendering of an equation which sets a reward (in dollars) to the logarithm of weekly downloads over lines of code in base 10 times one hundred](https://l.sr.ht/Fe7o.svg)
 
-I'll pay you cold hard cash rewards to delete your npm module. The exact amount
-will be determined on this equation, which is designed to offer higher payouts
-for modules with more downloads and fewer lines of code. A condition of this is
-that you must delete it without notice, so that everyone who depends on it wakes
-up to a broken build.
+I'll pay you cold hard cash to delete your npm module. The exact amount will be
+determined on this equation, which is designed to offer higher payouts for
+modules with more downloads and fewer lines of code. A condition of this is that
+you must delete it without notice, so that everyone who depends on it wakes up
+to a broken build.
 
 Let's consider an example: [isArray][0]. It has only four lines of code:
 
