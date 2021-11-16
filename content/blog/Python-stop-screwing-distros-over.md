@@ -79,3 +79,5 @@ left out:
 
 - https://xkcd.com/1988/
 - https://xkcd.com/927/
+
+Further reading: [Developers: Let distros do their job](https://drewdevault.com/2021/09/27/Let-distros-do-their-job.html)
