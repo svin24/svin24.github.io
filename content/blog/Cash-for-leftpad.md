@@ -46,7 +46,7 @@ I may also ask you to wait to delete your module, so that the chaos from each
 deletion is separated by a few weeks to maximize the impact. Also, the reward is
 capped at $1,000, so that I can still pay rent after this.
 
-Do we have a deal? [Click here to apply](#conclusion)
+Do we have a deal? [Click here to apply →](#conclusion)
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
