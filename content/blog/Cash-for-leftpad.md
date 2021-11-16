@@ -59,7 +59,7 @@ suspicious download figures or minified code. We must come to an agreement
 *before* you delete the module, since I will not be able to check the line
 counts or download numbers after it's gone.
 
-I may also ask you to wait to delete your module, so that the choas from each
+I may also ask you to wait to delete your module, so that the chaos from each
 deletion is separated by a few weeks to maximize the impact. Also, the reward is
 capped at $1,000, so that I can still pay rent after this.
 
@@ -91,5 +91,5 @@ Most of my projects have fewer than 100 dependencies, and many have fewer than
 10. Some have zero. This is by design. You can't have a free lunch, I'm afraid.
 Adding a dependency is a serious decision which requires consensus within the
 team, an audit of the new dependency, an understanding of its health and
-long-term prospects, and an ongoing committment to re-audit them and be prepared
+long-term prospects, and an ongoing commitment to re-audit them and be prepared
 to change course as necessary.
