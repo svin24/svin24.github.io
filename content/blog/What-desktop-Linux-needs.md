@@ -21,7 +21,7 @@ expect a non-expert user to successfully install and use Linux for their daily
 needs without a "Linux friend" holding their hand every step of the way.
 
 This is not a problem unless we want it to be. It is entirely valid to build
-software which is accommodating of experts only, and in fact this the kind of
+software which is accommodating of experts only, and in fact this is the kind of
 software I focus on in my own work. I occasionally use the racecar analogy: you
 would not expect the average driver to be able to drive a Formula 1 racecar.
 It is silly to suggest that Formula 1 vehicle designs ought to accommodate
