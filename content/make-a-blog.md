@@ -60,7 +60,7 @@ most to least active:
 - [L. McNulty's blog](https://lmcnulty.gitlab.io/blog/index.html)
 - [Lauro Silva](https://laurosilva.com/)
 - [Nils Schulte's blog](https://nilsschulte.de/posts/)
-- [Nix Adventures](http://nixing.mx/blog/blog.html)
+- [Nix Adventures](https://nixing.mx/index.html)
 - [Stefan Schick's personal Blog](https://stefanschick.eu/)
 - [Limero](https://limero.se/)
 - [Hallau World](https://hallau.world)
