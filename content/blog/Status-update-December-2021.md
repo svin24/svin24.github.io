@@ -1,12 +1,13 @@
 ---
 title: Status update, December 2021
 date: 2021-12-15
+outputs: [html, gemtext]
 ---
 
 Greetings! It has been a cold and wet month here in Amsterdam, much like the
 rest of them, as another period of FOSS progress rolls on by. I have been taking
 it a little bit easier this month, and may continue to take some time off in the
-coming weeks, so I can have a best of a rest for the holidays. However, I do
+coming weeks, so I can have a bit of a rest for the holidays. However, I do
 have some progress to report, so let's get to it.
 
 In programming language progress, we've continued to see improvement in
