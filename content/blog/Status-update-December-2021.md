@@ -34,7 +34,7 @@ todo.sr.ht's GraphQL API. This one ended up being a lot of work. I expect to
 require another week or two to finish it.
 
 visurf also enjoyed a handful of improvements this month, thanks to some
-contributors, the most prolific of whom was Pranjal Kole. Thanks Parnjal!
+contributors, the most prolific of whom was Pranjal Kole. Thanks Pranjal!
 Improvements landed this month include tab rearranging, next and previous page
 navigation, and an improvement to all of the new-tab logic, along with many bug
 fixes and smaller improvements. I also did some of the initial work on command
