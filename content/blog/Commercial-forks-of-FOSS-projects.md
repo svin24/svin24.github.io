@@ -1,5 +1,5 @@
 ---
-title: On commercial forks FOSS projects
+title: On commercial forks of FOSS projects
 date: 2021-12-18
 ---
 
