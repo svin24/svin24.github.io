@@ -13,8 +13,7 @@ serve them differs substantailly from that of free software, and literacy in the
 values and philosophy of free software among this community is very low. It is
 then of little surprise that we see abuse of free software from this community,
 namely in the recent (and illegal) commercial forks of a popular FOSS streaming
-platform called [OBS Studio] by companies like TikTok, StreamLabs, and
-StreamElements.
+platform called [OBS Studio] by companies like TikTok and StreamElements.
 
 [OBS Studio]: https://obsproject.com
 
