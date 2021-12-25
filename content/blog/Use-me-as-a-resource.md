@@ -16,6 +16,7 @@ I'm sitting here on my soapbox shouting into the void, but I also want to work
 with you one-on-one. Here are some things people have reached out to me for:
 
 - Pitching their project/business ideas for feedback
+- Sharing something they're proud of
 - Cc'ing me in mailing list discussions, GitHub/GitLab threads, etc, for input
 - Clarifying finer points in my blog posts
 - Asking for feedback on drafts of their own blog posts
