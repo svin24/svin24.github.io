@@ -251,3 +251,11 @@ You've done a wonderful thing. Thank you!
 
 If you found this guide helpful in publishing your game, please [email
 me](mailto:sir@cmpwn.com) so I can play it!
+
+---
+
+List of FOSS games inspired by this guide:
+
+- [Castaway](https://www.usebox.net/jjm/blog/castaway-source-code/)
+- [The Return of Traxtor](https://www.usebox.net/jjm/blog/the-return-of-traxtor-cpc-source-code/)
+- Yours?
