@@ -1,0 +1,48 @@
+I worked briefly at SpaceX in the early 2010's. It didn't end up being the right job for me, but I have maintained a lifelong interest in space and in the development of humanity's relationship with it that persists to this day. Though I have always been excited about new developments in space exploration during my lifetime -- Mars Curiosity, New Horizons, the Falcon 9 program, and so on -- nothing has excited me more than the Starship program. Let me explain why.
+
+What is happening today which will be taught in schools 1,000 years from now? If I were to come up with a list, it might look like the following:
+
+* Climate change and the Holocene mass extinction
+* US decline and the rise of China
+* The origins of the Internet
+* COVID-19
+
+Your list may look a bit different, but I think this is the crux of it. This is what's going on today which will be immortalized in the history books, and which could have consequences felt by the students who learn about them.
+
+Oh, and one more thing:
+
+* The SpaceX Starship program
+
+If Starship works, it will be taught in schools not just here on Earth, but in classrooms around the solar system, to children whose ancestors have lived away from Earth for hundreds of years. It will be taught 1,000 years from now, 10,000 years from now, and 100,000 years from now, as one of the defining moments of human history.
+
+That may sound a bit over-dramatic, but bear with me and I might just convince you.
+
+The key figure for understanding space exploration is the cost per kilogram launched to orbit. Adjusted for inflation, the Saturn-V rocket which NASA used for the Apollo program could deliver payloads to low Earth orbit (LEO) for about $12,000 per kilogram, and could deliver a total of 118 tons to LEO, or 41 tons to the lunar surface. Europe's Ariane 5 rocket, the one that just launched the James Webb Space Telescope, costs about $9,000 per kilo up to 16 tons, and the most cost-effective, reliable, and popular rocket in service today, the SpaceX Falcon 9, costs about $2,700 per kilo up to 15 tons.
+
+The Starship, as designed, will be able to launch somewhere between 100 and 150 tons in a single launch for about $20 per kilogram. What would you put in space if you could do it for $20/kg?
+
+Another important figure for understanding space exploration is the "Delta-V" budget, which refers to the amount of "change in velocity" that is required to move from one place to another, and is correlated with fuel usage, engine efficiency, and the famous rocket equation, which is often famously called "the tyrannical rocket equation", which accounts for the fact that you have to use some of your fuel to push the rest of your fuel around. Almost all of your Delta-V is spent getting from Earth's surface to Earth orbit, fighting your way through the atmosphere, and relatively little fuel is needed to do any remaining maneuvers to get to your destination.
+
+After the Starship makes orbit, additional Starships full of fuel also launch, meet it, and refuel it. This solves the rocket equation.
+
+In effect, this means that a Starship doesn't just bring its 150 ton payload to Earth orbit: it brings a 150 ton payload to anywhere in the solar system.
+
+NASA's Artemis program selected the Starship for their upcoming manned lunar missions, which means that SpaceX will essentially land a 15-story building on the Moon with a payload mass equal to 50 adult elephants, or, perhaps more aptly, seven Caterpillar D5 Medium Bulldozers. The internal pressurized volume of the Starship is greater than the pressurized volume of the International Space Station, which required over 40 launches to assemble in space. Oh, and the latest Starship booster prototype was apparently built in about 6 weeks.
+
+This is the first time in human history that there has been a promising program to develop a spacecraft which not only has the potential to bring humans to other planets, but to bring heavy equipment with which to build a permanent human presence there. It will do so for 1% of the cost of the most cost effective rocket in service today -- another SpaceX rocket which is 3× cheaper than the competition and has already revolutionized the space industry.
+
+That's why I'm excited about Starship.
+
+Alas, the program is not without its problems. The greatest challenge it faces now is that it must be done within a regulatory framework which is concerned with its impact on the environment near the launch site. I'm on the books as being staunchly against the "move fast and break laws" approach favored by Uber et al, so I hope very much that SpaceX is able to pull it off within the constraints of the law. The FAA just announced a delay in their verdict on the environmental impact of the program to the end of February, which will delay the first test launches until March at the earliest, but could also, given a negative review, delay it for years or longer. I really hope that it works out for SpaceX, because I want to live to see humans on other planets, and we need this program to start launching soon for that to happen.
+
+It's also worth addressing the weird relationship that the Internet has with SpaceX. I think this has a lot to do with the asshole who acts as the public face of the company: Elon Musk. I find this really unfortunate, because I believe that this program is profoundly important regardless of Musk's involvement, and Musk has very little to do with what's going on at SpaceX, despite appearances. The company is led by its CEO, Gwynne Shotwell, and the actual work is undertaken by thousands of extremely talented and passionate engineers -- not by Musk. It's also unfortunate that, because of Musk's apparent position at the helm, much of the enthusiasm for the project is tied up to some extent with the same cult-like Musk fanboys who fawn over every tweet and try to scam each other into buying some cryptocurrency garbage.
+
+A lot of negativity also probably rubs off from Jeff Bozos, Blue Origin, and the dick rocket, or Richard Brandson's severely out-of-touch Virgin Galactic, both of which are vanity projects of rich assholes and not serious space projects. Neither of their vehicles are capable of what I consider to be the minimum threshold for being taken seriously as a space company, which is making it to LEO. Space is just 100km straight up -- it's not that hard to get there. What's difficult is not just going 100km straight up, but also going several kilometers per second sideways, so that when the Earth pulls you back down you fall over the horizon and miss. Neither of these two rich space clowns has accomplished this feat, but SpaceX did it 26 times in 2020 - fully half of all orbital launches globally in that year - and did it for a fraction of the cost of anyone else. Not only is SpaceX a serious player in the space industry, they are the 500 pound gorilla in the space industry. Blue Origin and Virgin Galactic are a joke.
+
+I think that what bothers me the most about the SpaceX rhetoric is seeing Musk and Bezos damned in the same breath as Amazon and SpaceX. You have to understand, I'm not just a space enthusiast, but I'm also a card carrying socialist - that is, I literally have a DSA card in my wallet. Companies like Amazon are deliberately dismantling our society in the name of profit in a way that SpaceX really isn't. Amazon is a hydra which puts its fingers into hundreds of pies and starts shoving. Consolidation, diversification, regulatory capture, market manipulation, predatory acquisitions, these are the bread and butter of evil capitalist enterprise, and as far as I can tell none of it is going on at SpaceX.
+
+SpaceX has a singular mission, which is to make life multi-planetary. They have made a small number of on-topic acquisitions to facilitate this, but limit themselves to the very specific markets which are relevant to this goal. Oh, they have problems -- Musk's spats with the SEC and his possy of cryptocurrency idiots, union busting behavior, workplace safety issues at Tesla, plus overwork and turnover issues at SpaceX -- these are all important criticisms of SpaceX. But is this really at the same level as the companies who are hacking society to create nation-states-tier levels of wealth through rampant unregulated abuse? I don't think so, not at all.
+
+In my opinion, Musk is nothing but a liability for SpaceX. I honestly find the idea of him as one of the world's richest people pretty laughable, too, given how much of his money exists only on paper, much of which comes from the grossly inflated Tesla stock price. I wish people were able to see past the clown he is to the company behind him, a company which, for all of its faults, is full of passionate people doing amazing work which could profoundly impact the human condition forever, and which is not busy destroying the world in the same sense that the biggest criminals of capitalism are hard at work doing.
+
+It's my sincere hope that you will join me in seeing past all of the dick-rocket memes and Musk's ridiculous cult following for the true potential of the Starship program. This is a profound effort which offers the only chance we've ever seen to undertake what might be one of the most important changes in human history: the development of a space-faring, multi-planetary society.
