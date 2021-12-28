@@ -71,7 +71,7 @@ Perceptive readers might have noticed that most of these arguments can be
 generalized. This article is much the same if we replace "Discord" with
 "GitHub", for instance, or "Twitter" or "YouTube". If your project depends on
 proprietary infrastructure, I want you to have a serious discussion with your
-collaborators about why. What do your choices means for the long-term success of
+collaborators about why. What do your choices mean for the long-term success of
 your project and the ecosystem in which it resides? Are you making smart
 investments, or just using tools which are popular or that you're already used
 to?
