@@ -31,7 +31,34 @@ Privacy-concious users will think twice before using Discord to participate in
 your project, or will be denied outright if they rely on Tor or VPNs. All of
 these groups are excluded from your community.
 
-[^1]: Discord [had to be sued](https://www.lflegal.com/2021/10/discord-agreement/) to take this seriously.
+[^1]: Discord [had to be
+  sued](https://www.lflegal.com/2021/10/discord-agreement/) to take this
+  seriously. Updated at 2021-12-28 15:00 UTC: I asked a correspondent of mine who works on accessibility to
+  comment:<br /><blockquote>I've tried Discord on a few occasions, but haven't seriously tried to
+get proficient at navigating it with a screen reader. I remember finding
+it cumbersome to move around, but it's been long enough since the last
+time I tried it, a few months ago, that I couldn't tell you exactly why.
+I think the general problem, though, is that the UI of the
+desktop-targeted web app is complex enough that trying to move through
+it an element at a time is overwhelming. I found that the same was true
+of Slack and Zulip. I haven't tried Matrix yet. Of course, IRC is great,
+because there's a wide variety of clients to choose from.<br /><br />
+However, you shouldn't take my experience as representative, even though
+I'm a developer working on accessibility. As you may recall, I have some
+usable vision, and I often use my computer visually, though I do depend
+on a screen reader when using my phone. I didn't start routinely using a
+GUI screen reader until around 2004, when I started writing a screen
+reader as part of my job. And that screen reader was targeted at
+beginners using simple UIs. So it's possible that I never really
+mastered more advanced screen reader usage.<br /><br />
+What I can tell you is that, to my surprise, Discord's accessibility has
+apparently improved in recent years, and more blind people are using it now. One
+of my blind friends told me that most Discord functionality is very accessible
+and several blind communities are using it. He also told me about a group of
+young blind programmers who are using Discord to discuss the development of a
+new open-source screen reader to replace the current Orca screen reader for
+GNOME.
+  </blockquote>
 
 These problems are driven by a conflict of interest between you and Discord.
 Ownership over your chat logs, the right to set up useful bots, or to moderate
