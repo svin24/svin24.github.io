@@ -35,9 +35,9 @@ if you want to allocate a buffer of a variable size?
 
 In addition to arrays, <span class="redacted">xxxx</span> supports slices, which
 stores a data pointer, a length, and a capacity. The data pointer refers to an
-array whose length is at equal to or greather than "capacity", and whose values
-are initialized up to "length". We have additional built-ins, "append",
-"insert", and "delete", which can dynamically grow and shrink a slice.
+array whose length is equal to or greater than "capacity", and whose values are
+initialized up to "length". We have additional built-ins, "append", "insert",
+and "delete", which can dynamically grow and shrink a slice.
 
 ```hare
 let x: []int = [];
@@ -120,7 +120,7 @@ So, the proposed "append(x, \[0...\], 10)" expression is *parsed* like this:
             [0...]
             10
 
-In other words, it looks like "append the values \[0...\] and 10 to to x". This
+In other words, it looks like "append the values \[0...\] and 10 to x". This
 doesn't make sense, but we don't know this until we get to the type checker.
 What it really means is "append ten zeroes to x", and we have to identify this
 case in the type checker through, essentially, heuristics. Not great! If we dig
