@@ -123,7 +123,7 @@ workstation GPU plugged into its PCIe slot. Any time I can get the GPU to pick
 up the slack, it works surprisingly effectively. For example, I watched Dune
 (2021) today in 4K on this machine &mdash; buttery smooth, stunningly beautiful
 4K playback &mdash; a feat that my Pinebook Pro couldn't dream of. The GPU has a
-hardware HVEC decoder, and mpv and Sway can use dmabufs such that the GPU
+hardware HEVC decoder, and mpv and Sway can use dmabufs such that the GPU
 decodes and displays each frame without it ever having to touch the CPU, and
 meanwhile the NVMe is fast enough to feed it data at a suitable bandwidth. A
 carefully configured obs-studio is also able to record my 4K display at 30 FPS
