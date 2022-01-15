@@ -1,6 +1,7 @@
 ---
 title: The RISC-V experience
 date: 2022-01-15
+outputs: [html, gemtext]
 ---
 
 I'm writing to you from a Sway session on Alpine Linux, which is to say from a
