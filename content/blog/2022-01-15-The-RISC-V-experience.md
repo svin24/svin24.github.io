@@ -7,7 +7,7 @@ I'm writing to you from a Sway session on Alpine Linux, which is to say from a
 setup quite similar to the one I usually write blog posts on, save for one
 important factor: a RISC-V CPU.
 
-I'll state upfront that what I'm using is not a very practical system. I'm
+I'll state upfront that what I'm using is not a very practical system. What I'm
 going to describe is all of the impractical hacks and workarounds I have used to
 build a "useful" RISC-V system on which I can mostly conduct my usual work. It
 has been an interesting exercise, and it bodes well for the future of RISC-V,
@@ -23,8 +23,8 @@ is a big step up: it's a Mini-ITX form factor (that is, it fits in a
 standardized PC case) with 16G of RAM, and the ethernet, microSD, and GPIO ports
 are complimeneted with a very useful set of additional I/O via two M.2 slots, a
 PCIe slot, and a USB 3 controller, plus an SPI flash chip. I have an NVMe drive
-with my root filesystem on it and an AMD WX 2100 Pro GPU installed. In form, it
-essentially functions like a standard PC workstation.
+with my root filesystem on it and an AMD Radeon Pro WX 2100 GPU installed. In
+form, it essentially functions like a standard PC workstation.
 
 [^expansion]: Plus an expansion slot which was ultimately entirely useless.
 
