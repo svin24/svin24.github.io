@@ -21,7 +21,7 @@ an ethernet port, a little bit of RAM, and the CPU itself, in a custom
 form-factor.[^expansion] Today I'm writing this on the HiFive Unmatched, which
 is a big step up: it's a Mini-ITX form factor (that is, it fits in a
 standardized PC case) with 16G of RAM, and the ethernet, microSD, and GPIO ports
-are complimeneted with a very useful set of additional I/O via two M.2 slots, a
+are complemented with a very useful set of additional I/O via two M.2 slots, a
 PCIe slot, and a USB 3 controller, plus an SPI flash chip. I have an NVMe drive
 with my root filesystem on it and an AMD Radeon Pro WX 2100 GPU installed. In
 form, it essentially functions like a standard PC workstation.
@@ -106,7 +106,7 @@ now.</small></div>
 
 Complicating things is the fact that my ordinary workstation uses two 4K
 displays. For example, my terminal emulator of choice is [foot], but it uses CPU
-rendering and the 4K window is noticably sluggish. Alacritty, which renders on
+rendering and the 4K window is noticeably sluggish. Alacritty, which renders on
 the GPU, would probably fare better &mdash; but Rust spoils this again. I
 settled for [st], which has acceptable performance (perhaps in no small part
 thanks to being upscaled from 1080p on this setup). visurf also renders on the
@@ -119,7 +119,7 @@ size to read the final page.
 
 CPU-bound programs can be a struggle. However, this system has a consumer
 workstation GPU plugged into its PCIe slot. Any time I can get the GPU to pick
-up the slack, it works suprisingly effectively. For example, I watched Dune
+up the slack, it works surprisingly effectively. For example, I watched Dune
 (2021) today in 4K on this machine &mdash; buttery smooth, stunningly beautiful
 4K playback &mdash; a feat that my Pinebook Pro couldn't dream of. The GPU has a
 hardware HVEC decoder, and mpv and Sway can use dmabufs such that the GPU
