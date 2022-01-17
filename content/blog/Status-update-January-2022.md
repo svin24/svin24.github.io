@@ -13,19 +13,19 @@ includes Argon2, Salsa20/XSalsa20, ChaCha20/XChaCha20, and Poly1305, and based
 on these functions we have added libsodium-style high-level cryptographic
 utilities for AEAD and key derivation, with stream encryption, message signing
 and verification, and key exchange coming soon. We have also laid out the
-priorities for future crypto work towards supporting TLS, and in the on the way
-we expect to have ed25519/x25519 and Diffie-Hellman added soon. Perhaps enough
-to implement an SSH client?
+priorities for future crypto work towards supporting TLS, and on the way we
+expect to have ed25519/x25519 and Diffie-Hellman added soon. Perhaps enough to
+implement an SSH client?
 
 I also implemented an efficient path manipulation module for the standard
-library (something I would really have liked to have in C!), progress continues
-on date/time support. We also have a new MIME module (just for Media Types, not
-all of MIME) and I expect a patch implementing net::uri to arrive in my inbox
-soon. I also finished up cmsg support (for sendmsg and recvmsg), which is
-necessary for the Wayland implementation I'm working on (and was a major pain in
-the ass). I helped another collaborator who is developing a RISC-V kernel in our
-language as well, implementing a serial driver for the SiFive UART, plus
-improving the device tree loader and UEFI support.
+library (something I would really have liked to have in C!), and progress
+continues on date/time support. We also have a new MIME module (just for Media
+Types, not all of MIME) and I expect a patch implementing net::uri to arrive in
+my inbox soon. I also finished up cmsg support (for sendmsg and recvmsg), which
+is necessary for the Wayland implementation I'm working on (and was a major pain
+in the ass). I spent some time working with another collaborator, who is
+developing a RISC-V kernel in our language, implementing a serial driver for the
+SiFive UART, plus improving the device tree loader and UEFI support.
 
 One of the standard library contributors also wrote a side-project to implement
 [Ray Tracing in One Weekend] in our language:
