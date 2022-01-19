@@ -18,7 +18,7 @@ One of the answers to this call arrived in my inbox courtesy of Felix Freeman, a
 Chilean hacker and activist for free software, free culture, and free knowledge,
 who asked me to signal boost [Propuestas constitucionales para Chile en la era
 de la información][6], three proposals to establish the following principles in
-the most foundations of Chilean law:
+the foundations of Chilean law:
 
 1. [Access to knowledge][3]
 2. [Technological and digital sovereignty][4]
