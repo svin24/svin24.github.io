@@ -3,6 +3,7 @@ title = "Drew DeVault's blog"
 pygmentsUseClasses = true
 uglyurls = true
 disablePathToLower = true
+rssLimit = 10
 
 [permalinks]
 blog = "/:year/:month/:day/:filename"
