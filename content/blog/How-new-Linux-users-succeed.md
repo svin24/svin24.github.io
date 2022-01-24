@@ -11,8 +11,8 @@ how new Linux users can increase their odds for success &mdash; I have also
 written a companion article, "[What desktop Linux needs to succeed in the
 mainstream][0]", which looks at the other side of the problem.
 
-[Linus Tech Tips]: https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw
-[Switching to Linux Challenge]: https://yewtu.be/playlist?list=PL8mG-RkN2uTyhe6fxWpnsHv53Y1I-K3yu
+[Linus Tech Tips]: https://redirect.invidious.io/channel/UCXuqSBlHAE6Xw-yeJA0Tunw
+[Switching to Linux Challenge]: https://redirect.invidious.io/playlist?list=PL8mG-RkN2uTyhe6fxWpnsHv53Y1I-K3yu
 [0]: /2021/12/05/What-desktop-Linux-needs.html
 
 Linux is, strictly speaking, an operating system *kernel*, which is a small

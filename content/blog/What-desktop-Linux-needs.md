@@ -11,8 +11,8 @@ what Linux needs to do better &mdash; I have also written a companion article,
 "[How new Linux users can increase their odds of success][0]", which looks at the
 other side of the problem.
 
-[Linus Tech Tips]: https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw
-[Switching to Linux Challenge]: https://yewtu.be/playlist?list=PL8mG-RkN2uTyhe6fxWpnsHv53Y1I-K3yu
+[Linus Tech Tips]: https://redirect.invidious.io/channel/UCXuqSBlHAE6Xw-yeJA0Tunw
+[Switching to Linux Challenge]: https://redirect.invidious.io/playlist?list=PL8mG-RkN2uTyhe6fxWpnsHv53Y1I-K3yu
 [0]: /2021/12/05/How-new-Linux-users-succeed.html
 
 Linux is *not* accessible to the average user today, and I didn't need to watch

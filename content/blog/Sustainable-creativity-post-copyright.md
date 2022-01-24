@@ -88,5 +88,5 @@ illegitimate, and we can, and ought to, get rid of it.
 Aside: I came across a couple of videos recently that I thought were pretty
 interesting and relevant to this topic. Check them out:
 
-- [Everything is a Remix Part 1 (2021), by Kirby Ferguson](https://yewtu.be/watch?v=MZ2GuvUWaP8)
-- [The Art Market is a Scam (And Rich People Run It)](https://yewtu.be/watch?v=ZZ3F3zWiEmc)
+- [Everything is a Remix Part 1 (2021), by Kirby Ferguson](https://redirect.invidious.io/watch?v=MZ2GuvUWaP8)
+- [The Art Market is a Scam (And Rich People Run It)](https://redirect.invidious.io/watch?v=ZZ3F3zWiEmc)
