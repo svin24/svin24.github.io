@@ -63,7 +63,7 @@ website.
 
 Localization is another kind of accessibility, and it requires more effort than
 running your strings through gettext. Users in different locales speak not only
-different natural languages, but different design langauges. Users of
+different natural languages, but different design languages. Users of
 right-to-left languages like Arabic don't just reverse their strings but also
 the entire layout of the page. Chinese and Japanese users are more familiar with
 denser UIs than the typical Western user. And subtitles and transcripts are
@@ -73,7 +73,7 @@ content in a second language.
 Intuitiveness is another important detail. Not everyone understands what your
 icons mean, for a start. They may not have the motor skill to hold their mouse
 over the button and read the tool-tip, either, and might not know that they can
-do that in the first place! Reliance on unfamiliar design langauge in general is
+do that in the first place! Reliance on unfamiliar design language in general is
 a kind of inaccessible design. Remember this icon? 💾 Flashing banner ads are
 also inaccessible for users with ADHD, and if we're being honest, for everyone
 else, too. Software which is not responsive on many kinds of devices (touch,
@@ -107,7 +107,7 @@ fact that free software is pretty pathetic when it comes to accessibility. In
 our case, this does not generally come from the perverse incentives that cause
 businesses to cut costs or even deliberately undermine accessibility for
 profit,[^4] but instead comes from laziness (or, more charitably, lack of free
-time and enthuasiasm), and generally from free software's struggles to build
+time and enthusiasm), and generally from free software's struggles to build
 software for people who are not like its authors. I think that we can change
 this. We do not have the profit motive, and we can choose to take pride in
 making better software for everyone. Let's do better.
