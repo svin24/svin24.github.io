@@ -38,11 +38,11 @@ considering contrast, font choices, and animations as well, but all framed
 within the context of adding accessibility band-aids onto a UI designed for
 sighted use.
 
-A key insight here is that these more advanced steps involve making changes
-which are apparent to "typical" users as well, but we'll expand on that in a
-moment. Instead of designing for people like you and then patching it up until it's
-semi-functional for people who are not like you, a wise developer places
-themselves into the shoes of the person they're designing for and builds
+A key insight here is that concerns like font choice and contrast involve making
+changes which are apparent to "typical" users as well, but we'll expand on that
+in a moment. Instead of designing for people like you and then patching it up
+until it's semi-functional for people who are not like you, a wise developer
+places themselves into the shoes of the person they're designing for and builds
 something which speaks their design language. For visually impaired users, this
 might mean laying out information in a more *logical* sense than in a *spatial*
 sense.
@@ -58,7 +58,7 @@ Waking up the user's phone every 15 minutes to check in with your servers isn't
 very nice for someone using a 5-year-old phone with a dying battery. Your huge
 JavaScript bundle, unoptimized images, and always-on network requirements are
 not accessible to users who are on low-bandwidth mobile connections or have a
-data cap&nbsp;&mdash; you're essentially charging them an extra tax to use your
+data cap&nbsp;&mdash; you're essentially charging poorer users a tax to use your
 website.
 
 Localization is another kind of accessibility, and it requires more effort than
