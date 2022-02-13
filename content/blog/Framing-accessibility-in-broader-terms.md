@@ -74,12 +74,12 @@ Intuitiveness is another important detail. Not everyone understands what your
 icons mean, for a start. They may not have the motor skill to hold their mouse
 over the button and read the tool-tip, either, and might not know that they can
 do that in the first place! Reliance on unfamiliar design language in general is
-a kind of inaccessible design. Remember this icon? 💾 Flashing banner ads are
-also inaccessible for users with ADHD, and if we're being honest, for everyone
-else, too. Software which is not responsive on many kinds of devices (touch,
-mouse and keyboard, different screen sizes, aspect ratios, orientations) is not
-accessible. Software which requires the latest and greatest technologies to use
-(such as a modern web browser) is also not accessible.
+a kind of inaccessible design. Remember the "save" icon? 💾 Flashing banner ads
+are also inaccessible for users with ADHD, and if we're being honest, for
+everyone else, too. Software which is not responsive on many kinds of devices
+(touch, mouse and keyboard, different screen sizes, aspect ratios, orientations)
+is not accessible. Software which requires the latest and greatest technologies
+to use (such as a modern web browser) is also not accessible.
 
 Adequate answers to these problems are often expensive and uncomfortable, so no
 one wants to think about them. Social-media-esque designs which are deliberately
