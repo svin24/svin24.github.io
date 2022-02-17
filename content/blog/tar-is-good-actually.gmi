@@ -1,0 +1,54 @@
+Let's talk about tar, that tool that everyone loves to hate.
+
+=> https://xkcd.com/1168/ xkcd: tar
+
+For my part, I think tar is a really useful and under-rated tool. And unlike Cueball, I could defuse that bomb 😉
+
+tar is a shell utility for making archives, often called "tarballs", which store several files. tar is a Unix-native file format, and includes information about file ownership and modes. This makes it very useful for moving groups files around on Unix systems.
+
+The general usage of tar, like most Unix programs, is the following:
+
+```
+$ tar [-options] <files...>
+```
+
+The options you specify must include at least one operation, and optionally some number of flags. The most useful operations are create (-c), extract (-x), and list (-t). The most common flags are -C (to change the working directory first), -z (to add gzip compression), and -v (verbose mode, prints out each file name it archives or extracts).
+
+To create a tar archive which contains the files "a.txt", "b.txt", and "c.txt", you can do the following:
+
+```
+$ tar -c a.txt b.txt c.txt > files.tar
+```
+
+You can add compression in one of two ways:
+
+```
+$ tar -c a.txt b.txt c.txt | gzip > files.tar.gz
+$ tar -cz a.txt b.txt c.txt > files.tar.gz
+```
+
+Shell globbing is often useful here. To create an archive of all of the text files in documents:
+
+```
+$ tar -c documents/*.txt > documents.tar
+```
+
+Getting the path right is often important: tar uses the paths which appear on the command line. In this example, the tarball contains a directory called "documents" which is full of text files. Extracting this tarball somewhere else will create a "documents" directory and fill it with these files. If you want to store the files in the root of the tarball, you need to change to the "documents" directory first. You can do this in your shell, with cd, or you can use the -C flag:
+
+```
+$ tar -C documents/ -c text/ index.txt > documents.tar
+```
+
+This creates a tarball of the files at "documents/text/" and "documents/index.txt", but roots them in the tarball as "text/" and "index.txt".
+
+You'll note that I'm consistently using | in each of these examples to form a pipeline. Another important use-case for tar is to move several files at once through a Unix pipeline. For instance, you can transfer files without scp or rsync like so:
+
+```
+$ ssh hostname tar -C sources/ -cz linux | pv | tar -xzv
+```
+
+This SSHes into "hostname", tars up "sources/linux/", and extracts it to linux/ on the client machine. The -xzv flags extracts, unzips, and prints each file name. Combined with pv, this gives me a nice progress indication for the transfer.
+
+=> http://www.ivarch.com/programs/pv.shtml pv: I install it on all of my machines
+
+That's all for today. I think tar is pretty cool and gets an unfairly bad rep. You should mess around with it sometime. Cheers!
