@@ -46,11 +46,14 @@ and tearing down the pillars of online security in exchange for a mild
 convenience is ridiculous.
 
 A convincing argument can be made that this platform violates the Computer Fraud
-and Abuse Act. Plaid thus joins the ranks of Uber, AirBnB, and others like them
-in my reckoning as a "move fast and break laws" company. This platform can only
-exist if they are either willfully malignant or grossly incompetent. They've
-built something that they know is wrong, and are hoping that they can outrun the
-regulators.
+and Abuse Act. Last year, [they paid out $58M][1] in one of many lawsuits for
+scraping and selling your bank data. Plaid thus joins the ranks of Uber, AirBnB,
+and others like them in my reckoning as a "move fast and break laws" company.
+This platform can only exist if they are either willfully malignant or grossly
+incompetent. They've built something that they know is wrong, and are hoping
+that they can outrun the regulators.
+
+[1]: https://www.jurist.org/news/2021/08/plaid-agrees-to-pay-58-million-in-data-privacy-class-action-lawsuit/
 
 This behavior is not acceptable. This company needs to be regulated into the
 dirt and made an example of. Shame on you Plaid, and shame on everyone involved
