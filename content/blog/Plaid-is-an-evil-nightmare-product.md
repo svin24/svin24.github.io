@@ -8,10 +8,10 @@ their customer's websites which allows their customers to configure integrations
 with a list of third-party service providers. To facilitate this, Plaid pops up
 a widget on their customer's domain which asks the end-user to *type in their
 username and password* for the third-party service provider. If necessary, they
-will ask for a 2FA code. This is done without the third-party's permission,
+will ask for a 2FA code. This is done without the third party's permission,
 presumably through a browser emulator and a provider-specific munging shim, and
 collects the user's credentials on a domain which is operated by neither the
-third-party nor by Plaid.
+third party nor by Plaid.
 
 [Plaid]: https://plaid.com
 
