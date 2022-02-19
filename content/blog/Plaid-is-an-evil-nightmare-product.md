@@ -55,7 +55,7 @@ regulators.
 This behavior is not acceptable. This company needs to be regulated into the
 dirt and made an example of. Shame on you Plaid, and shame on everyone involved
 in bringing this product to market. Shame on their B2B customers as well, who
-cannot, such as they may like to, offload blame for their ethical failures onto
+cannot, such as they may like to, offload ethical due-diligence onto their
 vendors. Please don't work for these start-ups. [I hold employees complicit in
 their employer's misbehavior][0]. You have options, please go make the world a
 better place somewhere else.
