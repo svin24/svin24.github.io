@@ -98,7 +98,7 @@ OSI, is a *useful* term that is worth preserving in its current form. It is
 useful to quickly understand the essential values and rights associated with a
 piece of software as easily as stating that it is "open source". I am not
 prepared to accept a new definition which removes or reduces important rights in
-service if your private financial interests.
+service of your private financial interests.
 
 The mainstream usage of "open source" under the OSD is also, in my opinion,
 morally just. You may feel a special relationship with the projects you start
