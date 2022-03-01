@@ -1,6 +1,7 @@
 ---
 title: Open Source is defined by the OSI's Open Source Definition
 date: 2022-03-01
+outputs: [html, gemtext]
 ---
 
 Today, I submitted my candidacy for the board of the Open Source Initiative,
