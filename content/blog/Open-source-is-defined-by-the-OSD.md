@@ -4,21 +4,6 @@ date: 2022-03-01
 outputs: [html, gemtext]
 ---
 
-Today, I submitted my candidacy for the board of the Open Source Initiative,
-where I hope to embody and expand upon the values expressed in this post. I plan
-to use this role to focus on the preservation of the fundamental values of open
-source, as well as using the OSI as a platform to expand open source literacy
-among both individual contributors and organizations involved in open source. If
-you have any questions about my platform, I would be happy to discuss them over
-email, either [in private] or [in public]. You can learn about the election and
-how to vote [here][election].
-
-[in private]: mailto:sir@cmpwn.com
-[in public]: mailto:~sircmpwn/public-inbox@lists.sr.ht
-[election]: https://opensource.org/board/individual-election
-
----
-
 The [Open Source Initiative] (OSI) publishes a document called the [Open Source
 Definition] (OSD), which defines the term "open source". However, there is a
 small minority of viewpoints within the software community which wishes that
@@ -143,3 +128,7 @@ as much right to success as the open source movement, but you need to earn that
 success independently of the open source movement. Perhaps someday your
 alternative model will supplant open source! I wish you the best of luck in this
 endeavour.
+
+*A previous version of this blog post announced that I had submitted my
+candidacy for the OSI board. Due to unforseen circumstances, I will be
+postponing my candidacy until the next election. I apologise for the confusion.*

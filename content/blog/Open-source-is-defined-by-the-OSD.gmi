@@ -1,11 +1,3 @@
-Today, I submitted my candidacy for the board of the Open Source Initiative, where I hope to embody and expand upon the values expressed in this post. I plan to use this role to focus on the preservation of the fundamental values of open source, as well as using the OSI as a platform to expand open source literacy among both individual contributors and organizations involved in open source. If you have any questions about my platform, I would be happy to discuss them over email, either in private or in public. You can learn about the election and how to vote here:
-
-=> https://opensource.org/board/individual-election How the election of Individual director works
-=> mailto:sir@cmpwn.com Email me privately
-=> mailto:~sircmpwn/public-inbox@lists.sr.ht Email my public mailing list
-
----
-
 The Open Source Initiative (OSI) publishes a document called the Open Source Definition (OSD), which defines the term “open source”. However, there is a small minority of viewpoints within the software community which wishes that this were not so. The most concerning among them are those who wish open source was more commercially favorable to themselves, and themselves alone, such as companies like Elastic.
 
 => https://opensource.org The Open Source Initiative
