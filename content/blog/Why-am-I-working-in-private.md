@@ -105,3 +105,8 @@ both the time and expertise necessary:
 - JSON parsing & encoding
 - Compression and decompression
 - Archive formats
+
+If you definitely don't want to wait for the language to go public, volunteering
+in one of our focus areas is the best way to get involved. Get in touch! If not,
+then the release will come around sooner than you think. We're depending on your
+patience and trust.
