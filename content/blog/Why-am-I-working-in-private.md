@@ -110,3 +110,20 @@ If you definitely don't want to wait for the language to go public, volunteering
 in one of our focus areas is the best way to get involved. Get in touch! If not,
 then the release will come around sooner than you think. We're depending on your
 patience and trust.
+
+---
+
+*Update 2022-03-14*
+
+This blog post immediately generated detailed discussions on Hacker News and
+Lobsters in which people posted the language's website and started tearing into
+everything they don't like about it.
+
+It's not done yet, and the current state of the language is not representative
+of the project goals. This post was not a marketing stunt. It was a heartfelt
+appeal to your better nature.
+
+You know, I have a lot on my plate. All of it adds up to a lot of stress. I had
+hoped that you would help relieve some of that stress by taking me seriously
+when I explained my motivations and asked nicely for you to leave us be. I was
+wrong.
