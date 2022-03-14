@@ -703,7 +703,6 @@ Orestis Floros<br />
 Oscar Cowdery Lack<br />
 ossi.ahosalmi<br />
 Owen Johnson<br />
-Owen Salter<br />
 Paco Esteban<br />
 Parasrah<br />
 Pascal Pascher<br />
