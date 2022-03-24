@@ -84,9 +84,9 @@ can conduct many everyday affairs in Dutch, but I found it difficult to progress
 beyond this point with self-study alone. I enrolled in a formal class, which
 will hopefully help bridge that gap.
 
-I could go on &mdash; experiences outside of Amsterdam and the rest of Europe,
-the vibes of the FOSS community and other communities I've met, serendipitously
-meeting people I knew in America who also moved to Europe, and so on &mdash; but
-I think I'll stop here for this post. Every time I've paused to reflect on my
-relocation abroad, I've come away smiling. So far, so good. Hopefully that
-doesn't start to wear off!
+I could go on &mdash; experiences outside of Amsterdam and throughout the rest
+of Europe, the vibes of the FOSS community and other communities I've met,
+serendipitously meeting people I knew in America who also moved to Europe, and
+so on &mdash; but I think I'll stop here for this post. Every time I've paused
+to reflect on my relocation abroad, I've come away smiling. So far, so good.
+Hopefully that doesn't start to wear off!
