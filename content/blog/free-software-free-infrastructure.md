@@ -74,7 +74,7 @@ be easily overcome by confirmation bias. Someone who may loudly object to the
 practices of the US Immigration and Customs Enforcement agency, for example, can
 quickly find some justification to continue using GitHub despite their
 collaboration with them. If this example isn't to your tastes, there are many
-example for each of many platforms. For projects that don't want to move, these
+examples for each of many platforms. For projects that don't want to move, these
 are usually swept under the rug.[^1]
 
 [^1]: A particularly egregious example is the [Ethical Source](https://ethicalsource.dev/) movement. I disagree with them on many grounds, but prescient to this article is the fact that they publish (non-free) software licenses which advocate for anti-capitalist sentiments like worker rights and ethical judgements such as non-violence, doing so on... GitHub and Twitter, private for-profit platforms with a myriad of published ethical violations.
