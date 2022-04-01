@@ -24,12 +24,12 @@ date: 2022-04-01
 ![A picture of a patch printed out on paper](https://l.sr.ht/w9hP.jpg)
 
 At least, this is what I'd like to say, but I ended up cancelling the project
-before it was ready for April Fool's. I did actually write a lot of the code for
-this idea! Git is mostly written in Perl, but I could not really rouse the
-enthusiasm for implementing this idea in Perl. I did the prototype in
-$secretlang instead, and got it mostly working, but decided not to try to do
-some sneaky half-private joke release while trying to maintain the secrecy of
-the language.
+before it was ready for April Fool's. After my friend kline (a staffer at Libera
+Chat) came up with this idea, I actually did write a lot of the code! Git is
+mostly written in Perl, but I could not really rouse the enthusiasm for
+implementing this idea in Perl. I did the prototype in $secretlang instead, and
+got it mostly working, but decided not to try to do some sneaky half-private
+joke release while trying to maintain the secrecy of the language.
 
 Essentially how it works is this: I have a TeX template for patches:
 
