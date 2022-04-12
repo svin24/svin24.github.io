@@ -18,7 +18,7 @@ title: Cryptocurrency sucks
 
 Techinc
 
-2022-04-12 @ 17:00
+2022-04-16 @ 17:00
 
 Louwesweg 1<br />
 1066 EA Amsterdam<br />
