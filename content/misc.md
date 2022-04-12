@@ -21,3 +21,4 @@ layout: page
 # Talks
 
 - [The FOSS contributor’s mindset](/talks/foss-contributors-mindset.html)
+- [Cryptocurrency sucks](/talks/cryptocurrency.html)
