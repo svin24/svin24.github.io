@@ -1,0 +1,13 @@
+I'm going to wind down my gemlog. I'm not going to take it offline, but I am going to stop writing content for it.
+
+I have enjoyed writing on my gemlog, especially about things which aren't necessarily a good fit for my HTTP blog. I definitely got over the idea of dual-publishing; I prefer to keep the two mediums mostly separate now. Things like short stories, anime reviews, and other off-color content have been a good fit for my Gemini posts. It's nice to have a space for that, and I will miss it.
+
+The reason I'm going to stop posting is because I don't find myself reading things in Geminispace anymore. The kind of content which is usually posted here just tends to not align with my interest areas. I check Antenna fairly often, but it's been months since I saw a post there which really resonated with me. That's not a problem with what everyone is writing about, but has more to do with what I want to be reading.
+
+I like to read medium- to long-form technical content. All of my favorite authors for this post only on HTTP, and I read them through a web-based RSS reader. Most of the technical content on Gemini is focused on Gemini itself, and I think we could have closed the book on Gemini-the-technology a long time ago. Gemini is supposed to be small and simple, and at some point "done", which means we can't milk that content cow forever.
+
+If I don't want to read Gemini, I don't want to write Gemini either. I don't think that's fair to the Gemini community. It would be better to participate from both ends, and if I only find myself enjoying the writing side of it, then I don't think that forms a good relationship with the community.
+
+I still think Gemini is a cool technology, though much like everyone else I have my own list of complaints about the it (mainly having to do with TLS). I like writing Gemini-related technology; gmnisrv, gmni, and kineto are all projects I enjoyed writing, and I'm glad that they've proven useful to the Gemini community. I hope they continue to do so. There are just shy of 400 capsules on pages.sr.ht as well, whom I am pleased to provide hosting for. Content like godocs.io and the future SourceHut Gemini frontend are still on the table, and I also intend to make a capsule for the new language I'm working on. The only thing that's stopping is the gemlog posts.
+
+I may return as Gemini continues to grow and a greater variety of content is available to peruse. In the meantime, thanks for reading! Maybe we'll meet again.
