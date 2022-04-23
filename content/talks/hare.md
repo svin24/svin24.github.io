@@ -21,7 +21,7 @@ title: Introducing the Hare programming langauge
 
 Techinc
 
-2022-05-04 @ 18:00
+2022-05-04 @ 19:00 AMS
 
 Live stream/recording:
 
