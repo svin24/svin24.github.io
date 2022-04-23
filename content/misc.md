@@ -23,3 +23,4 @@ layout: page
 - [The FOSS contributor’s mindset](/talks/foss-contributors-mindset.html)
 - [Introduction to qbe](/talks/qbe.html)
 - [Cryptocurrency sucks](/talks/cryptocurrency.html)
+- [Introducing the Hare programming language](/talks/hare.html)
