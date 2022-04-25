@@ -5,12 +5,11 @@ title: Introducing the Hare programming langauge
 
 **Abstract**
 
-> qbe is an optimizing compiler backend which consumes programs in a simple
-> intermediate language, optimizes them, and emits assembly for x86_64, aarch64,
-> or riscv64, aiming to achieve "70% of the performance" of advanced compilers
-> like LLVM in "10% of the code". This talk will briefly introduce qbe and its
-> intermediate language, explain how it works and what it's capable of, and go
-> over some sample programs which can be written in it.
+>  Hare is a systems programming language designed to be simple, stable, and
+>  robust. Hare uses a static type system, manual memory management, and a
+>  minimal runtime. It is well-suited to writing operating systems, system
+>  tools, compilers, networking software, and other low-level, high performance
+>  tasks. 
 
 **Resources**
 
