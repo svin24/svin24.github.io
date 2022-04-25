@@ -1,5 +1,5 @@
 ---
-title: Announcing the Hare programming langauge
+title: Announcing the Hare programming language
 date: 2022-04-25
 ---
 
