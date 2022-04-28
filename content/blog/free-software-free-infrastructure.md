@@ -28,9 +28,9 @@ When your FOSS project chooses to use a non-free platform, you give it an
 official vote of confidence on behalf of your project. In other words, you lend
 some of your project's credibility and legitimacy to the platforms you choose.
 These platforms are defined by network effects, and your choice is an investment
-in that network. I would question this investment in and of itself, the wisdom
-of offering these platforms your confidence and legitimacy, but there's a more
-concerning consequence of this choice as well: an investment in a non-free
+in that network. I would question this investment in and of itself, and the
+wisdom of offering these platforms your confidence and legitimacy, but there's a
+more concerning consequence of this choice as well: an investment in a non-free
 platform is also a *divestment* from the free alternatives.
 
 Again, network effects are the main driver of success in these platforms. Large
@@ -77,7 +77,7 @@ collaboration with them. If this example isn't to your tastes, there are many
 examples for each of many platforms. For projects that don't want to move, these
 are usually swept under the rug.[^1]
 
-[^1]: A particularly egregious example is the [Ethical Source](https://ethicalsource.dev/) movement. I disagree with them on many grounds, but prescient to this article is the fact that they publish (non-free) software licenses which advocate for anti-capitalist sentiments like worker rights and ethical judgements such as non-violence, doing so on... GitHub and Twitter, private for-profit platforms with a myriad of published ethical violations.
+[^1]: A particularly egregious example is the [Ethical Source](https://ethicalsource.dev/) movement. I disagree with them on many grounds, but pertinent to this article is the fact that they publish (non-free) software licenses which advocate for anti-capitalist sentiments like worker rights and ethical judgements such as non-violence, doing so on... GitHub and Twitter, private for-profit platforms with a myriad of published ethical violations.
 
 But, to be clear, I am not asking you to use inferior platforms for
 philosophical or altruistic reasons. These are only one of many factors which
