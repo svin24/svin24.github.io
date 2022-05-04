@@ -694,7 +694,6 @@ nytpu<br />
 Nícolas F. R. A. Prado<br />
 oharaandrew314<br />
 Oleg Kuznetsov<br />
-Olie Ayre<br />
 Oliver Leaver-Smith<br />
 oliver-giersch<br />
 Olivier Fourdan<br />

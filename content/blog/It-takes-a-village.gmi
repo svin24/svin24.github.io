@@ -680,7 +680,6 @@ nytpu
 Nícolas F. R. A. Prado
 oharaandrew314
 Oleg Kuznetsov
-Olie Ayre
 Oliver Leaver-Smith
 oliver-giersch
 Olivier Fourdan
