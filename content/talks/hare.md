@@ -24,4 +24,4 @@ Techinc
 
 Live stream/recording:
 
-<iframe title="Introducing the Hare programming language" src="https://spacepub.space/videos/embed/2adb775e-aa66-4b61-aeb0-f3f8b601fcc8" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Introducing the Hare programming language" src="https://spacepub.space/videos/embed/4b848922-e752-4065-baa3-f18afba13edb" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
