@@ -172,9 +172,10 @@ you will probably never be satisfied, and thus you'll never open it. I assure
 you: your game is ready to make open source, no matter what state it's in!
 
 Bonus: Ethan Lee tipped me off to some truly awful code which was left in
-VVVVVV, which you can freely browse on the [2.2 tag][vvvvvv 2.2]. It's truly
-awful, but you probably didn't know that &mdash; you only remember VVVVVV as a
-critically acclaimed game.
+VVVVVV, which you can freely browse on the [2.2 tag][vvvvvv 2.2]. It's not
+great, but you probably didn't know that &mdash; you only remember VVVVVV as a
+critically acclaimed game. Game developers are working under tight constraints
+and no one is judging them for that &mdash; we just want to have fun!
 
 [vvvvvv 2.2]: https://github.com/TerryCavanagh/vvvvvv/tree/2.2
 
