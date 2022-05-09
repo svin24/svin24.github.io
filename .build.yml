@@ -5,7 +5,6 @@ packages:
 sources:
   - https://git.sr.ht/~sircmpwn/drewdevault.com
   - https://git.sr.ht/~sircmpwn/openring
-  - https://git.sr.ht/~sircmpwn/hugo
 secrets:
   - 160a72cf-34d6-47b7-928b-c13b42b4d4f6
 triggers:
@@ -14,9 +13,9 @@ triggers:
     to: Drew DeVault <sir@cmpwn.com>
 tasks:
 - hugo: |
-    cd hugo
-    go build --tags extended
-    sudo cp hugo /usr/local/bin/
+    curl -O https://mirror.drewdevault.com/hugo
+    chmod +x hugo
+    sudo mv hugo /usr/local/bin/
 - openring: |
     cd openring
     go build -o openring
