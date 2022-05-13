@@ -932,7 +932,8 @@ Himitsu. The next steps for expanding hare-ssh are:
 SSH is a relatively small target for a cryptography implementation to aim for.
 I'm looking forward to using it as a testbed for our cryptographic suite. If
 you're interested in helping with any of these, [please get in
-touch](/community)! If you're curious about Hare in general, check out the
+touch][community]! If you're curious about Hare in general, check out the
 [language introduction][intro] to get started. Good luck!
 
 [intro]: https://harelang.org/tutorials/introduction/
+[community]: https://harelang.org/community/
