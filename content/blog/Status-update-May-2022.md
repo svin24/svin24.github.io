@@ -4,13 +4,13 @@ date: 2022-05-16
 ---
 
 This was an exciting month: [the Hare programming language] is a secret no more!
-You can now [try out] the programming language I first teased [almost one year
-ago] and [tell me what you think](mailto:sir@cmpwn.com). I hope you like it! I'm
+You can now [try out] the programming language I first teased [over a year ago]
+and [tell me what you think](mailto:sir@cmpwn.com). I hope you like it! I'm
 quite pleased with it so far.
 
 [the Hare programming language]: https://harelang.org
 [try out]: https://harelang.org/tutorials/introduction/
-[almost one year ago]: /2021/03/19/A-new-systems-language.html
+[over a year ago]: /2021/03/19/A-new-systems-language.html
 
 One thing Hare has done is allow me to unshelve several projects which were
 blocked pending the availability of a suitable language to write them in. I have
