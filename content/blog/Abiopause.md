@@ -64,7 +64,7 @@ language from $X, naturally has different semantics. The particular semantics of
 C don't necessarily line up to the semantics the language designers want $X to
 have, so the typical solution is to define functions with C "linkage", which
 means they're called with the C ABI. It's from this that we get keywords like
-`extern "C"` (C++, Rust), `export` in Go, `[DllImport]` in C#, and so on.
+`extern "C"` (C++, Rust), Go's Cgo tooling, `[DllImport]` in C#, and so on.
 Naturally, these keywords come with a lot of constraints on how the function
 works, limiting the user to the mutually compatible subset of the two ABIs, or
 else using some kind of translation layer.
