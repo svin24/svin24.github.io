@@ -24,3 +24,4 @@ layout: page
 - [Introduction to qbe](/talks/qbe.html)
 - [Cryptocurrency sucks](/talks/cryptocurrency.html)
 - [Introducing the Hare programming language](/talks/hare.html)
+- [Opening up the SourceHut CI engine](/talks/sourcehut-ci.html)
