@@ -15,8 +15,8 @@ it today.
 
 ![A picture of a ThinkPad running Helios, demonstrating userspace memory allocation](https://l.sr.ht/gnrA.jpg)
 
-Again, drawing some inspiration from seL4, Helios uses a capability-based design
-for isolation and security. The kernel offers primitives for allocating physical
+Drawing some inspiration from seL4, Helios uses a capability-based design for
+isolation and security. The kernel offers primitives for allocating physical
 pages, mapping them into address spaces, and managing tasks, plus features like
 platform-specific I/O (e.g. reading and writing x86 ports). The entire system is
 written in Hare, plus some necessary assembly for the platform bits (e.g.
@@ -32,9 +32,9 @@ multi-tasking is to actually implement the context switch. I'd like to aim for
 an seL4-style single-stack system, though some finageling will be required
 to make that work.
 
-Much of the design comes from seL4, but unlike seL4, we intend to build upon
-this kernel and develop a userspace as well. Each of the planned components is
-named after celestial bodies, getting further from the sun as they get
+Again, much of the design comes from seL4, but unlike seL4, we intend to build
+upon this kernel and develop a userspace as well. Each of the planned components
+is named after celestial bodies, getting further from the sun as they get
 higher-level:
 
 - Helios: the kernel
