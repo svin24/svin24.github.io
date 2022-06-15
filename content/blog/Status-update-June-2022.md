@@ -58,7 +58,7 @@ cross-compiling, which you can try out with `hare build -t riscv64` or something
 similar. The major outstanding pain point here is that the Hare cache is not
 arch-aware, so you need to `rm -rf ~/.cache/hare` each time you switch
 architectures for now. We now have complex number support, as well as
-improvements to enconding::json and net::uri.
+improvements to encoding::json and net::uri.
 
 ![A screenshot of a fractal rendered with the aid of Hare's new complex number
 support](https://l.sr.ht/Do-Q.png)
