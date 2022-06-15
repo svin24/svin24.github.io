@@ -25,3 +25,4 @@ layout: page
 - [Cryptocurrency sucks](/talks/cryptocurrency.html)
 - [Introducing the Hare programming language](/talks/hare.html)
 - [Opening up the SourceHut CI engine](/talks/sourcehut-ci.html)
+- [Himitsu: A novel keyring & password manager for Unix](/talks/himitsu.html)
