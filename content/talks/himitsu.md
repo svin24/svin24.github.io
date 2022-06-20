@@ -19,10 +19,4 @@ title: "Himitsu: A novel keyring & password manager for Unix"
 
 **Events**
 
-Techinc
-
-2022-06-22 @ 19:00 AMS (tenative)
-
-Live stream/recording:
-
-<iframe title="Himitsu: A novel keyring &amp; password manager for Unix" src="https://spacepub.space/videos/embed/f5fdb918-de1d-4c28-bcf1-c8b86e1866fe" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+None yet
