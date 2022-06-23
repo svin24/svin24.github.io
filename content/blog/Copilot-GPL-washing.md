@@ -218,7 +218,7 @@ proprietary code] was found to have been incorporated into the model. However, I
 still support your efforts to address this in your software licenses, as it
 provides an even stronger legal foundation upon which we can reject Copilot.
 
-[some proprietary code]: https://twitt.re/ChrisGr93091552/status/1539731632931803137
+[some proprietary code]: https://twitter.com/ChrisGr93091552/status/1539731632931803137
 
 I will caution you that the way you approach that clause of your license is
 important. Whenever writing or changing a free and open source software license, 
