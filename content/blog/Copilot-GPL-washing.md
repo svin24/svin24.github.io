@@ -185,6 +185,9 @@ specific suggestions:
    users of their obligations with respect to those licenses.
 3. Remove copyleft code from the model entirely, unless you want to make the
    model and its support code free software as well.
+4. Consider compensating the copyright owners of free software projects
+   incorporated into the model with a margin from the Copilot usage fees, in
+   exchange for a license permitting this use.
 
 Your current model probably needs to be thrown out. The GPL code incorporated
 into it entitles anyone who uses it to receive a GPL'd copy of the model for
