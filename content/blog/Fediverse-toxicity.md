@@ -3,7 +3,7 @@ title: The Fediverse can be pretty toxic
 date: 2022-07-09
 ---
 
-Mastodon, inspired by GNU social, together with Pleroma, forms the most popular
+Mastodon, inspired by GNU social, together with Pleroma, form the most popular
 components of what we know as the "Fediverse" today. All of them are, in
 essence, federated, free software Twitter clones, interoperable with each other
 via the ActivityPub protocol.
