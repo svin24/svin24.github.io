@@ -38,7 +38,7 @@ I also introduced [format::tar], which will serve as the basis of
 initramfs-alike functionality for Helios. On the subject of Helios, much work
 has been completed. I have implemented a PCI driver and a small proof-of-concept
 AHCI driver (for reading from SATA disks). Alexey Yerin has also been hard at
-work on the RISC-V port, and has successfully implemented a virtio ethernet
+work on the RISC-V port, and has successfully implemented an e1000 ethernet
 driver which can send and receive ICMP (ping) packets. I also completed IRQ
 control for userspace, so that userspace device drivers can process interrupts,
 and used it to write a keyboard driver for a functional [DOOM port]. The full
