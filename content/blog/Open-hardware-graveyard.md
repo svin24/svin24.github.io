@@ -29,7 +29,7 @@ issue for a long time.
 
 I don't know the answers, but I hope we start seeing improvements. I hope that
 the successful projects will step into a mentorship role to provide
-up-and-comers with tips on how they made their projects work, and we see a
+up-and-comers with tips on how they made their projects work, and that we see a
 stronger focus on liberating non-free components. Perhaps Crowd Supply can do
 some work in helping to secure investment[^2] for open hardware projects, and
 continue the good work they're already doing on guiding them through the
