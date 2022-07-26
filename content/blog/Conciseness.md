@@ -10,4 +10,4 @@ with minimal faff. It's not considered impolite to skip the formalities &mdash;
 quite the opposite. So: keep your faffery to a minimum. A quick "thanks!" at the
 end of a discussion will generally suffice. And, when someone is being direct
 with you, don't interpret it as a slight: simply indulge in the blissful freedom
-of a discussion free from faffery.
+of a discussion absent of faffery.
