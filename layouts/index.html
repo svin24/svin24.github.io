@@ -5,16 +5,12 @@
     <h1>{{$.Title}}</h1>
 
     {{ range (where (where .Site.RegularPages "Section" "blog") "Params.nohtml" "!=" "true") }}
+    {{- if .OutputFormats.Get "html" }}
     <div class="article">
       <span class="date">{{.Date.Format "January 2, 2006"}}</span>
-      {{- if .OutputFormats.Get "html" }}
       <a href="{{.Permalink}}">{{.Title}}</a>
-      {{- else if .OutputFormats.Get "gemtext" }}
-      {{ with .OutputFormats.Get "gemtext" }}
-      <a href="{{replace .Permalink "/gemini" "" 1 | safeURL}}">{{end}}{{.Title}}</a>
-      <small>[<a href="/gemini.html">what is gemini://?</a>]</small>
-      {{ end }}
     </div>
+    {{ end }}
     {{ end }}
   </section>
 
@@ -28,8 +24,6 @@
       <a class="rss" href="/blog/index.xml">rss</a>
       ·
       <a href="misc.html">misc</a>
-      ·
-      <a href="gemini://drewdevault.com">gemini</a>
     </div>
 
     <dl class="external-links">

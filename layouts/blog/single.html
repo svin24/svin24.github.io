@@ -16,11 +16,6 @@
 </main>
 
 <section class="comment">
-  {{ with .OutputFormats.Get "gemtext" }}
-  <p>
-  ⇒ This article is also available <a href="{{replace .Permalink "/gemini" "" 1 | safeURL}}">on gemini</a>.
-  {{ end }}
-
   {{ if not .Params.nocomment }}
   <p>
   Have a comment on one of my posts? Start a discussion in
