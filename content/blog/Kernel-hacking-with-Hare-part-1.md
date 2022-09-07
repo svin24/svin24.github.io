@@ -198,7 +198,6 @@ class="rainbow">static append</span> with\![^3]
 
 <style>
 .rainbow {
-  font-weight: bold;
   background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
   background-clip: text;
   background-size: 800% 800%;
