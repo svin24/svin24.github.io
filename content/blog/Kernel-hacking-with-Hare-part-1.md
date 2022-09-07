@@ -113,7 +113,7 @@ export fn bootinfo_init(heap: *heap, argv: str) bootinfo_ctx = {
 	let info = mem::phys_tokernel(phys): *bootinfo;
 
 	const bisz = size(bootinfo);
-	let bootvec = (info: *[*]u8)[bisz..arch::PAGESIZE - bisz][..0];
+	let bootvec = (info: *[*]u8)[bisz..arch::PAGESIZE][..0];
 
 	let ctx = bootinfo_ctx {
 		page = cslot,
@@ -152,16 +152,16 @@ The next two lines are where it starts to get a little bit interesting:
 
 ```hare
 const bisz = size(bootinfo);
-let bootvec = (info: *[*]u8)[bisz..arch::PAGESIZE - bisz][..0];
+let bootvec = (info: *[*]u8)[bisz..arch::PAGESIZE][..0];
 ```
 
 This casts the "info" variable (of type \*bootinfo) to a pointer to an
 *unbounded* array of bytes (\*\[\*\]u8). This is a little bit dangerous! Hare's
 arrays are bounds tested by default and using an unbounded type disables this
 safety feature. We want to get a bounded slice again soon, which is what the
-first slicing operator here does: `[bisz..arch::PAGESIZE - bisz]`. This obtains
-a *bounded* slice of bytes which starts from the end of the bootinfo structure
-and continues to the end of the page.
+first slicing operator here does: `[bisz..arch::PAGESIZE]`. This obtains a
+*bounded* slice of bytes which starts from the end of the bootinfo structure and
+continues to the end of the page.
 
 The last expression, another slicing expression, is a little bit unusual. A
 slice type in Hare has the following internal representation:
