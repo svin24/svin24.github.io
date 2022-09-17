@@ -3,7 +3,7 @@ title: The phrase "open source" (still) matters
 date: 2022-09-16
 ---
 
-In 1988, "Resin Identification Codes" where introduced by the plastic industry.
+In 1988, "Resin Identification Codes" were introduced by the plastic industry.
 These look exactly like the recycling symbol ♺, which is not trademarked or
 regulated, except that a number is enclosed within the triangle. These symbols
 simply identify what kind of plastic was used. The vast majority of plastic is
