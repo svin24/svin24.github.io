@@ -166,7 +166,7 @@ with a huge scope &mdash; few projects can hope to challenge Linux on driver
 support, for example. The major players have been entrenched for decades, and
 any project seeking to displace them will have decades of hard work ahead of
 them and will require a considerable amount of luck to succeed. Though I think
-that new innovations in kernels are badly overdue, I must acknowledge the that
+that new innovations in kernels are badly overdue, I must acknowledge that
 there is some truth to the argument that we're stuck with Linux. In this
 framing, if you want Rust to succeed in a kernel, getting it into Linux is the
 best strategy.
