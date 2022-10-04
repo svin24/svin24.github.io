@@ -15,7 +15,7 @@ If I should owe my allegiance to any programming language, it would be
 I designed myself, but I am using it [to write a kernel][helios]. [Like
 Rust][redox], Hare is demonstrably useful for writing kernels with. One might
 even go so far as to suggest that I consider it superior to C for this purpose,
-given that I chose to to write Helios in Hare it rather than C, despite my
+given that I chose to to write Helios in Hare rather than C, despite my
 extensive background in C. But the question remains: does Hare belong in the
 Linux kernel?
 
