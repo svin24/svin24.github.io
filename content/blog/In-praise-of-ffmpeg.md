@@ -58,7 +58,7 @@ With an hour of tinkering and reading man pages, I was able to come up with a
 single command which produced a working remote video game streaming setup *from
 scratch* thanks to ffmpeg. ffmpeg is *amazing*.
 
-<video autoplay mute controls>
+<video autoplay mute loop controls>
   <source src="https://mirror.drewdevault.com/ffx.webm"></source>
 </video>
 
