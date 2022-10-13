@@ -44,7 +44,7 @@ ffmpeg \
   -thread_queue_size 64 \   # reduce input latency
   -i - \
   # Capture and downscale frames on the GPU:
-  -vf 'hwmap=derive_device=vaapi,hwdownload,format=bgr0,scale=1280:720' \
+  -vf 'hwmap=derive_device=vaapi,scale_vaapi=1280:720,hwdownload,format=bgr0' \
   -c:v libx264 \
   -preset:v superfast \     # encode video as fast as possible
   -tune zerolatency \       # tune encoder for low latency
