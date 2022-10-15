@@ -12,8 +12,8 @@ Hare upstream has enjoyed some minor improvements, such as from Pierre Curto's
 patch to support parsing IPv6 addresses with a port (e.g. "[::1]:80") and Kirill
 Primak's improvements to the UTF-8 decoder. On the whole, improvements have been
 conservative. However, queued up for integration once qbe upstream support is
-merged is suppor for @threadlocal variables, which are useful for Helios and for
-ABI compatibility wih C. I also drafted up a proof-of-concept for @inline
+merged is support for @threadlocal variables, which are useful for Helios and for
+ABI compatibility with C. I also drafted up a proof-of-concept for @inline
 functions, but it still needs work.
 
 Now for the main event: Helios. The large-scale redesign and refactoring I
