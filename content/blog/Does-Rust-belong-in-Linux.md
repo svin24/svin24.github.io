@@ -32,12 +32,12 @@ talking about.
 
 Each change in software requires sufficient supporting rationale. What are the
 reasons to bring Rust into Linux? A kernel hacker thinks about these questions
-differently than a typical developer in userspace. One could espouse about
-Cargo, generics, whatever, but these concerns matter relatively little to kernel
-hackers. Kernels operate in a heavily constrained design space and a language
-has to fit into that design space. This is the first and foremost concern, and
-if it's awkward to mold a language to fit into these constraints then it will be
-a poor fit.
+differently than a typical developer in userspace. One could espouse the
+advantages of Cargo, generics, whatever, but these concerns matter relatively
+little to kernel hackers. Kernels operate in a heavily constrained design space
+and a language has to fit into that design space. This is the first and foremost
+concern, and if it's awkward to mold a language to fit into these constraints
+then it will be a poor fit.
 
 Some common problems that a programming language designed for userspace will run
 into when being considered for kernelspace are:
