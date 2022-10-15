@@ -11,9 +11,9 @@ has been a great month for Helios!
 Hare upstream has enjoyed some minor improvements, such as from Pierre Curto's
 patch to support parsing IPv6 addresses with a port (e.g. "[::1]:80") and Kirill
 Primak's improvements to the UTF-8 decoder. On the whole, improvements have been
-conservative. However, queued up for integration once qbe upsream support is
+conservative. However, queued up for integration once qbe upstream support is
 merged is suppor for @threadlocal variables, which are useful for Helios and for
-ABI compatibiliy wih C. I also drafted up a proof-of-concept for @inline
+ABI compatibility wih C. I also drafted up a proof-of-concept for @inline
 functions, but it still needs work.
 
 Now for the main event: Helios. The large-scale redesign and refactoring I
@@ -66,7 +66,7 @@ fn _task_pagefault() void = {
 
 The new userspace threading API is much improved over the hack job in the
 earlier design. It supports TLS and many typical threading operations, such as
-join and detatch. This API exists mainly for testing the kernel via Vulcan, and
+join and detach. This API exists mainly for testing the kernel via Vulcan, and
 is not anticipated to see much use beyond this (though I will implement pthreads
 for the POSIX C environment at some point). For more details, see [this blog
 post][0]. Alongside this and other userspace libraries, Vulcan has been fleshed
@@ -131,13 +131,18 @@ worst thing it could do is crash the serial driver, which would then be rebooted
 by the supervisor. On Linux and other monolithic kernels like it, exploiting the
 serial driver compromises the entire operating system.
 
+The resulting serial driver implementation is pretty small and straightforward,
+[if you'd like to have a look][2].
+
+[2]: https://git.sr.ht/~sircmpwn/mercury/tree/master/item/drivers/x86_64/serial
+
 This manifest format will be expanded in the future for additional kinds of
 drivers, such as with details specific to each bus (i.e. PCI vendor information
 or USB details), and will also have details for device trees when RISC-V and
 ARM support (the former is already underway) are brought upstream.
 
 Next steps are to implement an I/O abstraction on top of IPC endpoints, which
-first requries call & reply support &mdash; the latter was implemented last
+first requires call & reply support &mdash; the latter was implemented last
 night and requires additional testing. Following this, I plan on writing a
 getty-equivalent which utilizes this serial driver, and a future VGA terminal
 driver, to provide an environment in which a shell can be run. Then I'll
