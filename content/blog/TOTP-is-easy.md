@@ -99,3 +99,9 @@ don't have to store temporary SMS codes in the database, you don't have to worry
 about phishing, you don't have to worry about SIM swapping, and you don't have
 to sign up for some paid SMS API like Twilio. It's more secure and it's trivial
 to implement &mdash; so implement it already! Please!
+
+---
+
+**Update 2022-10-19 @ 07:45 UTC**: A reader pointed out that it's important to
+have rate limiting on your TOTP attempts, or else a brute force attack can be
+effective. Fair point!
