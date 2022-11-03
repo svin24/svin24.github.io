@@ -129,8 +129,8 @@ transport_maps = hash:/etc/postfix/transport
 Then I'll edit `/etc/postfix/transport` and add these lines:
 
 ```
-lists.homura.localdomain lmtp:unix:/tmp/lists.sr.ht-lmtp.sock
-homura.localdomain local:homura
+lists.homura lmtp:unix:/tmp/lists.sr.ht-lmtp.sock
+homura local:homura
 ```
 
 This will deliver mail normally to `$user@homura` (my hostname), but will
