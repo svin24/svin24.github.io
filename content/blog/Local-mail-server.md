@@ -72,7 +72,7 @@ uncomment the submission service. You're looking for something like this:
 #  -o smtpd_helo_restrictions=$mua_helo_restrictions
 #  -o smtpd_sender_restrictions=$mua_sender_restrictions
 #  -o smtpd_recipient_restrictions=
-  -o smtpd_relay_restrictions=permit
+#  -o smtpd_relay_restrictions=
 #  -o milter_macro_daemon_name=ORIGINATING
 ```
 
@@ -123,7 +123,7 @@ my lists.sr.ht test domain. I'll set up some transport maps for this purpose. In
 
 ```
 local_transport = local:$myhostname
-transport_maps = hash:/etc/postfix/transport
+transport_maps = lmdb:/etc/postfix/transport
 ```
 
 Then I'll edit `/etc/postfix/transport` and add these lines:
