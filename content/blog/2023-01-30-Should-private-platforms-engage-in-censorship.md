@@ -178,7 +178,7 @@ freedom of association is nevertheless important, we must resolve this
 contradiction. The democratic or judicial processes are an enticing and
 idealistic answer, but these are flawed processes that may not produce just
 outcomes. If I were to consider these tools to address this question, I'm going
-to present solutions from a socialist perspective which may or may not jive with
+to present solutions from a socialist perspective which may or may not jibe with
 your sensibilities.
 
 Nevertheless, the system as it exists today produces outcomes which approximate
