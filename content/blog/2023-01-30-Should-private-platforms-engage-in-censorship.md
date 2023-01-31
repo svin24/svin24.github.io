@@ -116,8 +116,8 @@ these problems, I will first imagine sweeping reforms to our existing system,
 point out that the free market isn't, lean in favor of regulation and
 nationalization of important industries, and seek to empower the powerless
 against the powerful. It will require a lot of difficult, ongoing work to get
-there, and I imagine most this work will be done in spite of the protests of the
-typical free speech absolutist.
+there, and I imagine most of this work will be done in spite of the protests of
+the typical free speech absolutist.
 
 I am in favor of these reforms, but they are decades away from completion, and
 many will disagree on the goals and their implementation. But I am also a
