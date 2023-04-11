@@ -75,7 +75,7 @@ particular, I call for the following changes:
    others besides. The present leadership, particularly from RMS, creates an
    exclusionary environment in a place where inclusion and representation are
    important for the success of the movement.
-1. **Reform the institution**. The FSF needs correct its myopic view of the
+1. **Reform the institution**. The FSF needs to correct its myopic view of the
    ecosystem, reach out to emerging leaders throughout the FOSS world, and ask
    them to take charge of the FSF's mission. It's these leaders who hold the
    reins of the free software movement today -- not the FSF. If the FSF still
