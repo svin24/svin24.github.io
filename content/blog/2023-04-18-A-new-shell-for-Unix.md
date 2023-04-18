@@ -72,7 +72,7 @@ You can also slice up lists and get a subset of items:
 x=(one two three four five)
 echo $x(-4) # one two three four
 echo $x(2-) # two three four five
-echo $x(2-4) # two three
+echo $x(2-4) # two three four
 ```
 
 A departure from Plan 9 rc is that the list operators can be used with strings
@@ -128,7 +128,7 @@ fn greet {
 	echo Hello $1
 }
 
-greet ddevaut
+greet ddevault
 ```
 
 Again, any command can be used, so this can be simplified to fn greet echo $1.
@@ -140,7 +140,7 @@ fn greet(user time) {
 	echo It is $time
 }
 
-greet ddevaut `{date}
+greet ddevault `{date}
 ```
 
 Note the use of `{script...} instead of $() for command expansion. Additional
