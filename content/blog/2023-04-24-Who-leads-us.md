@@ -36,15 +36,14 @@ The person on the right is Scott Guthrie, Vice President of Cloud and AI at
 Microsoft, giving a talk about Azure's cloud services. He lives in an $11M house
 in Hunts Point, Washington. On the left is Alyssa Rosenzweig, main developer for
 the free software Panfrost GPU drivers and a trans woman, talking about how she
-reverse engineers proprietary graphics hardware. As recently as February, her
-Wikipedia page was vandalized by someone who edited "she" and "her" to "he" and
-"him".
+reverse engineers proprietary graphics hardware.
 
 You and I have a lot more in common with Alyssa than with Scott.  The phone I
 have in my pocket right now would not work without her drivers. Alyssa humbles
 me with her exceptional talent and dedication, and the free software community
 is indebted to her. If you use ARM devices with free software, you owe something
-to Alyssa.
+to Alyssa. As recently as February, her Wikipedia page was vandalized by someone
+who edited "she" and "her" to "he" and "him".
 
 Appearances should not especially matter when considering the merit of someone
 considered for a leadership role in our community, be it as a maintainer,
@@ -64,7 +63,7 @@ Is it any wonder that our community is predominantly made up of white
 cisgendered men when anyone else is ostracized? It's not because we're
 predisposed to be better at this kind of work. It's patently absurd to suppose
 that hackers whose identities and life experience differ from yours or mine
-cannot be good participants in and leaders of in our movement. In actual fact,
+cannot be good participants in and leaders of our movement. In actual fact,
 diverse teams produce better results. While the labor pool is disproportionately
 filled with white men, we can find many talented hackers who cannot be described
 as such. If we choose to be inspired by them, and led by them, we will discover
