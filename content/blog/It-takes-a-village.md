@@ -700,7 +700,7 @@ Olivier Fourdan<br />
 Ondřej Fiala<br />
 Orestis Floros<br />
 Oscar Cowdery Lack<br />
-ossi.ahosalmi<br />
+Ossi Ahosalmi<br />
 Owen Johnson<br />
 Paco Esteban<br />
 Parasrah<br />
