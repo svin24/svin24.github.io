@@ -36,19 +36,19 @@ can get a closer view of your worth to them by dividing their annual profit by
 their headcount, adjusted to your discretion to account for the difference in
 the profitability of your role compared to your colleagues. It's also wise to
 run this math in your head to see how the returns from your employment are
-affected by conditions in the hiring market, layoffs, etc -- fewer employees
-increases the companies return per employee, and a busier hiring market reduces
-your leverage. In any case, it should be relatively easy for you to justify in
-the cold arithmetic of finance that businesses speak that employees matter to
-the employer, and the degree to which solidarity between workers is a meaningful
-force amplifier for your leverage.
+affected by conditions in the hiring market, layoffs, etc -- having fewer
+employees increases the company's return per employee, and a busier hiring
+market reduces your leverage. In any case, it should be relatively easy for you
+to justify, in the cold arithmetic of finance that businesses speak, that
+employees matter to the employer, and the degree to which solidarity between
+workers is a meaningful force amplifier for your leverage.
 
 In addition to your fundamental value, there are some weak points in the
 corporate structure that you should be aware of. There are some big levers that
 you may already be aware of that I have already placed outside of the scope of
 this blog post, such as the use of collective bargaining, unionization, strikes,
 and so on, where you need to maximize your collective leverage to really put the
-screws to your employer. Many neo-liberal workplaces lack the class conciousness
+screws to your employer. Many neo-liberal workplaces lack the class consciousness
 necessary to access these levers, and on the day-to-day scale it may be
 strategically wise to smarten up your colleagues on social economics in
 preparation for use of these levers. I want to talk about goals on the smaller
@@ -152,7 +152,7 @@ much should be delivered to HR with your lawyer's signature and only when you
 have a new job offer lined up as a fallback. HR should either view you as mostly
 harmless or look upon you with fear, but nothing in between.
 
-These are your first steps towards class conciousness as a white-collar
+These are your first steps towards class consciousness as a white-collar
 employee. Know your worth, know the leverage you have, and be prepared to use
 the tools at your disposal to bring about the outcomes you desire, and know your
 employer will be doing the same. Good luck out there, and don't forget to
