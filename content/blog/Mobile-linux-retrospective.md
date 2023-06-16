@@ -151,7 +151,7 @@ particularly of the telephony components.
   TUI that is uncomfortable to use on a touchscreen-only device.
 
   **Password manager**: pmOS gets 5/5 because I could use the password manager I
-  wrote myself, [himitsu](https://himitsu-store.org), out of the box.
+  wrote myself, [himitsu](https://himitsustore.org), out of the box.
   Non-critical use-case because I could just type passwords in manually on the
   rare occasion I need to use one.
 
