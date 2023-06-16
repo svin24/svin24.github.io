@@ -191,6 +191,6 @@ Mobile Linux is very cool and the community has made tremendous, unprecedented
 progress towards realizing its potential, and the forward momentum is still
 strong. I'm excited to see it continue to improve. But I think that before
 anyone can be expected to use this as a daily driver, the community really needs
-to baton down the hatches and focus on one thing and one thing only: always,
+to batten down the hatches and focus on one thing and one thing only: always,
 *always* being usable as a phone. I'll be back once more reliability is in
 place.
