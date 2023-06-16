@@ -280,3 +280,32 @@ dl {
     border-color: #bee5eb;
   }
 }
+
+table {
+	color: #333;
+	background: white;
+	border: 1px solid grey;
+	font-size: 12pt;
+	border-collapse: collapse;
+}
+table thead th,
+table tfoot th {
+	background: rgba(0,0,0,.1);
+}
+table caption {
+	padding:.5em;
+}
+table th,
+table td {
+	padding: .5em;
+	border: 1px solid lightgrey;
+}
+td.red {
+	background: #F8D7DA;
+}
+td.yellow {
+	background: #FFF3CD;
+}
+td.blue {
+	background: #CFE2FF;
+}
