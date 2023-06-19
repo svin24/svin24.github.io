@@ -31,10 +31,10 @@ The goals of this resource are:
 [choosealicense.com]: https://choosealicense.com/
 [1]: https://writefreesoftware.org/blog/free-software-games/
 
-There are also some non-goals, such as:
+More:
 
-- Association with any particular free software project or organization
-- Non-cooperation with the open source movement
+- No particular association with any particular free software project or organization
+- No policy of non-cooperation with the open source movement
 
 Compare [writefreesoftware.org] with the similar resources provided by GNU
 ([1][gnu-1], [2][gnu-2]) and you should get the general idea.
