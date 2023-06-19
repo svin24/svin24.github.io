@@ -24,11 +24,11 @@ The goals of this resource are:
 - Provide an accessible introduction to the most important principles of free
   software
 - Offer practical advice on choosing free software licenses from a free software
-  perspective (compare to the OSS perspective at [choosealicense.org]).
+  perspective (compare to the OSS perspective at [choosealicense.com]).
 - Publish articles covering various aspects of free software in practice, such
   as how it can be applied to [video games][1]
 
-[choosealicense.org]: https://choosealicense.com/
+[choosealicense.com]: https://choosealicense.com/
 [1]: https://writefreesoftware.org/blog/free-software-games/
 
 There are also some non-goals, such as:
