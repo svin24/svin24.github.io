@@ -47,14 +47,14 @@ another member of this community, someone I trusted and thought of as a friend,
 confessed to me that he had raped multiple women a few years ago. I submitted my
 resignation from this community last night.
 
-I went to GPN, a hacker event in Germany, at the start of June. It was a welcome
-relief from the stress I've faced this year, a chance to celebrate hacker
-culture and a warm reminder of the beauty of our community. It was wonderful.
-Then, on the last night, a friend took me aside and confided in me that they are
-a pedophile, and told me it was okay because they respected the age of consent
-in Germany -- which is 14. What began as a wonderful reminder of what the hacker
-community can be became a PTSD episode and a reminder that rape culture is
-fucking everywhere.
+Then I went to GPN, a hacker event in Germany, at the start of June. It was a
+welcome relief from the stress I've faced this year, a chance to celebrate
+hacker culture and a warm reminder of the beauty of our community. It was
+wonderful. Then, on the last night, a friend took me aside and confided in me
+that they are a pedophile, and told me it was okay because they respected the
+age of consent in Germany -- which is 14. What began as a wonderful reminder of
+what the hacker community can be became a PTSD episode and a reminder that rape
+culture is fucking everywhere.
 
 I don't want to be a part of this anymore. Our communities have tolerated casual
 sexism and misogyny and transphobia and racism and actual fucking rapists, and
