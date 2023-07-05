@@ -6,7 +6,7 @@ date: 2023-07-04
 [SourceGraph][0] is making their product closed source, abandoning the Apache
 2.0 license it was originally distributed under, so once again we convene in the
 ritual condemnation we offer to commercial products that piss in the pool of
-open source. Invoking Brian Cantrill once more:
+open source. Invoking Bryan Cantrill once more:
 
 [0]: https://about.sourcegraph.com/
 
