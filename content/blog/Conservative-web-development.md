@@ -17,7 +17,7 @@ shown at the bottom, after the article. Four of the ads were identical.
 
 I was reminded to subscribe three times, for $1/week (after one year this would
 become $3.75/week). One of these reminders attached itself to the bottom of my
-screen and followed along as a scrolled. If I scrolled up, it replaced this with
+screen and followed along as I scrolled. If I scrolled up, it replaced this with
 a larger banner, which showed me three other articles and an ad. I was asked for
 my email address once, though I would have had to fill out a captcha to submit
 it. I took out my phone and repeated the experiment. It took 15 seconds to load,
@@ -68,7 +68,7 @@ up for an account, shown before any of the content.
 To be fair, the GitHub page has more features. As far as I can tell, most of
 these aren't implemented *in* the page, though, and are rather links to other
 pages. Some of the features *in* the page include a dropdown for filtering
-branches and tags, popups that show detail when you hover over an avatars, some
+branches and tags, popups that show detail when you hover over avatars, some
 basic interactivity in the search, all things that I can't imagine taking up
 much space. Does this justify an order of magnitude increase in resource usage?
 
