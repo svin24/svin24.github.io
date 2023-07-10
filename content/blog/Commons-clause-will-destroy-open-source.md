@@ -31,7 +31,7 @@ before we criticise his solution to it. I would be happy to share my thoughts.
 I've struggled for many years to find a way to finance myself as the maintainer
 of many dozens of projects. For a long time it has been a demotivating struggle
 with no clear solutions, a struggle which at one point probably left me
-vulnerable to the temptations offered by the Common Clause. But today, the
+vulnerable to the temptations offered by the Commons Clause. But today, the
 situation is clearly improving.
 
 Personally, I have a harder go of it because very little of my open source
@@ -91,7 +91,7 @@ personally referenced it dozens of times. Thank you, honestly, for your work on
 improving the legal landscape of open source. With Commons Clause, however,
 Kevin has taken it too far. [The four
 freedoms](https://www.gnu.org/philosophy/free-sw.en.html) are *important*. The
-only solution is to bury the Common Clause project. Kill the website and GitHub
+only solution is to bury the Commons Clause project. Kill the website and GitHub
 repository, and we can try to forget this ever happened.
 
 I understand that turning back is going to be hard, which scares me. I know that
