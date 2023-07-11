@@ -103,7 +103,7 @@ I encourage you to consider writing a letter of your own, but I would not
 recommend copying and pasting this letter. However, this kind of behavior is
 also illegal in the eyes of the IRS, and a form is provided for this purpose.
 Form 13909 is the appropriate means for reporting this behavior. You can
-download a pre-filled form here, and I do encourage you to submit one this
+download a pre-filled form here, and I do encourage you to submit one of this
 yourself:
 
 - [Form 13909 for ICANN and ISOC complaints (PDF)](https://yukari.sr.ht/dotorg-form-13909.pdf)
