@@ -52,7 +52,7 @@ servers. The social system can be designed independently of the technology.
 
 Among IRC networks, there are degrees of openness. Libera Chat, the largest
 network, is run by a single governing organization, using servers donated by
-(and in the possession of) independent sponsors. Many smaller networks are be
+(and in the possession of) independent sponsors. Many smaller networks are
 run on as few as one server, and some larger networks (particularly older ones)
 are run by many independent operators acting like more of a cooperative.
 [EFnet](http://efnet.org), the oldest network, is run in this manner &mdash; you
