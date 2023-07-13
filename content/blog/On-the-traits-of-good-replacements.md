@@ -52,7 +52,7 @@ replaced XML, and its grammar famously fits on a business card.[^6] On the other
 hand, when zsh started as a superset of bash, it crippled its ability to compete
 on "having less warts than bash".
 
-[^6]: It is possible that JSON has achieved *too much* success in this respect, as it has found its way into a lot of use-cases for which is less than ideal.
+[^6]: It is possible that JSON has achieved *too much* success in this respect, as it has found its way into a lot of use-cases for which it is less than ideal.
 
 Rust is more vague in its inspirations, and does not start as a superset of
 anything. It has, however, done a poor job of scope management, and is

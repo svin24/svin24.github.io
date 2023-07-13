@@ -25,6 +25,6 @@ In computing, we make do with a hodge podge of hacks and kludges which, at best,
 
 ⁵ Past tense, unfortunately, now that Go 2 is getting stirred up.
 
-⁶ It is possible that JSON has achieved too much success in this respect, as it has found its way into a lot of use-cases for which is less than ideal.
+⁶ It is possible that JSON has achieved too much success in this respect, as it has found its way into a lot of use-cases for which it is less than ideal.
 
 ⁷ Despite my infamous distaste for Rust, long-time readers will know that where I have distaste for Rust, I have passionate scorn for C++. I’m quite glad to see Rust taking it on, and I hope very much that it succeeds in this respect.
