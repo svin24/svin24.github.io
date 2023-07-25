@@ -24,14 +24,13 @@ like me to jump in and do the work required to maintain it for my use-cases.
 [^2]: Or more frequently on edge, which I run on my workstation and laptops and
     which receives updates shortly after upstream releases for most software.
 
-Generally speaking, Alpine does not make the news.
-
 Red Hat has been in the news lately for their moves to monetize the
 distribution, moves that I won't comment on but which have generally raised no
 small number of eyebrows, written several headlines, and caused intense
 flamewars throughout the internet. I don't run RHEL or CentOS anywhere, in
 production or otherwise, so I just looked curiously on as all of this took place
-without calling for any particular action on my part.
+without calling for any particular action on my part. Generally speaking, Alpine
+does not make the news.
 
 And so it has been for years, as various controversies come about and die off,
 be it with Red Hat, Ubuntu, Debian, or anything else, I simply keep running "apk
