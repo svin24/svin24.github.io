@@ -35,7 +35,7 @@ without calling for any particular action on my part.
 
 And so it has been for years, as various controversies come about and die off,
 be it with Red Hat, Ubuntu, Debian, or anything else, I simply keep running "apk
-upgrade" every now and life goes on uninterrupted. I have high-quality,
+upgrade" every now and then and life goes on uninterrupted. I have high-quality,
 up-to-date software on a stable system and suffer from no fuss whatsoever.
 
 The Alpine community is a grassroots set of stakeholders who diligently concern
