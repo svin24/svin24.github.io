@@ -60,7 +60,7 @@ run Linux distribution with a history of financial mismanagement, ethical
 violations, security incidents, shipping broken software, and disregarding the
 input of its peers in the distribution community. Just this morning they allowed
 their SSL certificates to expire &mdash; for the fourth time. An [open
-letter](http://do-not-ship.it/), signed jointly by 16 members of the Linux
+letter](https://dont-ship.it/), signed jointly by 16 members of the Linux
 mobile community, called out bad behaviors which are largely attributable to
 Manjaro. I do not respect their privileged position in the PINE64 community,
 which I do not expect to be constructive or in my best interests. I have never
