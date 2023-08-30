@@ -50,6 +50,8 @@ under the criteria I give at the end of this post.
 
 # #2: mailbox.org
 
+*Update: as of 2023 I no longer recommend this service.*
+
 [Mailbox.org](https://mailbox.org/en/) may be desirable if you wish to have a
 more curated experience, and less hands-on access to postmaster-specific
 features.
