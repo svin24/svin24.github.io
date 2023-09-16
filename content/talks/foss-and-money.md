@@ -21,3 +21,5 @@ title: Can free software be made sustainable?
 CSOA Gabrio, Via Millio 42, Torino, Italia
 
 2022-09-10 @ 19:00 local time
+
+<audio controls src="https://mirror.drewdevault.com/hackmeeting-turin-free-software-sustainability.ogg"></audio>
