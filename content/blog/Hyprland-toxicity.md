@@ -34,8 +34,8 @@ harassment campaign against a transgender user, including using their moderator
 privileges to edit the pronouns in their username from "they/she" to
 "who/cares". These roles should be held by trusted community leaders, and it's
 from their behavior that the community's culture and norms stem -- they set an
-example for their the community and define what behaviors are acceptable or
-expected. The problem comes from the top down.
+example for the community and define what behaviors are acceptable or expected.
+The problem comes from the top down.
 
 Someone recently pitched a code of conduct -- something that this project sorely
 needs -- in a [GitHub issue][2]. This thread does not have much overt hate, but
