@@ -145,14 +145,14 @@ impolite problems up to and including the protection of the perpetrators of
 sexual harassment, sexual assault, and, yes, rape.
 
 Most hackers live under the comfortable belief that it "can't happen here", but
-it can and it does. I attended a hacker event this year where I discovered that
-some of the organizers had cooperated to make it possible for multiple known
-rapists to participate, working together to find a way to circumvent the event's
-code of conduct -- a document that they were tasked with enforcing. One of the
-victims was in attendance, believing the event to be safe. At every hacker event
-I have attended in recent memory, I have personally witnessed or heard stories
-of deeply problematic behavior and protection for its perpetrators from the
-leadership.
+it can and it does. I attended a hacker event this year -- GPN -- where I
+discovered that some of the organizers had cooperated to make it possible for
+multiple known rapists to participate, working together to find a way to
+circumvent the event's code of conduct -- a document that they were tasked with
+enforcing. One of the victims was in attendance, believing the event to be safe.
+At every hacker event I have attended in recent memory, I have personally
+witnessed or heard stories of deeply problematic behavior and protection for its
+perpetrators from the leadership.
 
 Our community has problems, important problems, that every hacker should care
 about, and we need the bravery and humility to face them, not the cowardice to
