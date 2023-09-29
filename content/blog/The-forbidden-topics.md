@@ -145,7 +145,7 @@ impolite problems up to and including the protection of the perpetrators of
 sexual harassment, sexual assault, and, yes, rape.
 
 Most hackers live under the comfortable belief that it "can't happen here", but
-it can and it does. I attended a hacker event this year -- GPN -- where I
+it can and it does. I attended a hacker event this year -- HiP Berlin -- where I
 discovered that some of the organizers had cooperated to make it possible for
 multiple known rapists to participate, working together to find a way to
 circumvent the event's code of conduct -- a document that they were tasked with
