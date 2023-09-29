@@ -164,3 +164,8 @@ needs to do right by them, and have the courage to listen to them and confront
 yourself.
 
 You need to be someone who will *do something about it*.
+
+---
+
+**Edit**: Case in point: this post was quietly removed by Hacker News moderators
+within 40 minutes of its submission.
