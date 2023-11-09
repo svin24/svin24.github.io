@@ -23,7 +23,7 @@ appearance?
 Here are some mini "press kits" to give you a hook and some information that
 might be useful for preparing an interview.
 
-## The Hare programming langauge
+## The Hare programming language
 
 > Hare is a systems programming language designed to be simple, stable, and
 > robust. Hare uses a static type system, manual memory management, and a
