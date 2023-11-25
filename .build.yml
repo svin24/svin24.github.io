@@ -39,7 +39,6 @@ tasks:
       -s https://adnano.co/atom.xml \
       -s https://www.willowbarraco.fr:443/atom.xml \
       -s https://torresjrjr.com/archive/index.xml \
-      -s https://microblog.vladh.net/posts/index.xml \
       < webring-in.template \
       > layouts/partials/webring-out.html
     /usr/local/bin/hugo
