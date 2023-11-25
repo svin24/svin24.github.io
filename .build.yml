@@ -31,6 +31,15 @@ tasks:
       -s https://aphyr.com/posts.atom \
       -s https://sourcehut.org/blog/index.xml \
       -s https://100r.co/links/rss.xml \
+      -s https://www.bitsaboutmoney.com/archive/rss/ \
+      -s https://blog.brixit.nl/rss/ \
+      -s https://ebb.org/bkuhn/blog/rss.xml \
+      -s https://brr.fyi/feed.xml \
+      -s https://bitfehler.srht.site/index.xml \
+      -s https://adnano.co/atom.xml \
+      -s https://www.willowbarraco.fr:443/atom.xml \
+      -s https://torresjrjr.com/archive/index.xml \
+      -s https://microblog.vladh.net/posts/index.xml \
       < webring-in.template \
       > layouts/partials/webring-out.html
     /usr/local/bin/hugo
