@@ -517,13 +517,13 @@ primitives are implemented for Hare's standard library.
 ## The SSH agent protocol
 
 The agent protocol is also standardized (albeit in draft form), so we refer to
-[draft-miller-ssh-agent-01] from this point onwards. It's fairly
+[draft-miller-ssh-agent-11] from this point onwards. It's fairly
 straightforward. The agent communicates over an unspecified protocol (Unix
 sockets in practice) by sending messages in the SSH wire format, which, again,
 mainly comes in the form of strings prefixed by their 32-bit length in network
 order.
 
-[draft-miller-ssh-agent-01]: https://tools.ietf.org/id/draft-miller-ssh-agent-01.html
+[draft-miller-ssh-agent-11]: https://tools.ietf.org/id/draft-miller-ssh-agent-11.html
 
 The first step for implementing net::ssh::agent starts with adding types for all
 of the data structures and enums for all of the constants, which you can find in
