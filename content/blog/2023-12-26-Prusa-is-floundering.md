@@ -6,7 +6,7 @@ date: 2023-12-26
 Prusa is a 3D printer manufacturer which has a long history of being admired by
 the 3D printing community for high quality, open source printers. They have been
 struggling as of late, and came under criticism for making the firmware of their
-Mk4 printer non-free.
+Mk4 printer non-free.[^correction]
 
 [Armin Ronacher][0] uses Prusa as a case-study in why open source companies
 fail, and uses this example to underline his argument that open source needs to
@@ -133,3 +133,11 @@ and work with. You have to be creative, and you must do a risk/reward assessment
 to understand how it applies to your business and how you can utilize it for
 commercial success. Do the legwork and you can utilize FOSS for a competitive
 advantage, but skip this step and you will probably fail within a decade.
+
+[^correction]: I sourced this information from Armin's blog post, but it didn't
+    hold up to a later fact check: the
+    [Mk4 firmware](https://github.com/prusa3d/Prusa-Firmware-Buddy) seems to be
+    free software. It seems the controversy here has to do with Prusa
+    developing its slicer software behind closed doors and doing occasional
+    source-code dumps, rather than managing a more traditional "bazaar" style
+    project.
