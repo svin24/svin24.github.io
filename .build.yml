@@ -1,6 +1,7 @@
 image: alpine/edge
 packages:
   - go
+  - hugo
   - hut
 oauth: pages.sr.ht/PAGES:RW
 sources:
@@ -11,10 +12,6 @@ triggers:
     condition: always
     to: Drew DeVault <sir@cmpwn.com>
 tasks:
-- hugo: |
-    curl -O https://mirror.drewdevault.com/hugo
-    chmod +x hugo
-    sudo mv hugo /usr/local/bin/
 - openring: |
     cd openring
     go build -o openring
@@ -38,7 +35,7 @@ tasks:
       -s https://torresjrjr.com/archive/index.xml \
       < webring-in.template \
       > layouts/partials/webring-out.html
-    /usr/local/bin/hugo
+    hugo
 - upload: |
     cd drewdevault.com
     hut pages publish -d drewdevault.com ./public/
