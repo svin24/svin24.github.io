@@ -1,12 +1,11 @@
 image: alpine/edge
 packages:
-  - rsync
   - go
+  - hut
+oauth: pages.sr.ht/PAGES:RW
 sources:
   - https://git.sr.ht/~sircmpwn/drewdevault.com
   - https://git.sr.ht/~sircmpwn/openring
-secrets:
-  - 160a72cf-34d6-47b7-928b-c13b42b4d4f6
 triggers:
   - action: email
     condition: always
@@ -42,5 +41,4 @@ tasks:
     /usr/local/bin/hugo
 - upload: |
     cd drewdevault.com
-    echo "StrictHostKeyChecking=no" >> ~/.ssh/config
-    rsync -rP public/ deploy@drewdevault.com:/var/www/drewdevault.com/
+    hut pages publish -d drewdevault.com ./public/
