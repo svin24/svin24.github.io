@@ -10,13 +10,13 @@ layout: page
 
 # Pages
 
-- [Japanese learning resources](/japanese)
-- [Make a blog!](/make-a-blog) (defunct)
-- [List of random ideas](/ideas)
-- [New server checklist](/new-server)
-- [New sysadmin lecture](/new-sysadmin-lecture)
-- [Dynamic linking bad](/dynlib)
-- [Deep time](/time)
+- [Japanese learning resources](/japanese.html)
+- [Make a blog!](/make-a-blog.html) (defunct)
+- [List of random ideas](/ideas.html)
+- [New server checklist](/new-server.html)
+- [New sysadmin lecture](/new-sysadmin-lecture.html)
+- [Dynamic linking bad](/dynlib.html)
+- [Deep time](/time.html)
 
 # Talks
 
