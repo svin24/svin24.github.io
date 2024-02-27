@@ -9,6 +9,13 @@ expensive mistake][previous]". Since I published that article, I've been in
 touch with Raptor and they've been much more communicative and helpful. I now
 have a working machine!
 
+---
+
+Update Feb. 2024: Seems the improvements I asked for may not have stuck. [Buyer
+beware](https://posixcafe.org/blogs/2024/02/26/0/).
+
+---
+
 [previous]: https://drewdevault.com/2019/09/23/RaptorCS-Blackbird-a-horror-story.html
 
 ![Picture of uname -sm showing "Linux ppcle64"](https://sr.ht/OTyo.jpeg)
