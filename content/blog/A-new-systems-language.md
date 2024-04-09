@@ -1,7 +1,6 @@
 ---
 title: We are building a new systems programming language
 date: 2021-03-19
-formats: [html, gemtext]
 ---
 
 It's an open secret: the "secret project" I've been talking about is a new

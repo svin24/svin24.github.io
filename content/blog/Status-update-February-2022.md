@@ -1,7 +1,6 @@
 ---
 title: Status update, February 2022
 date: 2022-02-15
-#outputs: [html, gemtext]
 ---
 
 Hello once again! Another month of free software development goes by with lots

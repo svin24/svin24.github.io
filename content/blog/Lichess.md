@@ -1,7 +1,6 @@
 ---
 title: "Recommended read: Why Lichess will always be free"
 date: 2021-04-23
-outputs: [html, gemtext]
 ---
 
 Signal-boosting this excellent article from Lichess: [Why Lichess will always be free.][0]

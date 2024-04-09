@@ -1,7 +1,6 @@
 ---
 title: History will not remember us fondly
 date: 2021-01-07
-outputs: [html, gemtext]
 ---
 
 Today, we recall the Middle Ages as an unenlightened time (quite literally, in

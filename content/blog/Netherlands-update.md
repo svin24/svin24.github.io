@@ -1,7 +1,6 @@
 ---
 title: The Netherlands so far
 date: 2022-03-24
-outputs: [html, gemtext]
 ---
 
 [I moved to Amsterdam in July 2021][previous], and now that I've had some time

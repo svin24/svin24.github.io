@@ -1,7 +1,6 @@
 ---
 title: "Parsers all the way down: writing a self-hosting parser"
 date: 2021-04-22
-outputs: [html, gemtext]
 ---
 
 One of the things we're working on in [my new programming language][0] is a

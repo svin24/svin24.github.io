@@ -1,5 +1,0 @@
-I updated SourceHut pages today to support static Gemini capsules in addition to HTTP websites. This is available to any sourcehut user as part of your normal sr.ht subscription. You get `yourname.srht.site` for free, and can bring your own domains as well. Check out the details here:
-
-=> gemini://srht.site sourcehut capsules
-
-Enjoy!

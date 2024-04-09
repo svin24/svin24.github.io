@@ -1,7 +1,6 @@
 ---
 title: My wish-list for the next YAML
 date: 2021-07-28
-outputs: [html, gemtext]
 ---
 
 [YAML](http://yaml.org) is both universally used, and universally reviled. It

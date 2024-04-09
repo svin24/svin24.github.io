@@ -1,7 +1,6 @@
 ---
 title: godocs.io six months later
 date: 2021-05-07
-outputs: [html, gemtext]
 ---
 
 We're six months on from [forking godoc.org][0] following its upstream

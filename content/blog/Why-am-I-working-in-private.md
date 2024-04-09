@@ -1,7 +1,6 @@
 ---
 title: Why am I building a programming language in private?
 date: 2022-03-13
-outputs: [html, gemtext]
 ---
 
 As many readers are aware, I have been working on designing and implementing a

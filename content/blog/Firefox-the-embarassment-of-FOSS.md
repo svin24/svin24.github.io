@@ -1,7 +1,6 @@
 ---
 title: "Firefox: The Jewel^WEmbarassment of Open Source"
 date: 2020-10-22
-outputs: [html, gemtext]
 ---
 
 Circa 2006, the consensus on Firefox was concisely stated by this classic xkcd:

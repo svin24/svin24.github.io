@@ -1,7 +1,6 @@
 ---
 title: I'm handing over maintenance of wlroots and sway to Simon Ser
 date: 2020-10-23
-outputs: [html, gemtext]
 ---
 
 Over the past several months, I've been gradually weaning down my role in both

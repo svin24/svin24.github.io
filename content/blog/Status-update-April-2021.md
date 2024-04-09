@@ -1,7 +1,6 @@
 ---
 title: Status update, April 2021
 date: 2021-04-15
-outputs: [html, gemtext]
 ---
 
 Another month goes by! I'm afraid that I have very little to share this month.

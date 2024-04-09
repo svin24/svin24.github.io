@@ -1,7 +1,6 @@
 ---
 title: Status update, March 2021
 date: 2021-03-15
-outputs: [html, gemtext]
 ---
 
 After the brief illusion of spring, this morning meets us with a cold apartment

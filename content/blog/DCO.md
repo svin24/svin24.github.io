@@ -1,7 +1,6 @@
 ---
 title: The Developer Certificate of Origin is a great alternative to a CLA
 date: 2021-04-12
-outputs: [html, gemtext]
 ---
 
 Today Amazon released their fork of ElasticSearch, [OpenSearch][0], and I want

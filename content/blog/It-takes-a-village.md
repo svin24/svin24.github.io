@@ -1,7 +1,6 @@
 ---
 title: It takes a village
 date: 2022-03-14
-outputs: [html, gemtext]
 ---
 
 As a prolific maintainer of several dozen FOSS projects, I'm often asked how I

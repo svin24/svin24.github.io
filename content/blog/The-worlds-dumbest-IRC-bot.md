@@ -1,7 +1,6 @@
 ---
 title: The world's stupidest IRC bot
 date: 2021-03-29
-outputs: [html, gemtext]
 ---
 
 I'm an [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) power user,

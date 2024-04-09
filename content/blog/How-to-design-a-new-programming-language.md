@@ -1,7 +1,6 @@
 ---
 title: How to design a new programming language from scratch
 date: 2020-12-25
-outputs: [html, gemtext]
 ---
 
 There is a long, difficult road from vague, pie-in-the-sky ideas about what

@@ -1,7 +1,6 @@
 ---
 title: Web analytics should at least meet the standards of informed consent
 date: 2020-12-04
-outputs: [html, gemtext]
 ---
 
 Research conducted on human beings, at least outside of the domain of

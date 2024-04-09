@@ -1,7 +1,6 @@
 ---
 title: What is this Gemini thing anyway, and why am I excited about it?
 date: 2020-11-01
-outputs: [html, gemtext]
 ---
 
 I've been writing about some specific topics in the realm of Gemini on my blog

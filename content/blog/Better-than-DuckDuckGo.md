@@ -1,7 +1,6 @@
 ---
 title: We can do better than DuckDuckGo
 date: 2020-11-17
-outputs: [html, gemtext]
 ---
 
 [DuckDuckGo](https://duckduckgo.com) is one of the long-time darlings of the

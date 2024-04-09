@@ -1,7 +1,6 @@
 ---
 title: Using io_uring to make a high-performance... finger server
 date: 2021-05-24
-outputs: [html, gemtext]
 ---
 
 I'm working on adding a wrapper for the [Linux io_uring interface][0] to my

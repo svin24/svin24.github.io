@@ -1,7 +1,6 @@
 ---
 title: Status update, December 2020
 date: 2020-12-15
-outputs: [html, gemtext]
 ---
 
 Happy holidays! I hope everyone's having a great time staying at home and not

@@ -1,7 +1,6 @@
 ---
 title: Spamtoberfest
 date: 2020-10-01
-outputs: [html, gemtext]
 ---
 
 As I've [written before][0], the best contributors to a FOSS project are

@@ -1,7 +1,6 @@
 ---
 title: A few ways to make money in FOSS
 date: 2020-11-20
-outputs: [html, gemtext]
 ---
 
 I work on free and open-source software full time, and I make a comfortable

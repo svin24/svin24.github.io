@@ -1,7 +1,6 @@
 ---
 title: Status update, September 2021
 date: 2021-09-15
-outputs: [html, gemtext]
 ---
 
 It's a quiet, foggy morning here in Amsterdam, and here with my fresh mug of

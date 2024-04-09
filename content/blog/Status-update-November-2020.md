@@ -1,7 +1,6 @@
 ---
 title: Status update, November 2020
 date: 2020-11-15
-outputs: [html, gemtext]
 ---
 
 Greetings, humanoids! Our fleshy vessels have aged by 2.678×10⁶ seconds, and you

@@ -1,7 +1,6 @@
 ---
 title: Status update, May 2021
 date: 2021-05-16
-outputs: [html, gemtext]
 ---
 
 Hello! This update is a bit late. I was travelling all day yesterday without

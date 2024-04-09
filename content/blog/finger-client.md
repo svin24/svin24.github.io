@@ -1,7 +1,6 @@
 ---
 title: A finger client
 date: 2021-06-24
-outputs: [html, gemtext]
 ---
 
 This is a short follow-up to the [io_uring finger server][0] article posted

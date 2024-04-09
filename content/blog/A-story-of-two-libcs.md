@@ -1,7 +1,6 @@
 ---
 title: A tale of two libcs
 date: 2020-09-25
-outputs: ["html", "gemtext"]
 ---
 
 I received a bug report from Debian today, who had fed some garbage into

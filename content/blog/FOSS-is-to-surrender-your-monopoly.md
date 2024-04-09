@@ -1,7 +1,6 @@
 ---
 title: Open source means surrendering your monopoly over commercial exploitation
 date: 2021-01-20
-outputs: [html, gemtext]
 ---
 
 Participation in open source requires you to surrender your monopoly over

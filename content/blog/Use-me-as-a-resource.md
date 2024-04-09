@@ -1,7 +1,6 @@
 ---
 title: Please use me as a resource
 date: 2021-12-25
-outputs: [html, gemtext]
 ---
 
 I write a lot of blog posts about my ideas,[^1] some of which are even good

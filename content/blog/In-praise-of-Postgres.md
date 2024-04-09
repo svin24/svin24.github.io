@@ -1,7 +1,6 @@
 ---
 title: In praise of PostgreSQL
 date: 2021-08-05
-outputs: [html, gemtext]
 ---
 
 After writing [Praise for Alpine Linux][0], I have decided to continue writing

@@ -1,7 +1,6 @@
 ---
 title: Status update, January 2022
 date: 2022-01-17
-outputs: [html, gemtext]
 ---
 
 Happy New Year! I had a lovely time in Amsterdam. No one had prepared me for the

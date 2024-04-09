@@ -1,7 +1,6 @@
 ---
 title: The corporate surveillance machine is killing people
 date: 2021-03-06
-outputs: [html, gemtext]
 ---
 
 I have never been angrier about the corporate surveillance complex, which I have

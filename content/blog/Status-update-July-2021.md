@@ -1,7 +1,6 @@
 ---
 title: Status update, July 2021
 date: 2021-07-15
-outputs: [html, gemtext]
 ---
 
 Hallo uit Nederland! I'm writing to you from a temporary workstation in

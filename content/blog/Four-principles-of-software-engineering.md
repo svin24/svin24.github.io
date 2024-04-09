@@ -1,7 +1,6 @@
 ---
 title: Four principles of software engineering
 date: 2020-10-09
-outputs: [html, gemtext]
 ---
 
 Software should be **robust**. It should be designed to accommodate all known

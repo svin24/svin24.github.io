@@ -1,7 +1,6 @@
 ---
 title: Status update, November 2021
 date: 2021-11-15
-outputs: [html, gemtext]
 ---
 
 Hello again! Following a spooky month, we find ourselves again considering the

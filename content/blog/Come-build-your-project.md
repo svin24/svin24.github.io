@@ -1,7 +1,6 @@
 ---
 title: Build your project in our new language
 date: 2021-05-30
-outputs: [html, gemtext]
 ---
 
 Do you have a new systems programming project on your todo list? If you're

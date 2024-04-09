@@ -1,7 +1,6 @@
 ---
 title: Pinebook Pro review
 date: 2021-05-14
-outputs: [html, gemtext]
 ---
 
 I received the original Pinebook for free from the good folks at Pine64 a few

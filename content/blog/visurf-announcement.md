@@ -1,7 +1,6 @@
 ---
 title: visurf, a web browser based on NetSurf
 date: 2021-09-11
-outputs: [html, gemtext]
 ---
 
 I've started a new side project that I would like to share with you:

@@ -1,7 +1,6 @@
 ---
 title: Fostering a culture that values stability and reliability
 date: 2021-01-04
-outputs: [html, gemtext]
 ---
 
 There's an idea which encounters a bizarre level of resistance from the broader

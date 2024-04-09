@@ -1,7 +1,6 @@
 ---
 title: A megacorp is not your dream job
 date: 2021-01-01
-outputs: [html, gemtext]
 ---
 
 Megacorporations[^1] *do not* care about you. You're worth nothing to them.

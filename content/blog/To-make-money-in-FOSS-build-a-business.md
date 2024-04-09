@@ -1,7 +1,6 @@
 ---
 title: To make money in FOSS, build a business first
 date: 2021-03-03
-outputs: [html, gemtext]
 ---
 
 I've [written about][0] making money in free and open source software before,

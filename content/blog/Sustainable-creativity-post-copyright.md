@@ -1,7 +1,6 @@
 ---
 title: Sustainable creativity in a world without copyright
 date: 2021-12-23
-outputs: [html, gemtext]
 ---
 
 I don't believe in copyright. I argue that we need to get rid of copyright, or

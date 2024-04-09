@@ -1,7 +1,6 @@
 ---
 date: 2020-12-12
 title: Become shell literate
-outputs: [html, gemtext]
 ---
 
 Shell literacy is one of the most important skills you ought to possess as a

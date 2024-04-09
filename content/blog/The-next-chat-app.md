@@ -1,7 +1,6 @@
 ---
 title: What should the next chat app look like?
 date: 2021-04-07
-outputs: [html, gemtext]
 ---
 
 As you're surely aware, Signal has officially jumped the shark with the

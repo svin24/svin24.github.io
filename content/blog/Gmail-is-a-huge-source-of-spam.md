@@ -1,7 +1,6 @@
 ---
 title: Gmail is a huge source of spam
 date: 2021-02-25
-outputs: [html, gemtext]
 ---
 
 5&times; as many spam registrations on sourcehut are from gmail than from the

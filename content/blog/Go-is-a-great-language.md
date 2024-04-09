@@ -1,7 +1,6 @@
 ---
 title: Go is a great programming language
 date: 2021-04-02
-outputs: [html, gemtext]
 ---
 
 No software is perfect, and thus even for software I find very pleasant, I can

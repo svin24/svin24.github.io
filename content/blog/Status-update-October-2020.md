@@ -1,7 +1,6 @@
 ---
 title: Status update, October 2020
 date: 2020-10-15
-outputs: [html, gemtext]
 ---
 
 I'm writing this month's status update from a brand-new desktop workstation

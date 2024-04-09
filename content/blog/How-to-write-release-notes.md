@@ -1,7 +1,6 @@
 ---
 title: How to write release notes
 date: 2021-05-19
-outputs: [html, gemtext]
 ---
 
 Release notes are a concept most of us are familiar with. When a new software

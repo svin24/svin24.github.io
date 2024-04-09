@@ -1,7 +1,6 @@
 ---
 title: My philosophy for productive instant messaging
 date: 2021-11-24
-outputs: [html, gemtext]
 ---
 
 We use Internet Relay Chat ([IRC][0]) extensively at [sourcehut][1] for

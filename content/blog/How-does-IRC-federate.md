@@ -1,7 +1,6 @@
 ---
 title: How does IRC's federation model compare to ActivityPub?
 date: 2021-07-03
-outputs: [html, gemtext]
 ---
 
 Today's federated revolution is led by ActivityPub, leading to the rise of

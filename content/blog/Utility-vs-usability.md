@@ -1,7 +1,6 @@
 ---
 title: Utility vs usability
 date: 2020-11-06
-outputs: [html, gemtext]
 ---
 
 In many fields, professional-grade tooling requires a high degree of knowledge

@@ -1,7 +1,6 @@
 ---
 title: Please don't use Discord for FOSS projects
 date: 2021-12-28
-outputs: [html, gemtext]
 ---
 
 Six years ago, I wrote a post speaking out against the use of Slack for the

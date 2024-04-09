@@ -1,7 +1,6 @@
 ---
 title: Status update, October 2021
 date: 2021-10-15
-outputs: [html, gemtext]
 ---
 
 On this dreary morning here in Amsterdam, I've made my cup of coffee and

@@ -1,7 +1,6 @@
 ---
 title: Status update, December 2021
 date: 2021-12-15
-outputs: [html, gemtext]
 ---
 
 Greetings! It has been a cold and wet month here in Amsterdam, much like the

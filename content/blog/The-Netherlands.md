@@ -1,7 +1,6 @@
 ---
 title: I will be moving to the Netherlands
 date: 2021-06-07
-outputs: [html, gemtext]
 ---
 
 I had been planning a move to the Netherlands for a while, at least until a
