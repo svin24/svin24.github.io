@@ -1,5 +1,5 @@
-baseURL = "https://drewdevault.com/"
-title = "Drew DeVault's blog"
+baseURL = "https://svin24.github.io"
+title = "svin 🐝"
 pygmentsUseClasses = true
 uglyurls = true
 disablePathToLower = true
