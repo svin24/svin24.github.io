@@ -1,14 +1,27 @@
-$black: #080808;
+$lightbg: #D0D0D0;
+$lightfg: #282828;
+$lightaqua: #427b58;
+// DARK THEME
+$darkbg: #282828;
+$darkfg: #D0D0D0;
+$darkorange: #fe8019;
+
 
 html {
   font-family: sans-serif;
-  color: $black;
+  color: $lightfg;
 }
 
 body {
+  background-color: $lightbg;
+  color: $lightfg;
   max-width: 920px;
   margin: 0 auto;
   padding: 1rem;
+}
+
+a {
+  color: $lightaqua; 
 }
 
 h1 {
@@ -34,7 +47,7 @@ h1 {
 
     .date {
       display: block;
-      color: #333;
+      //color: #333;
     }
   }
 
@@ -213,7 +226,7 @@ pre {
   }
 
   .date {
-    color: black;
+    color: #333;
   }
 }
 
@@ -308,4 +321,17 @@ td.yellow {
 }
 td.blue {
 	background: #CFE2FF;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: $darkbg;
+    color: $darkfg;
+  }
+  span.date, footer {
+    color: $darkfg;
+  }
+  a{
+    color: $darkorange;
+  }
 }
