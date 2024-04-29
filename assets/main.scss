@@ -74,10 +74,27 @@ h1 {
   }
 
   @media(max-width: 640px) {
-    aside {
-      display: none;
+    .content-wrapper {
+      display: flex;
+      flex-direction: column-reverse;
     }
+    aside {
+      display: block;
+      top: 0;
+      width: 100%; 
+
+      margin : 0 auto 1rem;
+    }
+    aside img{
+      float: left;
+      margin: 0 1rem 1rem 0;
+
+    }  
   }
+}
+
+.content-wrapper {
+  display: flex;
 }
 
 article {
