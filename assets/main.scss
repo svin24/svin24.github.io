@@ -66,6 +66,7 @@ h1 {
 
     dd {
       margin-left: 0;
+      font-size: 0.9rem;
 
       &:not(:last-child) {
         margin-bottom: 0.5rem;
@@ -90,7 +91,6 @@ h1 {
       margin: 0 1rem 1rem 0;
     }
     aside dd{
-      font-size:0.9rem;
       word-break:break-all;
     }
   }
