@@ -3,14 +3,34 @@ title: Miscellaneous links
 layout: page
 ---
 
-# Services
+# Cool stuff
 
+- [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
 - [godocs.io](https://godocs.io)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Writing a Game Boy emulator](https://cturt.github.io/cinoop.html)
+- [Krita](https://krita.org/en/)
 
 # Pages
 
-- [Github](https://github.com/svin24)
+- [Luke Smith](https://lukesmith.xyz)
+- [hackaday](https://hackaday.com/)
 
 # University stuff
 
 - [Security Tokens](https://github.com/svin24/Security-Tokens-2021)
+
+# System
+john@envy-x360
+<br>_________
+<br>OS: Fedora Linux x86_64
+<br>Host: HP ENVY x360 Convertible 15-eu0xxx
+<br>DE: KDE Plasma
+<br>WM: KWin (Wayland)
+<br>WM Theme: Breeze
+<br>CPU: AMD Ryzen 7 5700U (16) @ 4,37 GHz
+<br>GPU: AMD Lucienne
+<br>Memory: 14,94 GiB 
+<br>Disk (/): 512GB - xfs
+<br>Disk (/Momiji): 4 TB - xfs
+<br>Disk (/Holo): 1TB - ext4
