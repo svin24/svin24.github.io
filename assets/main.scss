@@ -88,8 +88,11 @@ h1 {
     aside img{
       float: left;
       margin: 0 1rem 1rem 0;
-
-    }  
+    }
+    aside dd{
+      font-size:0.9rem;
+      word-break:break-all;
+    }
   }
 }
 
