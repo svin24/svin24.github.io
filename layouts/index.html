@@ -14,28 +14,6 @@
     {{ end }}
   </section>
 
-  <aside>
-    <img
-      src="https://svin24.github.io/avatar-148.png"
-      alt="Something i took from a wallpaper"
-      width="148" height="148" />
-
-    <div class="text-center">
-      <a class="rss" href="/blog/index.xml">rss</a>
-      ·
-      <a href="misc.html">misc</a>
-    </div>
-
-    <dl class="external-links">
-      <dt>email</dt>
-      <dd><a href="mailto:svin.mail.24@gmail.com">svin.mail.24@gmail.com</a></dd>
-      <dt>github</dt>
-      <dd><a href="https://github.com/svin24">github.com/svin24</a></dd>
-    </dl>
-
-    <small>
-      I am currently in search of a job, if you are interested in anyway,
-      please contact me!
-    </small>
-  </aside>
+  {{ partial "aside.html" . }}
+  
 </main>
