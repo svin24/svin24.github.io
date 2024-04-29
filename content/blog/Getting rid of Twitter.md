@@ -6,9 +6,9 @@ draft: false
 
 I have decided to get rid of my twitter account. It is a place where people go to be unproductive and angry. I don't like feeling unproductive, I don't like feeling angry.
 
-That being said my [artwork account](https://twitter.com/drawingsvin) will stay up.
-
 If people from that account would like to keep in touch with me they are free to communicate with me so I can send them my discord account. Or simply communicate via email.
+
+That being said my [artwork account](https://twitter.com/drawingsvin) will stay up.
 
 Here's some general links:
 
