@@ -348,10 +348,13 @@ td.blue {
     background-color: $darkbg;
     color: $darkfg;
   }
+  pre{
+    background-color: #232323;
+  }
   span.date, footer {
     color: $darkfg;
   }
-  a{
+  a {
     color: $darkorange;
   }
 }
