@@ -343,6 +343,10 @@ td.blue {
 	background: #CFE2FF;
 }
 
+.custom-color{
+  color: $lightaqua; 
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: $darkbg;
@@ -355,6 +359,9 @@ td.blue {
     color: $darkfg;
   }
   a {
+    color: $darkorange;
+  }
+  .custom-color{
     color: $darkorange;
   }
 }
