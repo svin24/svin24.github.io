@@ -30,7 +30,7 @@ Prime example I like using: KDE Plasma 5.27 on Debian 12 - which specifically us
 
 I am not saying Debian should push Plasma 6 on Debian 12. However I am saying that they should probably push the latest bugfix of the desktops they decided to ship on their stable channel to minimize instability.
 
-<small> _**Sidenote:** It doesn't seem like this issue has affected GNOME because GNOME 43 was already on its 10th bugfix by the time desktop packages froze for Debian 12.</small>
+<small> **Sidenote:** It doesn't seem like this issue has affected GNOME because GNOME 43 was already on its 10th bugfix by the time desktop packages froze for Debian 12.</small>
 
 Now debian recommends you send bug fix requests directly to them before upstream, that is good! Distros should be those that handle bugs like this, howevever as we said before using the mailing list is a pain for most users, - They would rather just go to the KDE bugzilla or the GNOME gitlab!
 
