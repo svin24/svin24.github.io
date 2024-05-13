@@ -16,7 +16,7 @@ This is a list of **personal** grievances. What **I** consider to be issues, you
 
 Debian currently uses mailing lists. There is nothing wrong inherently with using mailing lists, except from the fact that no one knows how to use them, this is not an age thing, this is simply a _no one cares to use such a thing_ issue. This is fine for Kernel dev since it actively wants to filter low effort spam, but debian doesn't/shouldn't want to do that at least for most cases. Browser front ends for mailing lists exist that make the experience much easier, and Debian should consider those. 
 
-<small>**Alternative Solution:** Maybe set up a bugzilla instance.</small>
+<small>***Alternative Solution:** Maybe set up a bugzilla instance.*</small>
 
 The same could also be said about forums (which currently use phpBB). But I know there are many people who like it. And frankly looking around I am not really liking any piece of forum software that currently exists either(discourse is not my favorite either).
 
