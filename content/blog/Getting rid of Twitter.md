@@ -1,7 +1,7 @@
 ---
 title: "Getting rid of Twitter, and Social media detoxing."
 date: 2024-04-29T11:49:39+03:00
-draft: false
+draft: true
 ---
 
 I have decided to get rid of my twitter account. It is a place where people go to be unproductive and angry. I don't like feeling unproductive, I don't like feeling angry.
