@@ -25,13 +25,12 @@ layout: page
 - [Security Tokens](https://github.com/svin24/Security-Tokens-2021)
 
 # System
-<b class="custom-color">john@envy-x360</b>
+<b class="custom-color">john@holobook</b>
 <br><b class="custom-color">------------------------</b>
-<br><b class="custom-color">OS:</b> Fedora Linux x86_64
-<br><b class="custom-color">Host:</b> HP ENVY x360 Convertible 15
-<br><b class="custom-color">DE:</b> KDE Plasma
-<br><b class="custom-color">WM:</b> KWin (Wayland)
-<br><b class="custom-color">WM Theme:</b> Breeze
+<br><b class="custom-color">OS:</b> Debian GNU/Linux trixie x86_64
+<br><b class="custom-color">Host:</b> HP ENVY x360 Convertible 15-eu0xxx
+<br><b class="custom-color">WM:</b> Hyprland
+<br><b class="custom-color">WM Theme:</b> Breeze(forced to Nord)
 <br><b class="custom-color">CPU:</b> AMD Ryzen 7 5700U
 <br><b class="custom-color">GPU:</b> AMD Lucienne
 <br><b class="custom-color">Memory:</b> 14,94 GiB 
