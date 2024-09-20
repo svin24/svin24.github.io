@@ -4,7 +4,7 @@
 <title>{{.Title}}</title>
 {{ $style := resources.Get "main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-
 <main>
+    <p>test</p>
   {{.Content}}
 </main>

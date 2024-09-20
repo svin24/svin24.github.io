@@ -1,5 +1,6 @@
 {{ partial "head.html" . }}
 
+
 <h1>
   {{$.Title}}
   <small>
@@ -10,6 +11,7 @@
 </h1>
 
 <main>
+  {{ partial "oneko.html" }}
   <article>
     {{.Content}}
   </article>
