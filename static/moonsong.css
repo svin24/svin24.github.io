@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* ---- CLOUD ANIMATION ---- */
+.su ul { padding:0 0 0 20px; margin:0; }
+.cloudl,.dragonl { position:absolute; top:0; left:0; }
+.cloud1,.cloud2,.cloud3,.cloud4,.dragon { width:561px; overflow:hidden; position:absolute; left:0; }
+.cloudl { width:561px; background-repeat:repeat-x; }
+.cloud1,.cloud1 .cloudl { height:40px; }
+.cloud1 .cloudl { background-image: url(images/cloud1culling.gif); }
+.cloud2,.cloud2 .cloudl { height:30px; }
+.cloud2 .cloudl { background-image: url(images/cloud2.gif); }
+.cloud3,.cloud3 .cloudl { height:23px; }
+.cloud3 .cloudl { background-image: url(images/cloud3.gif); }
+.cloud4,.cloud4 .cloudl { height:35px; }
+.cloud4 .cloudl { background-image: url(images/cloud4.gif); }
+.killreflow2 { position:relative; left:0; top:0; height: 252px; width:561px; background-image:url(images/cloudbackwide.png); background-position:left top; background-repeat:repeat-x; }
+.cloud1 { top:176px; z-index:5; }
+.cloud2 { top:146px; z-index:6; }
+.cloud3 { top:123px; z-index:7; }
+.cloud4 { top:88px; z-index:8; }
+.dragon { top:35px; left:100px; z-index:9; height:49px; width:40px; }
+.dragonl { background-image:url(images/dragonstaticnt.gif); background-repeat: no-repeat; background-position: left top; width:40px; height:36px; top:13px; text-align:left; }
+.dragonwc { padding:12px 0 0 7px; }
+.dragonwcni { background-image:url(images/dragonwing3.gif); background-position:left top; width:6px; height:16px; }
+.dragonwingn { left:7px; position:absolute; top:25px; width:6px; height:16px; }
+.killreflow2 img { vertical-align:bottom; }
+.adbs { position:relative; }
+.adbl,.adbr { width:50%; height:172px; }
+.adbl,.adbli { background-color:#8C4B41; }
+.adbs a, .adbs span { display:block; }
+.adbr { background-image:url(images/ame-shirt-4.png); background-position:left top; }
+.adbr a { display:block; height:100%; text-align:right; }
+.adbr span { padding:4px; font-family:"Century Gothic",CenturyGothic,"Century-Gothic",AppleGothic,sans-serif; font-size:18px; color:#FFF; background:#25578D; width:80px; text-align:center; margin:0 0 0 auto; }
+.adbl,.adbl a span { background-image:url(images/keroad14.png); background-repeat:repeat-x; }
+.adbl a span span { background-image:none; }
+.adbl { text-align:right; background-position:center bottom; position:relative; }
+.adbr,.adbli { position:absolute; top:0; right:0; overflow:hidden; }
+.adbli { width:70%; height:28px; }
+.adbl a { width:120px; border:1px solid #666; background-color:#211400; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; max-width:100%; margin:0 auto; padding:4px 0; cursor:pointer; cursor:hand; }
+.adbl a:hover { background-color:#35251E; }
+.adbl a span { width:98px; height:31px; margin:0 auto; overflow:hidden; }
+.adbl a span span,.adbli span { width:auto; height:auto; padding-top:30px; }
+.adbbl,.adbbr,.adbbc { position:absolute; width:33%; bottom:19px; text-align:center; }
+.adbs,.adbr img,.adbbc { width:100%; }
+.adbbl { left:0; }
+.adbbr,.adbbc { right:0; }
+.adbbl span { background-position:274px 0; }
+.adbbc span { background-position:176px 0; }
+.adbbr span { background-position:86px 0; }
+.contentms { padding:12px 12px 0; word-wrap:break-word; overflow-wrap:break-word; text-align:left; }
+.contentms h1 { margin:0; }
+.msf { margin-top:0; }
+@media only screen and (max-width:940px) {
+	.adbbl,.adbbr,.adbbc { width:50%; bottom:10px; }
+	.adbbc { bottom:60px; }
+	.killreflow2,.cloud1,.cloud2,.cloud3,.cloud4 { width:100%; }
+	.cloudl { width:960px; }
+	.su h3 { margin:0; padding:4px 0; }
+	.su li { padding:0; }
+}
+@media only screen and (max-width:640px) {
+	.killreflow2 { max-width:100%; overflow:hidden; }
+}
+@media only screen and (max-width:500px) {
+	.adbl a { width:108px; }
+}
+@media only screen and (max-width:450px) {
+	.adbl,.adbr { width:100%; position:relative; }
+	.adbbl,.adbbr,.adbbc { width:33%; bottom:19px; }
+	.adbbc { width:100%; }
+}
+@media only screen and (max-width:350px) {
+	.adbbl,.adbbr,.adbbc { width:50%; bottom:10px; }
+	.adbbc { bottom:60px; }
+}
+@media only screen and (max-width:250px) {
+	.adbli { width:100%; }
+	.adbbl { left:auto; right:0; bottom:72px; }
+	.adbbc { bottom:38px; }
+	.adbbr { bottom:4px; }
+	.adbl a { padding:0; }
+	.adbbl,.adbbr,.adbbc { width:108px; }
+}
+@media print {
+	#moonsong,.adbs { display:none; }
+}
