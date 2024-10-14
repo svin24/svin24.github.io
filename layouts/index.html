@@ -3,7 +3,7 @@
 <main class="index">
   {{ partial "oneko.html" }}
   <div class = "content-wrapper">
-  <section class="article-list">
+    <section class="article-list">
     <h1>{{$.Title}}</h1>
 
     {{ range (where (where .Site.RegularPages "Section" "blog") "Params.nohtml" "!=" "true") }}
