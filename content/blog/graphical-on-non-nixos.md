@@ -1,76 +1,90 @@
 ---
-title: "Graphical nix applictions on non NixOS systems"
+title: "Graphical Nix applications on non-NixOS systems"
 date: 2025-12-21
-draft: true
+draft: false
 ---
 
-This is a nice easy guide on setting up Nix on a non Nix system with graphical application support.
+This is a simple, beginner-friendly guide on setting up Nix on a non-NixOS system with graphical application support.
 
-The reason why you might want to do this is because you might want to make use of the large nix repositories on your system without installing
-untrusted third party repositories which could do damage to your system 
+The main reason you might want to do this is to take advantage of the large Nix package repositories without installing
+untrusted third-party repositories that could potentially damage your system.
 
-<small>*note that you could also do damage to your system via Nix but let's ignore that for now*</small>
+<small>*Note: you could also do damage to your system via Nix—but let’s ignore that for now.*</small>
 
 ## Requirements
 
-- A distro with systemd
-- Not having an nvidia GPU(nvidia instructions are a bit more complicated)
+- A Linux distribution using systemd
+- No NVIDIA GPU (NVIDIA instructions are a bit more complicated)
 
-# Installing and setting up nix.
+## Installing and setting up Nix
 
-While you could go with your distributions' nix package I recommend installing determinate nix because it provides us with flakes by default.
-This is largely up to your preferences.
+While you *could* use your distribution’s Nix package, I recommend installing **Determinate Nix**, as it enables flakes by default.
+That said, this choice ultimately comes down to personal preference.
 
-`curl -fsSL https://install.determinate.systems/nix | sh -s -- install`
+```sh
+curl -fsSL https://install.determinate.systems/nix | sh -s -- install
+```
 
-<small>side note: if you are using SDDM make sure to limit the maximum user UID to 2000 or something because by default it's set to 60000 and this installer will create a bunch of users.</small>
+<small>
+Side note: if you are using SDDM, make sure to limit the maximum user UID to something like 2000.
+By default it is set to 60000, and this installer will create a large number of users.
+</small>
 
-You can immediately run this script file or create a new terminal, you should have access to the `nix` command
+You can either restart your terminal or source the following script to immediately gain access to the `nix` command:
 
-`. /nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh`
+```sh
+. /nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh
+```
 
-# Set up Home Manager
+## Setting up Home Manager
 
-Create a folder, (I named mine hm) this is where your personal home-manager flake configuration will live.
-Inside of said folder run the following:
+Create a directory (I named mine `hm`) where your personal Home Manager flake configuration will live.
+Inside that directory, run:
 
-`nix run nixpkgs#home-manager init .`
+```sh
+nix run nixpkgs#home-manager init .
+```
 
-This will create a flake.nix and home.nix file
+This will create both a `flake.nix` and a `home.nix` file.
 
-Now by build the configuration:
+Now build and apply the configuration:
 
-`nix run nixpkgs#home-manager -- switch --flake .`
+```sh
+nix run nixpkgs#home-manager -- switch --flake .
+```
 
-<small>note: by running this command from now on you will have home-manager directly accessible in your path. this is due to the `programs.home-manager.enable = true;` option in your home.nix configuration. </small>
+<small>
+Note: after running this command, `home-manager` will be directly accessible in your PATH.
+This is due to the `programs.home-manager.enable = true;` option in your `home.nix` configuration.
+</small>
 
-** If you do not want to set up graphical Nix apps in your non Nix Distro you can stop here **
+**If you do not want to set up graphical Nix applications on your non-NixOS system, you can stop here.**
 
-# Setting up graphical Nix apps on your non-Nix system.
+## Setting up graphical Nix applications on a non-NixOS system
 
-edit the home.nix file and add the following options
+Edit your `home.nix` file and add the following options:
 
 ```nix
 targets.genericLinux.enable = true;
 targets.genericLinux.gpu.enable = true;
 ```
 
-Ignoring all the comments the file should look like this:
+Ignoring comments, your file should look roughly like this:
 
 ```nix
 { config, pkgs, ... }:
 
 {
-	targets.genericLinux.enable = true;
-	targets.genericLinux.gpu.enable = true;
-  
+  targets.genericLinux.enable = true;
+  targets.genericLinux.gpu.enable = true;
+
   home.username = "username";
   home.homeDirectory = "/home/username";
 
-  home.stateVersion = "25.11"; 
+  home.stateVersion = "25.11";
 
   home.packages = [
-	];
+  ];
 
   home.file = {
   };
@@ -82,17 +96,35 @@ Ignoring all the comments the file should look like this:
 }
 ```
 
-At this point, you can even add a graphical application in your `home.packages` option like `pkgs.foot` for the foot terminal.
+At this point, you can add a graphical application to `home.packages`, such as `pkgs.foot` for the Foot terminal.
 
-Rebuild your configuration by running:
+Rebuild your configuration:
 
-`home-manager switch --flake .`
+```sh
+home-manager switch --flake .
+```
 
-Finally enable the systemd service for non-nixOS gpus:
+Finally, enable the systemd service required for non-NixOS GPU support:
 
+```sh
 sudo /nix/store/*-non-nixos-gpu/bin/non-nixos-gpu-setup
+```
 
 You should only need to run this once.
 
-It might be that at this point you will immediately be able to run GUI apps. But just in case Reboot.
+At this point, graphical applications may already work. If not, reboot your system to be safe.
 
+## Additional options for desktop integration
+
+* Add `xdg.enable = true;` to help generate desktop entries.
+* After installing applications, it may be helpful to run `update-desktop-database`.
+
+The first time you set this up, you may need to restart your desktop session.
+After that, it should no longer be necessary.
+
+## NVIDIA (proprietary drivers)
+
+If you are using proprietary NVIDIA drivers, refer to the official
+[Home Manager GPU configuration guide](https://nix-community.github.io/home-manager/index.xhtml#sec-usage-gpu-non-nixos).
+
+The process is significantly more involved.
